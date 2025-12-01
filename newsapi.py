@@ -673,9 +673,9 @@ if(age>60*60*5*0):
 '''
 inqRandomNews()
 
-keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/gensChuchoter/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'en', 9)
-keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIsComing/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'en', 9)
-keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'en', 9)
+keywordsDF = addNewNames('https://raw.githubusercontent.com/JoPhi24-news/gensChuchoter/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'en', 9)
+keywordsDF = addNewNames('https://raw.githubusercontent.com/JoPhi24-news/leuteFluesterer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'en', 9)
+keywordsDF = addNewNames('https://raw.githubusercontent.com/JoPhi24-news/peopleWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'en', 9)
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.07)]
