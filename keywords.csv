@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ghislaine Maxwell',en,unknown,#111111,#111111,2,0.600951458407
 'Larry Summers',en,unknown,#111111,#111111,2,0.600803547726
 'Usha Vance',en,unknown,#111111,#111111,3,0.596812182835
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.583368102852
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.579408873282
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.572910222953
 'Bill Maher',en,unknown,#111111,#111111,3,0.568892843983
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.535961371536
@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',en,unknown,#111111,#111111,2,0.506191539196
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.492611085551
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.496496110806
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.494670293967
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.491485592750
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.489703639927
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.488792054609
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
