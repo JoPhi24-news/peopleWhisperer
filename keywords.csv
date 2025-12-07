@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.536525660627
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.531270503049
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521238603298
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.532987909436
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521832184942
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
 'Bill Maher',en,unknown,#111111,#111111,3,0.511800302386
 'Ciryl Gane',en,unknown,#111111,#111111,3,0.510558690010
@@ -10,7 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
-'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.496479764510
+'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497122781413
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.496552241533
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.492973315715
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.492790275600
@@ -99,10 +99,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.449024196868
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.448410385735
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.447545006692
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.447301771274
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.446900603869
