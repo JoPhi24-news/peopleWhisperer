@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.532987909436
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521832184942
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.523015801168
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
 'Bill Maher',en,unknown,#111111,#111111,3,0.511800302386
 'Ciryl Gane',en,unknown,#111111,#111111,3,0.510558690010
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477012068267
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.476469342335
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.476237631202
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
@@ -753,8 +753,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vucic',en,Serbien,#88cc44,#88cc44,3,0.200076424780
 'Salvador Dali',en,Spanien,#9933aa,#9933aa,1,0.199405090395
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.198951196753
+'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.197750449535
 'Joko Widodo',en,Indonesien,#aa33dd,#aa33dd,3,0.197364917723
-'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.196595490945
 'Paul Kagame',en,Ruanda,#33ddaa,#33ddaa,2,0.195934635817
 'Thierry Breton',en,EU,#4488cc,#4488cc,3,0.195529511703
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.195206087252
