@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Della Maddalena',en,unknown,#111111,#111111,2,0.603740436179
 'Nancy Pelosi',en,unknown,#111111,#111111,2,0.601911366042
 'Joy Reid',en,unknown,#111111,#111111,2,0.601404105910
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.597447234405
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.584669047782
+'Jack Della Maddalena',en,unknown,#111111,#111111,2,0.571061267204
 'Larry David',en,unknown,#111111,#111111,2,0.558125694841
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.546674241863
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.473659047514
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.470921845245
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.470692230613
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
@@ -58,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.468418219851
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.467484515901
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.467431022580
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
@@ -408,13 +408,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.386723190736
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.386544027344
 'Hailey Van Lith',en,USA,#18e8e8,#18e8e8,2,0.386505347677
+'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.386411487596
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.386347199924
 'Fani Willis',en,USA,#18e8e8,#18e8e8,3,0.385693278173
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.385680741526
 'Andrea Arnold',en,UK,#e838e8,#e838e8,2,0.385671814280
 'Lance Bass',en,USA,#18e8e8,#18e8e8,1,0.385648705276
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.385593741134
-'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.385551676566
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.385005155955
 'Kim Reynolds',en,USA,#18e8e8,#18e8e8,3,0.384941470179
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.384905078928
