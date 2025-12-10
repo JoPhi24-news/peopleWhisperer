@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nancy Pelosi',en,unknown,#111111,#111111,3,0.616580946136
 'Joy Reid',en,unknown,#111111,#111111,2,0.601404105910
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.597891566027
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.584669047782
 'Jack Della Maddalena',en,unknown,#111111,#111111,2,0.571061267204
 'Larry David',en,unknown,#111111,#111111,2,0.558125694841
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.550453265953
+'Nancy Pelosi',en,unknown,#111111,#111111,3,0.538140653307
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
 'Bill Maher',en,unknown,#111111,#111111,3,0.511800302386
 'Ciryl Gane',en,unknown,#111111,#111111,3,0.510558690010
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497122781413
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.496552241533
-'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.494919488537
+'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.496210465866
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.492790275600
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.484849930761
