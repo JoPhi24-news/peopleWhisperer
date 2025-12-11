@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.597891566027
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.597732506123
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.584669047782
 'Jack Della Maddalena',en,unknown,#111111,#111111,2,0.571061267204
 'Larry David',en,unknown,#111111,#111111,2,0.558125694841
 'Joy Reid',en,unknown,#111111,#111111,3,0.557053825933
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.550988872163
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.556811334385
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.538140653307
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
 'Bill Maher',en,unknown,#111111,#111111,3,0.511800302386
@@ -57,8 +57,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.468564704256
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.468418219851
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.468185356134
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.467484515901
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
@@ -260,6 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.410215496316
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.409872069670
 'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.409825278376
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.409498608275
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.409471443387
@@ -280,7 +281,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Massa',en,Albanien,#77ffcc,#77ffcc,1,0.407026720786
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.406844651610
 'Geert Wilders',en,Niederlande,#6622bb,#6622bb,2,0.406772973114
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.406601630614
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.406575647130
 'Greg Brockman',en,USA,#18e8e8,#18e8e8,1,0.406212830739
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.406019914391
