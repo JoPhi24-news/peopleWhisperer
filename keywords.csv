@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.527578343873
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.527360306532
 'Larry David',en,unknown,#111111,#111111,3,0.526093225615
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.473401942292
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.472999715910
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.471386691346
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
