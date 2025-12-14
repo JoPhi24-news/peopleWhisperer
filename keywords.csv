@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joy Reid',en,unknown,#111111,#111111,3,0.542083390679
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.538140653307
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.527360306532
 'Larry David',en,unknown,#111111,#111111,3,0.526093225615
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.481828909841
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.480317764668
+'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
