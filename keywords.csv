@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.520062748626
+'Bruna Ferreira',en,unknown,#111111,#111111,2,0.606023801829
+'Islam Makhachev',en,unknown,#111111,#111111,2,0.605256540597
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.516919854856
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.515556269251
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.514325637661
@@ -10,6 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',en,unknown,#111111,#111111,2,0.506191539196
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.503256941031
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
+'Steve Witkoff',en,unknown,#111111,#111111,2,0.502371131466
+'Nicolas Maduro',en,unknown,#111111,#111111,2,0.501465087136
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.500491144904
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
@@ -22,13 +25,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.486844672183
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483010833505
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.482198684404
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.482197706145
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.480317764668
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
@@ -38,9 +41,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.476405050274
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.475465029394
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.474989631332
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.473689583859
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.473401942292
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.471386691346
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
@@ -182,9 +186,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.426163382946
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.425985382710
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.425201301441
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
@@ -505,11 +509,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.364709459196
+'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
 'Jim Jordan',en,unknown,#111111,#111111,3,0.364301783244
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.364213702129
 'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.364051790726
-'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.363751027256
 'Roger Federer',en,unknown,#111111,#111111,3,0.363412792318
 'Mary Robinson',en,unknown,#111111,#111111,3,0.363299736172
 'Fabien Roussel',en,unknown,#111111,#111111,1,0.363151328421
