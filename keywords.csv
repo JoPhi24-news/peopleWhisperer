@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bruna Ferreira',en,unknown,#111111,#111111,3,0.535315410330
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.520454862677
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.521643964391
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.516919854856
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.515556269251
 'Bill Maher',en,unknown,#111111,#111111,3,0.512412714778
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.465479839289
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
+'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.463372158984
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.463346504602
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.463214185324
