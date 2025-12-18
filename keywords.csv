@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Maher',en,unknown,#111111,#111111,3,0.512412714778
 'Ciryl Gane',en,unknown,#111111,#111111,3,0.510558690010
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.510112432693
 'Kamel Daoud',en,unknown,#111111,#111111,2,0.508454835676
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.484349322314
+'Bill Maher',en,unknown,#111111,#111111,3,0.483752359658
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.482869241212
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
@@ -440,6 +440,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381098931904
+'Nikki Glaser',en,unknown,#111111,#111111,1,0.380648312922
 'Peyton Manning',en,unknown,#111111,#111111,3,0.380459354945
 'Sam Bankman-Fried',en,unknown,#111111,#111111,2,0.380371643238
 'Gisele Bundchen',en,unknown,#111111,#111111,2,0.380271200903
@@ -449,7 +450,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lana Del Rey',en,unknown,#111111,#111111,3,0.379302272690
 'Jason Whitlock',en,unknown,#111111,#111111,2,0.379008627582
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,3,0.378945893901
-'Nikki Glaser',en,unknown,#111111,#111111,1,0.378905535707
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.378838594409
 'Juliette Binoche',en,unknown,#111111,#111111,1,0.378769568064
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.378621035670
