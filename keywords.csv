@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Francis Ngannou',en,unknown,#111111,#111111,3,0.522724658863
 'Bill Maher',en,unknown,#111111,#111111,3,0.512412714778
 'Ciryl Gane',en,unknown,#111111,#111111,3,0.510558690010
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.510112432693
 'Kamel Daoud',en,unknown,#111111,#111111,2,0.508454835676
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.508222374934
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.507919734732
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.507014986050
 'Affaire Epstein',en,unknown,#111111,#111111,2,0.506469528900
 'prince Andrew',en,unknown,#111111,#111111,2,0.506191539196
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.482198684404
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
+'Francis Ngannou',en,unknown,#111111,#111111,3,0.481086016852
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.479836880653
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
@@ -603,11 +603,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.320288094446
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.320008709520
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.318598052379
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.317874261625
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.315495957940
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.314502033108
 'Kemal Kiliçdaroglu',en,Türkei,#66bb22,#66bb22,1,0.314287382310
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.312884145333
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.311956662287
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.310447548010
 'Mareike Fallwickl',en,unknown,#111111,#111111,1,0.310132331216
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.309932752330
