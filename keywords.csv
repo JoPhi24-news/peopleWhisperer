@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.516808181621
 'Kamel Daoud',en,unknown,#111111,#111111,2,0.508454835676
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.508222374934
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.507919734732
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.462193733028
 'Larry David',en,unknown,#111111,#111111,3,0.461945226875
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.461798721095
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.461780915806
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.461413203663
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.461388136158
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
@@ -581,8 +581,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.339185829569
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.339089295582
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.338293540579
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.338117625842
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.336624001870
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.336221103679
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.334954695939
 'Oleksandr Usyk',en,unknown,#111111,#111111,2,0.333997144971
 'Sarah Stier',en,unknown,#111111,#111111,3,0.331755407251
