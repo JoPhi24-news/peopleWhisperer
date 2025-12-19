@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ciryl Gane',en,unknown,#111111,#111111,3,0.510558690010
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.510112432693
 'Kamel Daoud',en,unknown,#111111,#111111,2,0.508454835676
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.508222374934
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
+'Ciryl Gane',en,unknown,#111111,#111111,2,0.433975876508
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
