@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kamel Daoud',en,unknown,#111111,#111111,2,0.508454835676
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.508222374934
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.507919734732
 'Affaire Epstein',en,unknown,#111111,#111111,2,0.506469528900
@@ -162,6 +161,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.432250407848
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.432229123809
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
+'Kamel Daoud',en,unknown,#111111,#111111,1,0.432186640325
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.431236257148
