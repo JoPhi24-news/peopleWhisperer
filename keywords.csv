@@ -1,5 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'prince Andrew',en,unknown,#111111,#111111,3,0.503126096218
+'Arman Tsarukyan',en,unknown,#111111,#111111,2,0.608826227718
+'Ilia Topuria',en,unknown,#111111,#111111,2,0.607815192627
+'Daniel Cormier',en,unknown,#111111,#111111,2,0.607797172339
+'Kamaru Usman',en,unknown,#111111,#111111,2,0.606721738209
+'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.606720743608
+'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.603224244275
+'Prince Philip',en,unknown,#111111,#111111,2,0.601998567598
+'Belal Muhammad',en,unknown,#111111,#111111,2,0.601141280661
+'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501823781547
@@ -13,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.494089751483
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.489803023608
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.488297677058
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.488957037054
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.486844672183
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.486207836867
@@ -28,8 +36,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.481188019858
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481086016852
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.480190720791
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.479762358674
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.479084614763
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
@@ -129,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443083154139
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
+'prince Andrew',en,unknown,#111111,#111111,3,0.442166601785
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440919217641
