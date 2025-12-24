@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.606720743608
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.603224244275
 'Belal Muhammad',en,unknown,#111111,#111111,2,0.602450718740
 'Prince Philip',en,unknown,#111111,#111111,2,0.601998567598
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.555743724632
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.545926476443
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.545213940132
+'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.534575777067
 'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
@@ -45,8 +45,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.476405050274
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.475135658658
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.473070595886
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.471386691346
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
