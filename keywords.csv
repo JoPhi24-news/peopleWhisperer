@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.603224244275
 'Belal Muhammad',en,unknown,#111111,#111111,2,0.602450718740
 'Prince Philip',en,unknown,#111111,#111111,2,0.601998567598
 'Ilia Topuria',en,unknown,#111111,#111111,2,0.592561302958
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.545926476443
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.545213940132
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.534575777067
+'Valentina Shevchenko',en,unknown,#111111,#111111,1,0.512740982634
 'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
