@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Belal Muhammad',en,unknown,#111111,#111111,3,0.585214795160
 'Prince Philip',en,unknown,#111111,#111111,3,0.563374907458
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.557316180134
-'Ilia Topuria',en,unknown,#111111,#111111,2,0.551415943874
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.558359338342
+'Belal Muhammad',en,unknown,#111111,#111111,3,0.557075603578
+'Ilia Topuria',en,unknown,#111111,#111111,2,0.551949651460
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.549715778126
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.545213940132
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.534575777067
@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.489615080440
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.488208814012
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.486844672183
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.486222274656
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.486207836867
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
