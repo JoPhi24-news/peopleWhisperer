@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prince Philip',en,unknown,#111111,#111111,3,0.563374907458
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.558359338342
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.557075603578
 'Ilia Topuria',en,unknown,#111111,#111111,2,0.551949651460
@@ -10,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501823781547
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.502456121239
 'Nicolas Maduro',en,unknown,#111111,#111111,2,0.501465087136
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.501025462768
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.498137275929
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497122781413
+'Prince Philip',en,unknown,#111111,#111111,3,0.496886463006
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.494737543169
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
@@ -393,9 +393,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.392398657295
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Narendra Modi',en,Indien,#cc3388,#cc3388,3,0.391162208881
+'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.391161095968
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
 'Francis Ford Coppola',en,USA,#18e8e8,#18e8e8,3,0.390419987433
-'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.390310214155
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.390081873599
 'Chris Stapleton',en,USA,#18e8e8,#18e8e8,3,0.389966375935
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.389965941337
