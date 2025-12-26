@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Cormier',en,unknown,#111111,#111111,2,0.545213940132
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.534575777067
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.519374013950
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.514714909998
@@ -26,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.486844672183
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.486207836867
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.484542355438
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.485209212035
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Bill Maher',en,unknown,#111111,#111111,3,0.483752359658
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.482869241212
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
+'Daniel Cormier',en,unknown,#111111,#111111,2,0.482019262749
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481086016852
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.480438751186
@@ -71,8 +71,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.466032771212
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.465327645013
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
@@ -264,11 +264,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',en,USA,#18e8e8,#18e8e8,3,0.411768921892
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230017
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.411734515864
 'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.411626420588
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
 'Bill Belichick',en,USA,#18e8e8,#18e8e8,3,0.411461096951
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.410922838515
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.410793217041
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
@@ -581,9 +581,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',en,unknown,#111111,#111111,3,0.344133652966
 'Kyle Pope',en,unknown,#111111,#111111,1,0.344089821383
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.343767511898
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.343084682691
 'Matt Lauer',en,unknown,#111111,#111111,1,0.343063462255
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.342829996369
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.341333646720
 'Maya Rudolph',en,unknown,#111111,#111111,2,0.341315483435
 'Jan Lipavský',en,Tschechien,#bb33ff,#bb33ff,1,0.341018416648
