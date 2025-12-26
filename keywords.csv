@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Belal Muhammad',en,unknown,#111111,#111111,3,0.557075603578
 'Ilia Topuria',en,unknown,#111111,#111111,2,0.553013912419
-'Kamaru Usman',en,unknown,#111111,#111111,3,0.549715778126
+'Kamaru Usman',en,unknown,#111111,#111111,3,0.550252839458
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.545213940132
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.534575777067
+'Belal Muhammad',en,unknown,#111111,#111111,3,0.519374013950
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.514107102591
 'Valentina Shevchenko',en,unknown,#111111,#111111,1,0.512740982634
 'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
@@ -72,10 +72,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.464621115526
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.463913180303
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.463346504602
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.463214185324
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.462998267004
@@ -583,10 +583,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.343084682691
 'Matt Lauer',en,unknown,#111111,#111111,1,0.343063462255
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.341890828319
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.341333646720
 'Maya Rudolph',en,unknown,#111111,#111111,2,0.341315483435
 'Jan Lipavský',en,Tschechien,#bb33ff,#bb33ff,1,0.341018416648
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.340007533587
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.339482550535
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.339185829569
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.339089295582
