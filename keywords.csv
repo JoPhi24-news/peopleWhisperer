@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.534575777067
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.519374013950
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.514714909998
 'Ilia Topuria',en,unknown,#111111,#111111,2,0.513424712976
@@ -42,10 +41,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477012068267
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.476505520966
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.476405050274
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.475135658658
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.471386691346
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
+'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.463346504602
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.463214185324
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.462998267004
