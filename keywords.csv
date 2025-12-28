@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Valentina Shevchenko',en,unknown,#111111,#111111,1,0.512740982634
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.509545914211
 'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
+'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
