@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keir Starmer',en,unknown,#111111,#111111,2,0.508983825432
-'Steve Witkoff',en,unknown,#111111,#111111,2,0.503002377584
+'Keir Starmer',en,unknown,#111111,#111111,3,0.506496673760
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.504345570232
+'Steve Witkoff',en,unknown,#111111,#111111,2,0.503632362527
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.502456121239
 'Nicolas Maduro',en,unknown,#111111,#111111,2,0.501465087136
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.501025462768
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
@@ -130,8 +130,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
+'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.444707017860
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
-'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.443959631635
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443893275380
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443083154139
@@ -195,8 +195,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.426181927402
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.426163382946
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.425398228932
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
@@ -568,9 +568,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.353522614300
 'Kristen Wiig',en,unknown,#111111,#111111,3,0.353126035652
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.352596858875
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,1,0.350870077476
 'Johan Rockström',en,unknown,#111111,#111111,1,0.349991015470
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.349826434689
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.349403845820
 'King Charles',en,UK,#e838e8,#e838e8,3,0.349001149547
 'Christian Günther',en,unknown,#111111,#111111,1,0.347624138038
