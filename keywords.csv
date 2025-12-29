@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.504345570232
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.511174269536
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503632362527
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
 'Nicolas Maduro',en,unknown,#111111,#111111,2,0.501465087136
@@ -133,8 +133,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.444707017860
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443893275380
+'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443832264461
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
-'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443083154139
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'prince Andrew',en,unknown,#111111,#111111,3,0.442166601785
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.416311272107
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.416120812153
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.415762490320
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
 'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.415562666203
 'Gigi Hadid',en,USA,#18e8e8,#18e8e8,3,0.415034072696
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.414958579662
 'Reed Richards',en,USA,#18e8e8,#18e8e8,3,0.414813802932
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.414730843241
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.414686576757
@@ -776,8 +776,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',en,Spanien,#9933aa,#9933aa,1,0.199405090395
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.198951196753
 'Joko Widodo',en,Indonesien,#aa33dd,#aa33dd,3,0.197364917723
+'Thierry Breton',en,EU,#4488cc,#4488cc,3,0.196685704436
 'Paul Kagame',en,Ruanda,#33ddaa,#33ddaa,2,0.195934635817
-'Thierry Breton',en,EU,#4488cc,#4488cc,3,0.195529511703
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.195206087252
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,3,0.194083115373
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.192485300784
