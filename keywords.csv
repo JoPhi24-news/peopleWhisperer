@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Windsor',en,unknown,#111111,#111111,3,0.648293200772
+'Andrew Windsor',en,unknown,#111111,#111111,3,0.670555730656
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.548909277344
 'Paddy Pimblett',en,unknown,#111111,#111111,2,0.544515801699
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.542808261158
 'Dan Hooker',en,unknown,#111111,#111111,3,0.525720630636
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.511885746298
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.506685491943
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.511631827824
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.505019747973
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503632362527
 'Thomas Müller',en,unknown,#111111,#111111,2,0.503420378751
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
@@ -14,18 +15,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.500640783539
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.500491144904
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.498690866523
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.498137275929
-'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497122781413
+'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497764513621
 'Prince Philip',en,unknown,#111111,#111111,3,0.496886463006
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.494737543169
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.491493357030
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.489182490423
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.487533576892
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.486844672183
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.486207836867
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.485801543169
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Bill Maher',en,unknown,#111111,#111111,3,0.483752359658
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482019262749
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.481787492074
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481086016852
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
@@ -59,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469930348423
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.468884803069
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.467438823556
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.467132546378
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
@@ -212,8 +212,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
+'Prince William',en,UK,#e838e8,#e838e8,3,0.424107324212
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
-'Prince William',en,UK,#e838e8,#e838e8,3,0.423319588019
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
