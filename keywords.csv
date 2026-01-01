@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Windsor',en,unknown,#111111,#111111,3,0.681080508961
+'Andrew Windsor',en,unknown,#111111,#111111,3,0.612674987617
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.548909277344
 'Paddy Pimblett',en,unknown,#111111,#111111,2,0.544515801699
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.542808261158
 'Dan Hooker',en,unknown,#111111,#111111,3,0.525720630636
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.518904627814
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.520099905546
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.512449232210
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.511885746298
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.510608536495
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503632362527
 'Thomas Müller',en,unknown,#111111,#111111,2,0.503420378751
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
@@ -55,11 +55,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.470659385650
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.470626324941
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469930348423
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.468884803069
@@ -105,8 +105,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
+'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.457600190796
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
-'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.456878306770
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.456687085225
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.456099291141
@@ -168,10 +168,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.433742696385
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.432973764904
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.432493571316
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.432250407848
