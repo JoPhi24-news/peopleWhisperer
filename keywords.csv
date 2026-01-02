@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paddy Pimblett',en,unknown,#111111,#111111,2,0.527991793752
 'Dan Hooker',en,unknown,#111111,#111111,3,0.525720630636
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.523067309853
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.517905576746
@@ -17,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497764513621
 'Prince Philip',en,unknown,#111111,#111111,3,0.496886463006
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.496022891845
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.494978256339
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.495624273024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.494737543169
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.491493357030
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.472345124689
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472014126504
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.471386691346
