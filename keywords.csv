@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dan Hooker',en,unknown,#111111,#111111,3,0.525720630636
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.523067309853
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.517905576746
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.511885746298
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Dan Hooker',en,unknown,#111111,#111111,3,0.474541473768
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.472345124689
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472014126504
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
@@ -75,10 +75,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.466316834198
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.464198942501
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.463346504602
