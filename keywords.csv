@@ -1,20 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.523067309853
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.517905576746
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.520299315617
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.511885746298
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.504218003931
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503632362527
 'Thomas Müller',en,unknown,#111111,#111111,2,0.503420378751
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
 'Nicolas Maduro',en,unknown,#111111,#111111,2,0.501465087136
+'Andrew Windsor',en,unknown,#111111,#111111,3,0.501350060151
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.500640783539
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.500491144904
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
-'Andrew Windsor',en,unknown,#111111,#111111,3,0.498804211725
+'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.499044134133
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.498137275929
-'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.497764513621
 'Prince Philip',en,unknown,#111111,#111111,3,0.496886463006
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.496022891845
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.496666821527
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.495624273024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.494737543169
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
@@ -47,8 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Dan Hooker',en,unknown,#111111,#111111,3,0.474541473768
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472705956511
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.472345124689
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472014126504
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.471386691346
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -98,11 +98,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.459933608113
+'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.459757275127
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
-'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.458320645262
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
@@ -166,9 +166,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434916732593
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.434510124672
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.433742696385
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
