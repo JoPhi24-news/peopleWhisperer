@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.504218003931
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.503632362527
 'Thomas Müller',en,unknown,#111111,#111111,2,0.503420378751
 'Usha Vance',en,unknown,#111111,#111111,3,0.502571723436
@@ -33,8 +32,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482248106469
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.479863301120
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.479185758875
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.478502163148
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
@@ -143,6 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443893275380
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443832264461
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.443090238341
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'prince Andrew',en,unknown,#111111,#111111,3,0.442166601785
