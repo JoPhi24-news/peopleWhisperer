@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steve Bannon',en,unknown,#111111,#111111,3,0.557726732299
+'Steve Bannon',en,unknown,#111111,#111111,3,0.530436987454
 'Usha Vance',en,unknown,#111111,#111111,3,0.527594050375
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.527311867908
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.505593903013
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.503246125364
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.502451053888
 'Nicolas Maduro',en,unknown,#111111,#111111,2,0.502098143486
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.501323046619
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.501275486833
@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.490424185934
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.489840083603
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.488167872011
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.487889149038
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.489485793261
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.489208182251
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -156,8 +156,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.439083249982
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.438324794783
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.437493431026
@@ -544,19 +544,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.361800681558
 'Robert Badinter',en,unknown,#111111,#111111,1,0.361792365437
+'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.361677109723
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.361461374739
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
 'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.361069031202
-'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.360771648476
 'Putin',en,Russland,#e81818,#e81818,3,0.360629354509
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.360242481138
+'Matt Gaetz',en,unknown,#111111,#111111,3,0.360214592869
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.359912190678
 'Robert Menendez',en,unknown,#111111,#111111,2,0.359793031728
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,2,0.359686621558
 'Jean-Luc Mélenchon',en,unknown,#111111,#111111,2,0.359431307828
-'Matt Gaetz',en,unknown,#111111,#111111,3,0.359306480652
 'Devon Archer',en,unknown,#111111,#111111,2,0.358753848217
 'Kemal Kilicdaroglu',en,Türkei,#66bb22,#66bb22,2,0.358678357603
 'Edouard Philippe',en,unknown,#111111,#111111,1,0.358548133946
@@ -774,11 +774,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.207510555673
 'Minka Indigena',en,unknown,#111111,#111111,1,0.207432233594
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.207180954143
+'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.206941312272
 'Ricarda Lang',en,Deutschland,#1818e8,#1818e8,1,0.206707545695
 'Mohammed bin Salman',en,SaudiArabien,#1144ee,#1144ee,2,0.206192654058
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.205787802500
 'Jack Ma',en,China,#e88818,#e88818,3,0.205654622727
-'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.204651802158
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.202747098084
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.202591390109
 'Aleksandar Vucic',en,Serbien,#88cc44,#88cc44,3,0.200076424780
