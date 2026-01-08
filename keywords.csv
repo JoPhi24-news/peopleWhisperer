@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.513619775080
 'Usha Vance',en,unknown,#111111,#111111,3,0.507687426757
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.503246125364
-'Nicolas Maduro',en,unknown,#111111,#111111,2,0.502098143486
+'Nicolas Maduro',en,unknown,#111111,#111111,2,0.502729935016
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.501323046619
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.501275486833
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.460649438766
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.460566383818
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.459757275127
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
@@ -249,8 +249,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.418354283835
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.417938944247
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.417139241460
 'Pedro Pascal',en,Chile,#67349a,#67349a,3,0.417044981755
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.416913951723
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.416564850629
