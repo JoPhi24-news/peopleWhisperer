@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Maduro',en,unknown,#111111,#111111,3,0.548857693458
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.501323046619
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.501275486833
 'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.489840083603
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
+'Nicolas Maduro',en,unknown,#111111,#111111,3,0.485167348076
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Bill Maher',en,unknown,#111111,#111111,3,0.483752359658
@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.468418219851
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.467648662975
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.466946753861
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.466316834198
@@ -527,9 +527,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.365608216250
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
+'Jim Jordan',en,unknown,#111111,#111111,3,0.365200834094
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.364709459196
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
-'Jim Jordan',en,unknown,#111111,#111111,3,0.364301783244
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.364213702129
 'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.364051790726
