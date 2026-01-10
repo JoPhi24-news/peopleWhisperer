@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Helene Fischer',en,unknown,#111111,#111111,2,0.500996408972
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.500491144904
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,2,0.500042793454
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.499867223336
@@ -207,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.426163382946
+'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
