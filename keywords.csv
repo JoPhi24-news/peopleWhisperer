@@ -1,10 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.499044134133
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.498527448148
 'Prince Philip',en,unknown,#111111,#111111,3,0.496886463006
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.495624273024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.494431892595
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.495079000782
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.492105881223
@@ -80,13 +79,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.463346504602
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.462788424467
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.462240627848
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.462193733028
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.462126100189
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.462076844517
 'Larry David',en,unknown,#111111,#111111,3,0.461945226875
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.461798721095
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
+'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.450464326235
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.449886165962
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.449858223068
@@ -132,19 +132,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.446104882143
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.446077792163
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.445417242079
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.445333109352
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.444707017860
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443893275380
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443832264461
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
+'prince Andrew',en,unknown,#111111,#111111,3,0.442917514125
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
-'prince Andrew',en,unknown,#111111,#111111,3,0.442166601785
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.440735156313
