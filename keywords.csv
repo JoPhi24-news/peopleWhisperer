@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steve Witkoff',en,unknown,#111111,#111111,2,0.498527448148
 'Prince Philip',en,unknown,#111111,#111111,3,0.496886463006
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.495624273024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Dan Hooker',en,unknown,#111111,#111111,3,0.474541473768
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.473036295821
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472523099855
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.470659385650
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.470442372247
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
@@ -144,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'prince Andrew',en,unknown,#111111,#111111,3,0.442917514125
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
+'Steve Witkoff',en,unknown,#111111,#111111,2,0.442623400926
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
@@ -537,6 +537,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Robinson',en,unknown,#111111,#111111,3,0.363299736172
 'Fabien Roussel',en,unknown,#111111,#111111,1,0.363151328421
 'JULIEN MUGUET',en,Frankreich,#e8e808,#e8e808,1,0.363029544955
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.362628316784
 'Lecornu II',en,Frankreich,#e8e808,#e8e808,1,0.362622979295
 'Scott Morrison',en,Australien,#99aa33,#99aa33,3,0.362109790162
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.361999040269
@@ -550,7 +551,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.360819207659
 'Putin',en,Russland,#e81818,#e81818,3,0.360629354509
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.360242481138
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.360214592869
