@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.495624273024
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.503505564343
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.495079000782
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
@@ -21,25 +21,25 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',en,unknown,#111111,#111111,3,0.482706012114
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.481897212510
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.478935099331
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.478666720697
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478550095123
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.478502163148
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Keir Starmer',en,unknown,#111111,#111111,3,0.477527162696
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477012068267
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.476405050274
+'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
-'Dan Hooker',en,unknown,#111111,#111111,3,0.474541473768
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
-'Paddy Pimblett',en,unknown,#111111,#111111,3,0.473036295821
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472523099855
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -65,9 +65,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.466316834198
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.466043037685
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.465828829183
