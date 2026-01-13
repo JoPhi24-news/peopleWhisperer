@@ -1,28 +1,28 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ben Shapiro',en,unknown,#111111,#111111,2,0.604382054657
 'Ro Khanna',en,unknown,#111111,#111111,2,0.603686673943
-'Nicolás Maduro',en,unknown,#111111,#111111,3,0.601590240030
+'Nicolás Maduro',en,unknown,#111111,#111111,3,0.602026696641
 'Rob Reiner',en,unknown,#111111,#111111,2,0.601357866205
 'Pam Bondi',en,unknown,#111111,#111111,2,0.583135925331
+'Ben Shapiro',en,unknown,#111111,#111111,2,0.571500060030
 'Jen Psaki',en,unknown,#111111,#111111,3,0.570457961297
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.496369341396
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.492757635832
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.492105881223
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.491079299397
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.487852803253
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489171981465
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
-'Nicolas Maduro',en,unknown,#111111,#111111,3,0.485832957288
+'Nicolas Maduro',en,unknown,#111111,#111111,3,0.486497237928
+'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.484749411640
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.484081635594
-'Bill Maher',en,unknown,#111111,#111111,3,0.483752359658
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.483539436493
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
@@ -68,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.468418219851
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.468149960002
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
@@ -75,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.466043037685
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.465828829183
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.465620648227
@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
+'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.447446899120
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.447301771274
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
-'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.446704918440
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.446161759226
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
@@ -257,10 +257,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.418737101980
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.418354283835
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.418164927965
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.417365662527
 'Pedro Pascal',en,Chile,#67349a,#67349a,3,0.417044981755
 'Camilla',en,UK,#e838e8,#e838e8,3,0.416819049360
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.416333672350
