@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jen Psaki',en,unknown,#111111,#111111,3,0.624655066232
 'Pam Bondi',en,unknown,#111111,#111111,2,0.605326307876
 'Ben Shapiro',en,unknown,#111111,#111111,2,0.604382054657
 'Ro Khanna',en,unknown,#111111,#111111,2,0.603253369166
 'Nicolás Maduro',en,unknown,#111111,#111111,2,0.602561936867
 'Rob Reiner',en,unknown,#111111,#111111,2,0.601357866205
+'Jen Psaki',en,unknown,#111111,#111111,3,0.570457961297
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.491079299397
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.487852803253
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.487191234134
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.485832957288
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.480582466287
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479369675928
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.480046851459
 'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.478935099331
@@ -158,11 +158,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.440595699354
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.440522381519
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
+'Usha Vance',en,unknown,#111111,#111111,3,0.439378268135
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.439012111182
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
-'Usha Vance',en,unknown,#111111,#111111,3,0.438620392688
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.437470659369
@@ -241,13 +241,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
+'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.420105237449
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.419855339260
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.419758405529
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
-'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.419309730482
 'Prince George',en,UK,#e838e8,#e838e8,3,0.419264187228
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.419018751455
 'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.419016153932
