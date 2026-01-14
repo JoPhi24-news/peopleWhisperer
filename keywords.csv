@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ro Khanna',en,unknown,#111111,#111111,2,0.603686673943
+'Ro Khanna',en,unknown,#111111,#111111,3,0.611689957852
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.602026696641
 'Rob Reiner',en,unknown,#111111,#111111,2,0.601357866205
-'Pam Bondi',en,unknown,#111111,#111111,2,0.583135925331
+'Pam Bondi',en,unknown,#111111,#111111,2,0.585485723299
 'Ben Shapiro',en,unknown,#111111,#111111,2,0.571500060030
 'Jen Psaki',en,unknown,#111111,#111111,3,0.570457961297
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.496369341396
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.500845105351
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.492757635832
@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.486497237928
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.486080968200
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.484749411640
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.465828829183
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.465620648227
-'Thomas Müller',en,unknown,#111111,#111111,3,0.464677108757
+'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
@@ -253,11 +253,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.419016153932
 'Merrick Garland',en,USA,#18e8e8,#18e8e8,3,0.419012837100
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.418962648905
 'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.418749075442
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.418737101980
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.418354283835
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.418164927965
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
@@ -337,10 +337,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.403269589204
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
+'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.403013594905
 'Kate Hudson',en,USA,#18e8e8,#18e8e8,3,0.402945991628
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
-'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.402185199962
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.402075003437
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.401864577768
@@ -430,13 +430,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
+'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.387580808003
 'Gabriel Attal',en,Frankreich,#e8e808,#e8e808,2,0.387445140707
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.387205521593
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.387179926525
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.386998866415
 'Caroline Ellison',en,USA,#18e8e8,#18e8e8,2,0.386837288472
 'Abraham Lincoln',en,USA,#18e8e8,#18e8e8,3,0.386826551126
-'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.386723190736
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.386544027344
 'Hailey Van Lith',en,USA,#18e8e8,#18e8e8,2,0.386505347677
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.386453473447
