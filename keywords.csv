@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolás Maduro',en,unknown,#111111,#111111,3,0.602026696641
 'Rob Reiner',en,unknown,#111111,#111111,2,0.601357866205
 'Pam Bondi',en,unknown,#111111,#111111,2,0.585485723299
 'Ben Shapiro',en,unknown,#111111,#111111,2,0.571500060030
 'Jen Psaki',en,unknown,#111111,#111111,3,0.570457961297
+'Nicolás Maduro',en,unknown,#111111,#111111,3,0.569673303596
 'Ro Khanna',en,unknown,#111111,#111111,3,0.552867779174
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
@@ -16,17 +16,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489171981465
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488728170057
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
-'Nicolas Maduro',en,unknown,#111111,#111111,3,0.486497237928
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.486080968200
+'Nicolas Maduro',en,unknown,#111111,#111111,3,0.487160192528
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.483539436493
+'Steve Bannon',en,unknown,#111111,#111111,3,0.483376533069
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
-'Steve Bannon',en,unknown,#111111,#111111,3,0.482706012114
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.481897212510
@@ -247,6 +247,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.419758405529
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.419533716631
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Prince George',en,UK,#e838e8,#e838e8,3,0.419264187228
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.419018751455
@@ -255,7 +256,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.418962648905
 'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.418749075442
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.418737101980
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.418354283835
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
