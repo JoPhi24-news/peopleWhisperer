@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pam Bondi',en,unknown,#111111,#111111,2,0.585485723299
 'Ben Shapiro',en,unknown,#111111,#111111,2,0.571500060030
 'Jen Psaki',en,unknown,#111111,#111111,3,0.570457961297
-'Nicolás Maduro',en,unknown,#111111,#111111,3,0.569673303596
+'Nicolás Maduro',en,unknown,#111111,#111111,3,0.570171200679
 'Rob Reiner',en,unknown,#111111,#111111,3,0.567098256715
+'Pam Bondi',en,unknown,#111111,#111111,3,0.558932501528
 'Ro Khanna',en,unknown,#111111,#111111,3,0.552867779174
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.500845105351
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.493959496756
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.495254305923
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.493408088572
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
@@ -130,11 +130,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.447646396812
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.447446899120
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.447301771274
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.446904810034
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
@@ -154,9 +154,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.441349698013
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.441276524155
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.440735156313
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.440595699354
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Usha Vance',en,unknown,#111111,#111111,3,0.439378268135
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
@@ -795,10 +795,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.198951196753
 'Joko Widodo',en,Indonesien,#aa33dd,#aa33dd,3,0.197364917723
 'Thierry Breton',en,EU,#4488cc,#4488cc,3,0.196685704436
+'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.195960376337
 'Paul Kagame',en,Ruanda,#33ddaa,#33ddaa,2,0.195934635817
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.195206087252
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,3,0.194083115373
-'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.192485300784
 'David Malpass',en,USA,#18e8e8,#18e8e8,1,0.192377059082
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.191991553262
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.191985611378
