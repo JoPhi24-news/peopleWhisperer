@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rob Reiner',en,unknown,#111111,#111111,3,0.620130446664
 'Ro Khanna',en,unknown,#111111,#111111,3,0.552867779174
+'Rob Reiner',en,unknown,#111111,#111111,3,0.551148043374
 'Jen Psaki',en,unknown,#111111,#111111,3,0.550226091388
 'Pam Bondi',en,unknown,#111111,#111111,3,0.534611105844
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
@@ -389,6 +389,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.395558806840
 'Jake Tapper',en,USA,#18e8e8,#18e8e8,3,0.395482938127
 'Tony Bobulinski',en,USA,#18e8e8,#18e8e8,2,0.395340914463
+'Nikki Glaser',en,unknown,#111111,#111111,1,0.395201594466
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.395133455350
 'Leandro De Niro-Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.394951982260
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
@@ -398,7 +399,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.394686218265
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.394657649648
 'Matt Winkelmeyer',en,USA,#18e8e8,#18e8e8,2,0.394601458644
-'Nikki Glaser',en,unknown,#111111,#111111,1,0.394358346488
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
