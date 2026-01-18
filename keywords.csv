@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rob Reiner',en,unknown,#111111,#111111,3,0.555266563686
+'Rob Reiner',en,unknown,#111111,#111111,3,0.570549154133
 'Jen Psaki',en,unknown,#111111,#111111,3,0.550226091388
 'Ro Khanna',en,unknown,#111111,#111111,3,0.547174857459
 'Pam Bondi',en,unknown,#111111,#111111,3,0.536308640929
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.504802041293
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.504631917012
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.504174397870
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.503732586598
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.494057241985
@@ -166,9 +166,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.437470659369
+'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436812316501
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
-'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436049402156
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434916732593
@@ -233,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.422420407043
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.422138127363
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.422084830122
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
@@ -241,7 +242,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.420899204749
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.420553465205
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.419855339260
