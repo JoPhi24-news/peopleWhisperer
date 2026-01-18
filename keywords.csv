@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ro Khanna',en,unknown,#111111,#111111,3,0.552867779174
 'Rob Reiner',en,unknown,#111111,#111111,3,0.551148043374
 'Jen Psaki',en,unknown,#111111,#111111,3,0.550226091388
-'Pam Bondi',en,unknown,#111111,#111111,3,0.534611105844
+'Ro Khanna',en,unknown,#111111,#111111,3,0.547174857459
+'Pam Bondi',en,unknown,#111111,#111111,3,0.536308640929
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.504631917012
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.503732586598
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501017283328
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.500845105351
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.503545498013
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.494057241985
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.456099291141
+'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.455996490254
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.455530067831
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.455434468411
-'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.455271425671
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
@@ -153,9 +153,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.442623400926
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.442102215658
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.441349698013
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.440735156313
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Usha Vance',en,unknown,#111111,#111111,3,0.439378268135
