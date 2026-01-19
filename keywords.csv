@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jen Psaki',en,unknown,#111111,#111111,3,0.550226091388
 'Ro Khanna',en,unknown,#111111,#111111,3,0.547174857459
 'Pam Bondi',en,unknown,#111111,#111111,3,0.536308640929
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.505428430826
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.507300101532
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.504631917012
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.503732586598
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489829595630
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
+'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.487160192528
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
