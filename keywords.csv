@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Cilia Flores',en,unknown,#111111,#111111,2,0.608695137158
+'Cilia Flores',en,unknown,#111111,#111111,3,0.609162060778
 'Bari Weiss',en,unknown,#111111,#111111,2,0.607765938466
 'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.606847200167
 'Alan Jackson',en,unknown,#111111,#111111,2,0.606819548010
@@ -14,14 +14,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.538948145983
 'Pam Bondi',en,unknown,#111111,#111111,3,0.536872240706
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.511009931256
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.514067649679
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.508992819098
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
+'Nicolás Maduro',en,unknown,#111111,#111111,3,0.507484958818
 'Michele Reiner',en,unknown,#111111,#111111,2,0.506356699798
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Nick Reiner',en,unknown,#111111,#111111,2,0.504210202842
-'Nicolás Maduro',en,unknown,#111111,#111111,3,0.503732586598
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
@@ -33,11 +33,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.491079299397
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
+'Nicolas Maduro',en,unknown,#111111,#111111,3,0.490455163624
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489829595630
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.487717607722
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
-'Nicolas Maduro',en,unknown,#111111,#111111,3,0.487160192528
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -162,8 +162,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.444707017860
+'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.444640792162
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
-'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443893275380
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443832264461
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.443530073717
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
