@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alan Jackson',en,unknown,#111111,#111111,2,0.609788678013
+'Alan Jackson',en,unknown,#111111,#111111,3,0.635625941311
 'Epstein Files',en,unknown,#111111,#111111,2,0.605905707111
 'Candace Owens',en,unknown,#111111,#111111,2,0.604885589704
 'Margaret Brennan',en,unknown,#111111,#111111,2,0.603739008539
@@ -8,24 +8,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.602298297505
 'Mark Kelly',en,unknown,#111111,#111111,2,0.602002361228
 'Scott Jennings',en,unknown,#111111,#111111,2,0.601656148384
+'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.577841523173
 'Joe Rogan',en,unknown,#111111,#111111,3,0.577405805877
-'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.576874680142
 'Ro Khanna',en,unknown,#111111,#111111,3,0.538948145983
 'Pam Bondi',en,unknown,#111111,#111111,3,0.536872240706
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
+'Nick Reiner',en,unknown,#111111,#111111,2,0.525445851150
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.518297462638
-'Nick Reiner',en,unknown,#111111,#111111,2,0.512271572662
+'Michele Reiner',en,unknown,#111111,#111111,2,0.510077778453
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.509610837658
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.508992819098
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
-'Michele Reiner',en,unknown,#111111,#111111,2,0.507602022493
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.507484958818
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
-'Rob Reiner',en,unknown,#111111,#111111,3,0.497706952463
+'Rob Reiner',en,unknown,#111111,#111111,3,0.500261543907
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.494705098615
 'Larry Summers',en,unknown,#111111,#111111,3,0.493879341579
