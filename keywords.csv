@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bari Weiss',en,unknown,#111111,#111111,2,0.607765938466
 'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.606847200167
 'Alan Jackson',en,unknown,#111111,#111111,2,0.606819548010
 'Epstein Files',en,unknown,#111111,#111111,2,0.605905707111
 'Candace Owens',en,unknown,#111111,#111111,2,0.604885589704
 'Margaret Brennan',en,unknown,#111111,#111111,2,0.603739008539
 'Thomas Massie',en,unknown,#111111,#111111,2,0.603732940174
+'Bari Weiss',en,unknown,#111111,#111111,3,0.603520902212
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.602298297505
 'Mark Kelly',en,unknown,#111111,#111111,2,0.602002361228
 'Scott Jennings',en,unknown,#111111,#111111,2,0.601656148384
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',en,unknown,#111111,#111111,3,0.536872240706
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.533977458122
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.514675535832
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.518297462638
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.508992819098
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
@@ -39,12 +39,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.484610871276
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.483539436493
 'Steve Bannon',en,unknown,#111111,#111111,3,0.483376533069
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.483273429399
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
@@ -805,9 +805,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',en,SaudiArabien,#1144ee,#1144ee,2,0.206192654058
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.205787802500
 'Jack Ma',en,China,#e88818,#e88818,3,0.205654622727
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.204751327568
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.202747098084
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.202591390109
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.202456558115
 'Aleksandar Vucic',en,Serbien,#88cc44,#88cc44,3,0.200076424780
 'Salvador Dali',en,Spanien,#9933aa,#9933aa,1,0.199405090395
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.198951196753
