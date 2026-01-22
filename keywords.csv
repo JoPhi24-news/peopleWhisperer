@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Margaret Brennan',en,unknown,#111111,#111111,2,0.603739008539
 'Thomas Massie',en,unknown,#111111,#111111,2,0.603732940174
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.602298297505
 'Scott Jennings',en,unknown,#111111,#111111,2,0.602092479986
 'Mark Kelly',en,unknown,#111111,#111111,2,0.602002361228
 'Epstein Files',en,unknown,#111111,#111111,3,0.592733828772
 'Candace Owens',en,unknown,#111111,#111111,3,0.586860661848
+'Margaret Brennan',en,unknown,#111111,#111111,2,0.586312555440
 'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.577841523173
 'Joe Rogan',en,unknown,#111111,#111111,3,0.577405805877
 'Alan Jackson',en,unknown,#111111,#111111,3,0.567964947842
@@ -392,6 +392,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.397503028453
 'David Koch',en,USA,#18e8e8,#18e8e8,3,0.397427143047
 'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.397326396430
+'Jake Tapper',en,USA,#18e8e8,#18e8e8,3,0.397163588424
 'Viktor Shokin',en,Ukraine,#e818e8,#e818e8,1,0.397008288922
 'Sultan al-Jaber',en,VAE,#2266bb,#2266bb,3,0.397003494841
 'Carter Reum',en,USA,#18e8e8,#18e8e8,1,0.396922770464
@@ -399,7 +400,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565
 'Yoon Suk Yeol',en,SüdKorea,#22bb66,#22bb66,3,0.396587234843
 'Paris Hilton',en,USA,#18e8e8,#18e8e8,3,0.396478933132
-'Jake Tapper',en,USA,#18e8e8,#18e8e8,3,0.396324059419
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.396321451020
 'Robert Kraft',en,USA,#18e8e8,#18e8e8,3,0.396124868547
 'Tyson Fury',en,UK,#e838e8,#e838e8,3,0.396069830134
@@ -564,10 +564,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Robinson',en,unknown,#111111,#111111,3,0.363299736172
 'Fabien Roussel',en,unknown,#111111,#111111,1,0.363151328421
 'JULIEN MUGUET',en,Frankreich,#e8e808,#e8e808,1,0.363029544955
+'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.362877235327
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.362628316784
 'Lecornu II',en,Frankreich,#e8e808,#e8e808,1,0.362622979295
 'Scott Morrison',en,Australien,#99aa33,#99aa33,3,0.362109790162
-'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.361973953691
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.361951729816
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.361800681558
