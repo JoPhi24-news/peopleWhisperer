@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bari Weiss',en,unknown,#111111,#111111,3,0.603953700495
 'Margaret Brennan',en,unknown,#111111,#111111,2,0.603739008539
 'Thomas Massie',en,unknown,#111111,#111111,2,0.603732940174
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.602298297505
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.538948145983
 'Pam Bondi',en,unknown,#111111,#111111,3,0.536872240706
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
+'Bari Weiss',en,unknown,#111111,#111111,3,0.532538414453
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Nick Reiner',en,unknown,#111111,#111111,2,0.527197953960
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.520688084651
@@ -447,6 +447,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.388905795704
 'Nathalie Emmanuel',en,UK,#e838e8,#e838e8,2,0.388868610614
 'Hugh Grant',en,UK,#e838e8,#e838e8,3,0.388733145116
+'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.388711460224
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
@@ -454,7 +455,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',en,Frankreich,#e8e808,#e8e808,2,0.387445140707
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.387205521593
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.387179926525
-'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.386998866415
 'Caroline Ellison',en,USA,#18e8e8,#18e8e8,2,0.386837288472
 'Abraham Lincoln',en,USA,#18e8e8,#18e8e8,3,0.386826551126
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.386544027344
@@ -792,10 +792,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',en,EU,#4488cc,#4488cc,3,0.216856558837
 'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.216781029857
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.214282176632
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.213875027443
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.212393858933
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.211701045026
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.211101555631
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.210464107758
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.208083993573
 'Andrzej Duda',en,Polen,#8844cc,#8844cc,3,0.207717402164
 'Hans Joosten',en,unknown,#111111,#111111,1,0.207559746344
