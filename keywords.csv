@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Harry Met Sally',en,unknown,#111111,#111111,2,0.602298297505
 'Scott Jennings',en,unknown,#111111,#111111,2,0.602092479986
 'Mark Kelly',en,unknown,#111111,#111111,2,0.602002361228
 'Epstein Files',en,unknown,#111111,#111111,3,0.593639622061
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',en,unknown,#111111,#111111,3,0.537434721950
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
 'Bari Weiss',en,unknown,#111111,#111111,3,0.532538414453
+'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Nick Reiner',en,unknown,#111111,#111111,2,0.527197953960
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.523059698119
@@ -24,9 +24,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503010385617
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
+'Rob Reiner',en,unknown,#111111,#111111,3,0.502164120552
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
-'Rob Reiner',en,unknown,#111111,#111111,3,0.500897004920
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Larry Summers',en,unknown,#111111,#111111,3,0.494527553597
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
@@ -57,9 +57,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.478666720697
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.478514132375
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.477769858994
 'Keir Starmer',en,unknown,#111111,#111111,3,0.477527162696
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.477088135271
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477012068267
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
