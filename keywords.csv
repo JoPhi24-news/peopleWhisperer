@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scott Jennings',en,unknown,#111111,#111111,3,0.624352948267
 'Mark Kelly',en,unknown,#111111,#111111,2,0.602002361228
 'Epstein Files',en,unknown,#111111,#111111,3,0.593639622061
 'Thomas Massie',en,unknown,#111111,#111111,3,0.589942582251
@@ -8,10 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.577841523173
 'Joe Rogan',en,unknown,#111111,#111111,3,0.577405805877
 'Alan Jackson',en,unknown,#111111,#111111,3,0.567964947842
+'Scott Jennings',en,unknown,#111111,#111111,3,0.544744050118
 'Ro Khanna',en,unknown,#111111,#111111,3,0.539506509360
 'Pam Bondi',en,unknown,#111111,#111111,3,0.537434721950
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
-'Bari Weiss',en,unknown,#111111,#111111,3,0.532538414453
+'Bari Weiss',en,unknown,#111111,#111111,3,0.533109502413
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Nick Reiner',en,unknown,#111111,#111111,2,0.527197953960
@@ -28,8 +28,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.495043445575
 'Larry Summers',en,unknown,#111111,#111111,3,0.494527553597
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.494396266216
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.491079299397
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
