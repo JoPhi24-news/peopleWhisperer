@@ -1,26 +1,26 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Massie',en,unknown,#111111,#111111,3,0.589942582251
 'Candace Owens',en,unknown,#111111,#111111,3,0.586860661848
 'Margaret Brennan',en,unknown,#111111,#111111,2,0.586312555440
 'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.577841523173
 'Joe Rogan',en,unknown,#111111,#111111,3,0.577405805877
 'Alan Jackson',en,unknown,#111111,#111111,3,0.567964947842
-'Epstein Files',en,unknown,#111111,#111111,3,0.560157548725
+'Epstein Files',en,unknown,#111111,#111111,3,0.561189559790
+'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
 'Mark Kelly',en,unknown,#111111,#111111,2,0.554019287044
 'Scott Jennings',en,unknown,#111111,#111111,3,0.544744050118
-'Ro Khanna',en,unknown,#111111,#111111,3,0.539506509360
-'Pam Bondi',en,unknown,#111111,#111111,3,0.537434721950
+'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
+'Pam Bondi',en,unknown,#111111,#111111,3,0.539115478973
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.533501026727
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.536335620086
 'Bari Weiss',en,unknown,#111111,#111111,3,0.533109502413
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527588849695
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Nick Reiner',en,unknown,#111111,#111111,2,0.527197953960
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527006758820
 'Michele Reiner',en,unknown,#111111,#111111,2,0.510693630300
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
-'Nicolás Maduro',en,unknown,#111111,#111111,3,0.507484958818
+'Nicolás Maduro',en,unknown,#111111,#111111,3,0.508105988997
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503010385617
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
@@ -29,8 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.495043445575
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.494982592657
 'Larry Summers',en,unknown,#111111,#111111,3,0.494527553597
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.494335291488
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
@@ -90,12 +90,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.467318188124
+'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.467235691206
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467161560160
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.465828829183
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.465620648227
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
@@ -115,9 +115,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.461388136158
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
+'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.461031900152
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
-'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.460316829289
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.459757275127
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
