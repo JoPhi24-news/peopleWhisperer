@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Singer Reiner',en,unknown,#111111,#111111,2,0.577841523173
+'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.587027325606
 'Joe Rogan',en,unknown,#111111,#111111,3,0.577405805877
-'Alan Jackson',en,unknown,#111111,#111111,3,0.567964947842
+'Alan Jackson',en,unknown,#111111,#111111,3,0.573915630272
 'Epstein Files',en,unknown,#111111,#111111,3,0.561189559790
 'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
 'Mark Kelly',en,unknown,#111111,#111111,2,0.554547864981
@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',en,unknown,#111111,#111111,3,0.544744050118
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
+'Nick Reiner',en,unknown,#111111,#111111,2,0.539731937674
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.539142191558
 'Pam Bondi',en,unknown,#111111,#111111,3,0.539115478973
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
@@ -16,15 +17,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527588849695
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
-'Nick Reiner',en,unknown,#111111,#111111,2,0.527197953960
-'Michele Reiner',en,unknown,#111111,#111111,2,0.510693630300
+'Michele Reiner',en,unknown,#111111,#111111,2,0.511921647195
+'Rob Reiner',en,unknown,#111111,#111111,3,0.509661304434
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.509344330645
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503010385617
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
-'Rob Reiner',en,unknown,#111111,#111111,3,0.502164120552
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.496333928113
