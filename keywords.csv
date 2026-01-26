@@ -1,7 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',en,unknown,#111111,#111111,3,0.579331641131
+'Kaitlan Collins',en,unknown,#111111,#111111,2,0.608074839762
+'Tony Dokoupil',en,unknown,#111111,#111111,2,0.605905648685
+'MARGARET BRENNAN',en,unknown,#111111,#111111,2,0.605542481800
+'Kristi Noem',en,unknown,#111111,#111111,2,0.605392023482
+'Ilhan Omar',en,unknown,#111111,#111111,2,0.604812908678
+'Renee Good',en,unknown,#111111,#111111,2,0.602900412718
+'Nanon Williams',en,unknown,#111111,#111111,2,0.602482345157
+'Abby Phillip',en,unknown,#111111,#111111,2,0.601794741267
+'Jake Reiner',en,unknown,#111111,#111111,2,0.600024111157
 'Alan Jackson',en,unknown,#111111,#111111,3,0.574405267194
-'Epstein Files',en,unknown,#111111,#111111,3,0.561189559790
+'Epstein Files',en,unknown,#111111,#111111,3,0.561704047649
 'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
 'Mark Kelly',en,unknown,#111111,#111111,2,0.554547864981
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.550954564487
@@ -17,11 +25,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527588849695
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
+'Joe Rogan',en,unknown,#111111,#111111,3,0.521938794961
 'Rob Reiner',en,unknown,#111111,#111111,3,0.520575257524
 'Michele Reiner',en,unknown,#111111,#111111,2,0.515576386059
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.509344330645
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
+'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.507088334519
+'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.506796313885
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503010385617
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
@@ -118,12 +129,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.461031900152
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
+'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.459757275127
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
-'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.458130180296
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
@@ -256,6 +267,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.422084830122
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
+'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.421534459013
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
@@ -269,7 +281,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Prince George',en,UK,#e838e8,#e838e8,3,0.419264187228
-'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.419151638716
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.419018751455
 'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.419016153932
 'Merrick Garland',en,USA,#18e8e8,#18e8e8,3,0.419012837100
