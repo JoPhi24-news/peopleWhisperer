@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kaitlan Collins',en,unknown,#111111,#111111,3,0.603632800616
 'Nanon Williams',en,unknown,#111111,#111111,2,0.602482345157
 'Abby Phillip',en,unknown,#111111,#111111,2,0.601794741267
 'Jake Reiner',en,unknown,#111111,#111111,2,0.600024111157
@@ -12,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.558344131303
 'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
 'Mark Kelly',en,unknown,#111111,#111111,2,0.554547864981
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.553296413655
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.554355372970
+'Scott Jennings',en,unknown,#111111,#111111,3,0.545290934577
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.545112909023
-'Scott Jennings',en,unknown,#111111,#111111,3,0.544744050118
 'Nick Reiner',en,unknown,#111111,#111111,2,0.544703696736
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Kristi Noem',en,unknown,#111111,#111111,3,0.543931881563
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527588849695
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
+'Kaitlan Collins',en,unknown,#111111,#111111,3,0.527129914615
 'Joe Rogan',en,unknown,#111111,#111111,3,0.521938794961
 'Rob Reiner',en,unknown,#111111,#111111,3,0.520575257524
 'Michele Reiner',en,unknown,#111111,#111111,2,0.515576386059
@@ -242,11 +242,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.426072964605
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.425630788486
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.425289053908
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
