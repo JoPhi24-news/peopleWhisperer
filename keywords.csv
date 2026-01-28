@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'MARGARET BRENNAN',en,unknown,#111111,#111111,2,0.605542481800
 'Renee Good',en,unknown,#111111,#111111,2,0.605491963096
 'Ilhan Omar',en,unknown,#111111,#111111,2,0.604812908678
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.603632800616
@@ -7,20 +6,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,2,0.601794741267
 'Jake Reiner',en,unknown,#111111,#111111,2,0.600024111157
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.592207535559
+'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.589826339530
 'Alan Jackson',en,unknown,#111111,#111111,3,0.574405267194
 'Epstein Files',en,unknown,#111111,#111111,3,0.561704047649
+'Margaret Brennan',en,unknown,#111111,#111111,3,0.558344131303
 'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
 'Mark Kelly',en,unknown,#111111,#111111,2,0.554547864981
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.551165921598
-'Margaret Brennan',en,unknown,#111111,#111111,3,0.550954564487
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.545112909023
 'Scott Jennings',en,unknown,#111111,#111111,3,0.544744050118
 'Nick Reiner',en,unknown,#111111,#111111,2,0.544703696736
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Kristi Noem',en,unknown,#111111,#111111,3,0.543382302658
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
+'Bari Weiss',en,unknown,#111111,#111111,3,0.539317110122
 'Pam Bondi',en,unknown,#111111,#111111,3,0.539115478973
-'Bari Weiss',en,unknown,#111111,#111111,3,0.538758370432
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527588849695
@@ -219,12 +219,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.431539730565
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.431236257148
+'Mark Carney',en,Kanada,#443388,#443388,3,0.431067206520
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.430991968124
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.430838412239
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Affaire Epstein',en,unknown,#111111,#111111,1,0.430499099565
 'Prince William',en,UK,#e838e8,#e838e8,3,0.430354328987
-'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
@@ -332,6 +332,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.409471443387
 'Victoria Beckham',en,UK,#e838e8,#e838e8,3,0.409118499000
 'Mahmud Abbas',en,Palestina,#cc2255,#cc2255,1,0.409075768645
+'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.408768246195
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584216
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.408208726170
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.408176599349
@@ -366,7 +367,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.403269589204
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
-'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.403013594905
 'Kate Hudson',en,USA,#18e8e8,#18e8e8,3,0.402945991628
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
