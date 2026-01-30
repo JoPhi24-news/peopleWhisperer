@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tony Dokoupil',en,unknown,#111111,#111111,3,0.582883440225
+'Tony Dokoupil',en,unknown,#111111,#111111,3,0.594007989191
 'Abby Phillip',en,unknown,#111111,#111111,3,0.580113108713
 'Alan Jackson',en,unknown,#111111,#111111,3,0.575381688088
 'Jake Reiner',en,unknown,#111111,#111111,2,0.571071994483
@@ -7,17 +7,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Good',en,unknown,#111111,#111111,2,0.564808990204
 'Nanon Williams',en,unknown,#111111,#111111,2,0.564360218383
 'Epstein Files',en,unknown,#111111,#111111,3,0.562217526795
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.560622297878
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.561652487453
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.560418301432
 'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
 'Mark Kelly',en,unknown,#111111,#111111,2,0.554547864981
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.551759589055
 'Nick Reiner',en,unknown,#111111,#111111,2,0.550124945612
+'Bari Weiss',en,unknown,#111111,#111111,3,0.548107926609
 'Scott Jennings',en,unknown,#111111,#111111,3,0.546925107707
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.546748136029
 'Kristi Noem',en,unknown,#111111,#111111,3,0.545574102161
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
-'Bari Weiss',en,unknown,#111111,#111111,3,0.542646368332
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
 'Pam Bondi',en,unknown,#111111,#111111,3,0.539115478973
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
@@ -78,8 +78,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.475082837305
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.473868408169
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.472361224755
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471795745612
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
@@ -378,12 +378,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
 'Jake Tapper',en,USA,#18e8e8,#18e8e8,3,0.401337405881
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.401217866605
+'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.401181865122
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.400972438328
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
-'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.400349976764
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
 'Kim Mulkey',en,USA,#18e8e8,#18e8e8,2,0.399961151285
