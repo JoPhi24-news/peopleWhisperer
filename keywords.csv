@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.565645953814
-'Renee Good',en,unknown,#111111,#111111,2,0.565316388655
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.564718914922
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.567749514317
+'Renee Good',en,unknown,#111111,#111111,2,0.565822794571
 'Nanon Williams',en,unknown,#111111,#111111,2,0.564360218383
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.563038018015
 'Epstein Files',en,unknown,#111111,#111111,3,0.562217526795
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.560418301432
 'Jake Reiner',en,unknown,#111111,#111111,3,0.559912635311
@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.551759589055
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.549989623735
 'Abby Phillip',en,unknown,#111111,#111111,3,0.549459947406
+'Kristi Noem',en,unknown,#111111,#111111,3,0.548829437416
 'Bari Weiss',en,unknown,#111111,#111111,3,0.548107926609
-'Kristi Noem',en,unknown,#111111,#111111,3,0.547748615254
 'Scott Jennings',en,unknown,#111111,#111111,3,0.546925107707
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
@@ -75,7 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.475082837305
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.475768556639
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.473868408169
@@ -557,6 +557,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.367564413498
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
@@ -566,7 +567,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
 'Jim Jordan',en,unknown,#111111,#111111,3,0.365200834094
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.364875305148
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.364709459196
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
