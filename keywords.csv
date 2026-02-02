@@ -1,7 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.563038018015
+'Jonathan Ross',en,unknown,#111111,#111111,2,0.609996374308
+'Romy Reiner',en,unknown,#111111,#111111,2,0.609788199217
+'Jacob Frey',en,unknown,#111111,#111111,2,0.606237227617
+'Tim Walz',en,unknown,#111111,#111111,2,0.602543223414
 'Epstein Files',en,unknown,#111111,#111111,3,0.562217526795
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.561338765535
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.561852960826
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.560418301432
 'Jake Reiner',en,unknown,#111111,#111111,3,0.559912635311
 'Thomas Massie',en,unknown,#111111,#111111,3,0.556405934913
@@ -16,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Pam Bondi',en,unknown,#111111,#111111,3,0.540230435845
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
-'Ben Shapiro',en,unknown,#111111,#111111,3,0.536807339669
+'Ben Shapiro',en,unknown,#111111,#111111,3,0.537369949705
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Rob Reiner',en,unknown,#111111,#111111,3,0.529952807448
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.529328180343
@@ -30,13 +33,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Alan Jackson',en,unknown,#111111,#111111,3,0.509483642406
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
+'Tom Homan',en,unknown,#111111,#111111,2,0.507892700261
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.507710156928
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.507418719600
+'María Corina Machado',en,unknown,#111111,#111111,2,0.506680775210
+'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503010385617
+'Renee Nicole Good',en,unknown,#111111,#111111,2,0.503722824079
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503640354561
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.501730108495
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
+'Alex Pretti',en,unknown,#111111,#111111,2,0.501018220894
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.498259999649
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.494982592657
@@ -556,8 +565,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.369322109864
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.368457511074
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.367564413498
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
