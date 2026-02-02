@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nanon Williams',en,unknown,#111111,#111111,2,0.564360218383
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.563038018015
 'Epstein Files',en,unknown,#111111,#111111,3,0.562217526795
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.561338765535
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
+'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.481897212510
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
