@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tim Walz',en,unknown,#111111,#111111,2,0.604276890287
-'Jacob Frey',en,unknown,#111111,#111111,2,0.588466641656
+'Tim Walz',en,unknown,#111111,#111111,3,0.591362129471
+'Jacob Frey',en,unknown,#111111,#111111,2,0.589388778539
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.582561722253
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.564917043836
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.565930425898
 'Romy Reiner',en,unknown,#111111,#111111,2,0.564180125244
 'Epstein Files',en,unknown,#111111,#111111,3,0.562217526795
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.560418301432
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',en,unknown,#111111,#111111,3,0.548107926609
 'Scott Jennings',en,unknown,#111111,#111111,3,0.546925107707
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
-'Pam Bondi',en,unknown,#111111,#111111,3,0.540230435845
+'Pam Bondi',en,unknown,#111111,#111111,3,0.540786257257
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540063765700
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537369949705
 'Renee Good',en,unknown,#111111,#111111,3,0.534356883632
@@ -41,8 +41,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.503640354561
+'Alex Pretti',en,unknown,#111111,#111111,2,0.503546428109
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502993898434
-'Alex Pretti',en,unknown,#111111,#111111,2,0.502916271134
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
@@ -237,9 +237,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
+'James Comer',en,USA,#18e8e8,#18e8e8,3,0.429283102193
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.428692188779
-'James Comer',en,USA,#18e8e8,#18e8e8,3,0.428505451056
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.427816998782
