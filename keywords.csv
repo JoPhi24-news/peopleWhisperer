@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tim Walz',en,unknown,#111111,#111111,3,0.562202824596
 'Jacob Frey',en,unknown,#111111,#111111,3,0.562063656758
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.560418301432
 'Jake Reiner',en,unknown,#111111,#111111,3,0.559912635311
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.488378125920
+'Tim Walz',en,unknown,#111111,#111111,3,0.487417760452
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.487378768705
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
@@ -562,10 +562,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Edelman',en,unknown,#111111,#111111,2,0.369911336388
 'Akshata Murty',en,Indien,#cc3388,#cc3388,2,0.369823830377
 'Jerod Mayo',en,unknown,#111111,#111111,2,0.369565016031
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.369348974317
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.369322109864
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.368457511074
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
