@@ -1,14 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abby Phillip',en,unknown,#111111,#111111,3,0.549459947406
+'Scott Jennings',en,unknown,#111111,#111111,3,0.549088974243
 'Bari Weiss',en,unknown,#111111,#111111,3,0.548107926609
-'Scott Jennings',en,unknown,#111111,#111111,3,0.546925107707
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.546393496724
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.543109062382
+'Jacob Frey',en,unknown,#111111,#111111,3,0.542381526899
 'Pam Bondi',en,unknown,#111111,#111111,3,0.541894598201
-'Jacob Frey',en,unknown,#111111,#111111,3,0.541828872335
 'Thomas Massie',en,unknown,#111111,#111111,3,0.541435528962
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540619917440
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.539548927882
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.540106100131
 'Kristi Noem',en,unknown,#111111,#111111,3,0.538654505909
 'Renee Good',en,unknown,#111111,#111111,3,0.537744877868
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537369949705
@@ -20,18 +19,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
 'Joe Rogan',en,unknown,#111111,#111111,3,0.522530980923
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
+'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Tom Homan',en,unknown,#111111,#111111,2,0.514647361440
-'Epstein Files',en,unknown,#111111,#111111,3,0.513471494762
+'Epstein Files',en,unknown,#111111,#111111,3,0.514080570871
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.508716171166
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
+'Alex Pretti',en,unknown,#111111,#111111,2,0.507922418116
 'Nick Reiner',en,unknown,#111111,#111111,3,0.507902195194
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.507710156928
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.507418719600
-'Alex Pretti',en,unknown,#111111,#111111,2,0.507301020536
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.505506364174
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
@@ -47,8 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',en,unknown,#111111,#111111,3,0.494527553597
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493001141251
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
+'Tim Walz',en,unknown,#111111,#111111,3,0.492017947560
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.491763958532
-'Tim Walz',en,unknown,#111111,#111111,3,0.491364712555
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.490563658108
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
@@ -209,8 +209,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
+'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.435721570133
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
-'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.434956516305
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434916732593
 'Mark Carney',en,Kanada,#443388,#443388,3,0.434915419212
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
@@ -753,9 +753,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.248506987544
 'Tamim Hamad Thani',en,Katar,#44cc88,#44cc88,3,0.247704442776
+'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
-'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.245924505088
-'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.244862599111
+'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.245955821955
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.244824561224
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.244496985284
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
