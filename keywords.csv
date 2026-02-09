@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bari Weiss',en,unknown,#111111,#111111,3,0.570398607618
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.548021144818
+'Bari Weiss',en,unknown,#111111,#111111,3,0.576592325669
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.548561551802
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.545071243220
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Jacob Frey',en,unknown,#111111,#111111,3,0.542381526899
 'Pam Bondi',en,unknown,#111111,#111111,3,0.541894598201
 'Thomas Massie',en,unknown,#111111,#111111,3,0.541435528962
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.540662167965
 'Ro Khanna',en,unknown,#111111,#111111,3,0.540619917440
 'Kristi Noem',en,unknown,#111111,#111111,3,0.538654505909
 'Renee Good',en,unknown,#111111,#111111,3,0.537744877868
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Tom Homan',en,unknown,#111111,#111111,2,0.515859608817
-'Epstein Files',en,unknown,#111111,#111111,3,0.514080570871
+'Epstein Files',en,unknown,#111111,#111111,3,0.514688431234
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.481897212510
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
+'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.479870541445
-'Joy Reid',en,unknown,#111111,#111111,3,0.479358490714
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.479129232647
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.478666720697
@@ -400,6 +400,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
 'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.399482843420
 'Ayatollah Khomeini',en,Iran,#117733,#117733,1,0.399467280512
+'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.399316021984
 'Chris Kirkpatrick',en,USA,#18e8e8,#18e8e8,1,0.399079205200
 'Jacoby Brissett',en,USA,#18e8e8,#18e8e8,2,0.398985177314
 'Joe Alwyn',en,UK,#e838e8,#e838e8,2,0.398823512610
@@ -418,7 +419,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',en,VAE,#2266bb,#2266bb,3,0.397003494841
 'Carter Reum',en,USA,#18e8e8,#18e8e8,1,0.396922770464
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.396815427329
-'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.396804935485
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565
 'Yoon Suk Yeol',en,SüdKorea,#22bb66,#22bb66,3,0.396587234843
 'Paris Hilton',en,USA,#18e8e8,#18e8e8,3,0.396478933132
@@ -576,11 +576,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
 'Jim Jordan',en,unknown,#111111,#111111,3,0.365200834094
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.365068380501
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.364709459196
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.364213702129
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364169088102
 'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.364051790726
 'Roger Federer',en,unknown,#111111,#111111,3,0.363412792318
 'Mary Robinson',en,unknown,#111111,#111111,3,0.363299736172
