@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Attia',en,unknown,#111111,#111111,3,0.607096967673
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.603015694454
 'Todd Blanche',en,unknown,#111111,#111111,3,0.600901199413
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.560482266582
-'Bari Weiss',en,unknown,#111111,#111111,3,0.557827590185
+'Peter Attia',en,unknown,#111111,#111111,3,0.575529542068
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.566101618605
+'Bari Weiss',en,unknown,#111111,#111111,3,0.559387782687
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.552846588310
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Pam Bondi',en,unknown,#111111,#111111,3,0.542447122592
@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
 'Joe Rogan',en,unknown,#111111,#111111,3,0.522530980923
+'Epstein Files',en,unknown,#111111,#111111,3,0.518310204426
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
-'Epstein Files',en,unknown,#111111,#111111,3,0.517709585423
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Tom Homan',en,unknown,#111111,#111111,2,0.515859608817
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
