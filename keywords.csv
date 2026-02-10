@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Cuomo',en,unknown,#111111,#111111,2,0.603015694454
 'Todd Blanche',en,unknown,#111111,#111111,3,0.600901199413
 'Peter Attia',en,unknown,#111111,#111111,3,0.575529542068
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.566101618605
+'Chris Cuomo',en,unknown,#111111,#111111,2,0.562064060286
 'Bari Weiss',en,unknown,#111111,#111111,3,0.559387782687
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.552846588310
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.553377476071
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Pam Bondi',en,unknown,#111111,#111111,3,0.542447122592
 'Jacob Frey',en,unknown,#111111,#111111,3,0.542381526899
@@ -250,13 +250,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.428692188779
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
+'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428103194735
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.427554442130
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
-'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.425630788486
