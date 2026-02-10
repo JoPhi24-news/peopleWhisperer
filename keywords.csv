@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Attia',en,unknown,#111111,#111111,3,0.647920944321
+'Peter Attia',en,unknown,#111111,#111111,3,0.607096967673
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.603015694454
 'Todd Blanche',en,unknown,#111111,#111111,3,0.600901199413
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.558408601267
-'Bari Weiss',en,unknown,#111111,#111111,3,0.556782335559
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.560482266582
+'Bari Weiss',en,unknown,#111111,#111111,3,0.557827590185
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.552846588310
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Pam Bondi',en,unknown,#111111,#111111,3,0.542447122592
@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
 'Joe Rogan',en,unknown,#111111,#111111,3,0.522530980923
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
+'Epstein Files',en,unknown,#111111,#111111,3,0.517709585423
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
-'Epstein Files',en,unknown,#111111,#111111,3,0.517107765842
 'Tom Homan',en,unknown,#111111,#111111,2,0.515859608817
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
@@ -82,10 +82,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.479129232647
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.478666720697
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.477817528026
 'Keir Starmer',en,unknown,#111111,#111111,3,0.477527162696
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.477437657661
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.477135899497
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477012068267
 'Jake Reiner',en,unknown,#111111,#111111,2,0.475926655014
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
