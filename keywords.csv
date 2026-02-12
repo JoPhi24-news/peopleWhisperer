@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Attia',en,unknown,#111111,#111111,3,0.560144419399
-'Bari Weiss',en,unknown,#111111,#111111,3,0.559905805628
+'Bari Weiss',en,unknown,#111111,#111111,3,0.560938803563
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.554963873670
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Todd Blanche',en,unknown,#111111,#111111,3,0.542998916774
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.498899459739
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
+'Peter Attia',en,unknown,#111111,#111111,3,0.494710965126
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493001141251
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492082605598
@@ -333,13 +333,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
 'Bill Belichick',en,USA,#18e8e8,#18e8e8,3,0.411461096951
+'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.411004135892
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.410313019888
 'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.410249702812
-'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.410215496316
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.410195963213
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
