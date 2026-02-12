@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Cuomo',en,unknown,#111111,#111111,2,0.562064060286
 'Peter Attia',en,unknown,#111111,#111111,3,0.560144419399
 'Bari Weiss',en,unknown,#111111,#111111,3,0.559905805628
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.554436116397
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.554963873670
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Todd Blanche',en,unknown,#111111,#111111,3,0.542998916774
 'Pam Bondi',en,unknown,#111111,#111111,3,0.542998552830
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493001141251
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
+'Chris Cuomo',en,unknown,#111111,#111111,2,0.492082605598
 'Tim Walz',en,unknown,#111111,#111111,3,0.492017947560
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.491763958532
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.490563658108
