@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.577842095265
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.562064060286
 'Peter Attia',en,unknown,#111111,#111111,3,0.560144419399
 'Bari Weiss',en,unknown,#111111,#111111,3,0.559905805628
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
 'Joe Rogan',en,unknown,#111111,#111111,3,0.522530980923
 'Epstein Files',en,unknown,#111111,#111111,3,0.521295379031
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.518907193703
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Tom Homan',en,unknown,#111111,#111111,2,0.515859608817
@@ -44,8 +44,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.504896519206
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.504663659381
 'Mark Kelly',en,unknown,#111111,#111111,3,0.503606817507
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.502650069210
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.502018117793
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.498899459739
@@ -166,8 +166,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.451751212202
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451198891941
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.451017739211
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
@@ -221,10 +221,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',en,Kanada,#443388,#443388,3,0.434915419212
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.434702493576
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.434688851282
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.433921773185
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.433768391430
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
