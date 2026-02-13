@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Candace Owens',en,unknown,#111111,#111111,3,0.576926519070
 'Todd Blanche',en,unknown,#111111,#111111,3,0.542998916774
 'Pam Bondi',en,unknown,#111111,#111111,3,0.542998552830
 'Jacob Frey',en,unknown,#111111,#111111,3,0.542381526899
@@ -7,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.541174967014
 'Renee Good',en,unknown,#111111,#111111,3,0.539423792995
 'Kristi Noem',en,unknown,#111111,#111111,3,0.539213451567
-'Ben Shapiro',en,unknown,#111111,#111111,3,0.537369949705
+'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528292447919
@@ -18,11 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.522530980923
 'Epstein Files',en,unknown,#111111,#111111,3,0.521295379031
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.519505423969
+'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Tom Homan',en,unknown,#111111,#111111,2,0.515859608817
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.513550418104
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.512975752579
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.513585818287
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
@@ -63,12 +63,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
 'Bari Weiss',en,unknown,#111111,#111111,3,0.486326936822
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Steve Bannon',en,unknown,#111111,#111111,3,0.484045716147
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.483539436493
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
@@ -82,8 +82,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.479129232647
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.478666720697
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.478497797964
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.477817528026
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.477437657661
@@ -576,13 +576,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.365966035000
 'Mick Jagger',en,unknown,#111111,#111111,3,0.365750938827
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.365608216250
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.365602148198
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
 'Jim Jordan',en,unknown,#111111,#111111,3,0.365200834094
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.365068380501
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.364709459196
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
