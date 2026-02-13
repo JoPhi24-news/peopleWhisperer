@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.554963873670
 'Candace Owens',en,unknown,#111111,#111111,3,0.544566452916
 'Todd Blanche',en,unknown,#111111,#111111,3,0.542998916774
 'Pam Bondi',en,unknown,#111111,#111111,3,0.542998552830
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Tom Homan',en,unknown,#111111,#111111,2,0.515859608817
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.511751957619
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
@@ -412,13 +412,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',en,UK,#e838e8,#e838e8,2,0.398823512610
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.398811465437
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223159
+'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.398491033922
 'Jeffrey Donaldson',en,Irland,#3377bb,#3377bb,2,0.398430401226
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.398409033250
 'Sam H',en,unknown,#111111,#111111,2,0.398158194809
 'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.398095856622
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.398047174748
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.397910616381
-'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.397654025493
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.397503028453
 'David Koch',en,USA,#18e8e8,#18e8e8,3,0.397427143047
 'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.397326396430
@@ -488,13 +488,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.386540311018
 'Hailey Van Lith',en,USA,#18e8e8,#18e8e8,2,0.386505347677
 'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.386411487596
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.385792992555
 'Fani Willis',en,USA,#18e8e8,#18e8e8,3,0.385693278173
 'Andrea Arnold',en,UK,#e838e8,#e838e8,2,0.385671814280
 'Lance Bass',en,USA,#18e8e8,#18e8e8,1,0.385648705276
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.385064220622
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.385005155955
 'Kim Reynolds',en,USA,#18e8e8,#18e8e8,3,0.384941470179
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.384932022384
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.384905078928
 'Robert Prevost',en,unknown,#111111,#111111,2,0.384823984602
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.384787963701
