@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Massie',en,unknown,#111111,#111111,3,0.560130936761
-'Pam Bondi',en,unknown,#111111,#111111,3,0.549531250213
+'Thomas Massie',en,unknown,#111111,#111111,3,0.579356686247
+'Pam Bondi',en,unknown,#111111,#111111,3,0.559563273421
 'Jacob Frey',en,unknown,#111111,#111111,3,0.542381526899
 'Ro Khanna',en,unknown,#111111,#111111,3,0.542281769391
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
@@ -8,16 +8,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.532369098214
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528292447919
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.527756523566
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
 'Joe Rogan',en,unknown,#111111,#111111,3,0.523121986657
-'Epstein Files',en,unknown,#111111,#111111,3,0.522481133012
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.519021912145
+'Epstein Files',en,unknown,#111111,#111111,3,0.523072238087
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.522000019294
 'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
@@ -105,13 +105,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.470234196919
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
+'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.470032675371
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.469814797693
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.468660437308
-'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.468636966698
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467863042337
