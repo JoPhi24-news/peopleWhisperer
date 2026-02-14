@@ -1,21 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pam Bondi',en,unknown,#111111,#111111,3,0.560597614372
 'Thomas Massie',en,unknown,#111111,#111111,3,0.551956617855
 'Ro Khanna',en,unknown,#111111,#111111,3,0.543933767414
 'Jacob Frey',en,unknown,#111111,#111111,3,0.542381526899
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
 'Kristi Noem',en,unknown,#111111,#111111,3,0.539213451567
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.535780660299
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.537471243752
+'Pam Bondi',en,unknown,#111111,#111111,3,0.536037446762
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.528448237611
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528292447919
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.524361205253
 'Joe Rogan',en,unknown,#111111,#111111,3,0.523121986657
 'Epstein Files',en,unknown,#111111,#111111,3,0.523072238087
 'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',en,unknown,#111111,#111111,2,0.517067022889
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
+'Alex Pretti',en,unknown,#111111,#111111,2,0.511010839302
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
-'Alex Pretti',en,unknown,#111111,#111111,2,0.510395622159
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
@@ -325,6 +325,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.412544633373
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
 'Michelle Williams',en,USA,#18e8e8,#18e8e8,3,0.411989303413
+'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.411815657059
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791364
 'Lily Gladstone',en,USA,#18e8e8,#18e8e8,3,0.411768921892
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230017
@@ -336,7 +337,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.411062672898
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
-'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.411004135892
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.410313019888
