@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Casey Wasserman',en,unknown,#111111,#111111,2,0.609356842725
+'Casey Wasserman',en,unknown,#111111,#111111,3,0.651607786316
 'James Carville',en,unknown,#111111,#111111,2,0.605987148291
 'Howard Lutnick',en,unknown,#111111,#111111,2,0.605520891326
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.532478675990
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.533049882675
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528292447919
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
+'Epstein Files',en,unknown,#111111,#111111,3,0.525424904147
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
-'Epstein Files',en,unknown,#111111,#111111,3,0.524250916953
 'Joe Rogan',en,unknown,#111111,#111111,3,0.523121986657
 'Tom Homan',en,unknown,#111111,#111111,2,0.520660467290
 'Ro Khanna',en,unknown,#111111,#111111,3,0.519311060981
@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
 'Alex Pretti',en,unknown,#111111,#111111,2,0.514068548696
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.510751467685
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Nick Reiner',en,unknown,#111111,#111111,3,0.507902195194
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.507710156928
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.507038518994
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.506755080696
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
@@ -48,8 +48,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.500448263632
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.499537642195
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497895171926
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Peter Attia',en,unknown,#111111,#111111,3,0.495357515797
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
