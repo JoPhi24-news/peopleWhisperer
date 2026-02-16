@@ -1,32 +1,33 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Casey Wasserman',en,unknown,#111111,#111111,3,0.651607786316
+'Casey Wasserman',en,unknown,#111111,#111111,3,0.677002981550
 'James Carville',en,unknown,#111111,#111111,2,0.605987148291
 'Howard Lutnick',en,unknown,#111111,#111111,2,0.605520891326
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
 'Pam Bondi',en,unknown,#111111,#111111,3,0.538287290604
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.533619954229
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.533049882675
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
+'Epstein Files',en,unknown,#111111,#111111,3,0.528339477363
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528292447919
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
-'Epstein Files',en,unknown,#111111,#111111,3,0.525424904147
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
-'Joe Rogan',en,unknown,#111111,#111111,3,0.523121986657
+'Joe Rogan',en,unknown,#111111,#111111,3,0.523711814672
 'Tom Homan',en,unknown,#111111,#111111,2,0.520660467290
 'Ro Khanna',en,unknown,#111111,#111111,3,0.519311060981
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.518645071590
 'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
 'Alex Pretti',en,unknown,#111111,#111111,2,0.514068548696
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.510751467685
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.509842506646
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.500448263632
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.499537642195
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Peter Attia',en,unknown,#111111,#111111,3,0.495357515797
@@ -64,8 +64,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',en,unknown,#111111,#111111,3,0.490544181134
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.490496363580
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
-'Sarah Ferguson',en,unknown,#111111,#111111,2,0.489695208341
-'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488039963413
+'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
+'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
 'Bari Weiss',en,unknown,#111111,#111111,3,0.486326936822
 'Steve Bannon',en,unknown,#111111,#111111,3,0.485380078779
@@ -346,13 +346,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.410313019888
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.410285907117
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.410195963213
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.409840929960
 'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.409825278376
 'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.409584058597
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.409471443387
 'Victoria Beckham',en,UK,#e838e8,#e838e8,3,0.409118499000
 'Mahmud Abbas',en,Palestina,#cc2255,#cc2255,1,0.409075768645
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.408993545804
