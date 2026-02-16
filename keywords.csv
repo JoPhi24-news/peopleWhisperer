@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.563803227400
 'Kristi Noem',en,unknown,#111111,#111111,3,0.540328020367
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
 'Pam Bondi',en,unknown,#111111,#111111,3,0.538287290604
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,2,0.501813139408
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.499537642195
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497895171926
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Peter Attia',en,unknown,#111111,#111111,3,0.495357515797
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
@@ -757,8 +757,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Premier ministre',en,unknown,#111111,#111111,1,0.250182676507
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.249749008201
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031
+'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.249226326367
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.248506987544
-'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.248137688778
 'Tamim Hamad Thani',en,Katar,#44cc88,#44cc88,3,0.247704442776
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
