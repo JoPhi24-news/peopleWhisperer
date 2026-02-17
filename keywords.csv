@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howard Lutnick',en,unknown,#111111,#111111,3,0.601471184445
+'Howard Lutnick',en,unknown,#111111,#111111,3,0.588491441940
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.586490487651
 'James Carville',en,unknown,#111111,#111111,2,0.574585385593
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
-'Pam Bondi',en,unknown,#111111,#111111,3,0.538846964534
+'Pam Bondi',en,unknown,#111111,#111111,3,0.539405528544
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.536453371346
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.537578878481
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
-'Epstein Files',en,unknown,#111111,#111111,3,0.528339477363
-'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528292447919
+'Epstein Files',en,unknown,#111111,#111111,3,0.528918915725
+'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528871979867
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.516554772397
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
 'Alex Pretti',en,unknown,#111111,#111111,2,0.514068548696
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.512911832929
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
@@ -222,9 +222,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
+'Mark Carney',en,Kanada,#443388,#443388,3,0.435680553464
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434916732593
-'Mark Carney',en,Kanada,#443388,#443388,3,0.434915419212
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.434702493576
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.434688851282
@@ -352,10 +352,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.409840929960
 'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.409825278376
+'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.409808926195
 'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.409584058597
 'Victoria Beckham',en,UK,#e838e8,#e838e8,3,0.409118499000
 'Mahmud Abbas',en,Palestina,#cc2255,#cc2255,1,0.409075768645
-'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.408993545804
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584216
 'Mary Lou McDonald',en,Irland,#3377bb,#3377bb,3,0.407910047000
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.407612679578
@@ -966,10 +966,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.107551653701
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.106603442469
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.106312178344
+'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.104585197684
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.104435530128
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215
 'Jitzchak Herzog',en,Israel,#22bb33,#22bb33,1,0.103494780077
-'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.103345614626
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,1,0.103296138407
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.102172161465
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.102166605294
