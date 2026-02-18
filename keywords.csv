@@ -1,28 +1,28 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howard Lutnick',en,unknown,#111111,#111111,3,0.588491441940
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.586490487651
 'James Carville',en,unknown,#111111,#111111,2,0.574585385593
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
 'Pam Bondi',en,unknown,#111111,#111111,3,0.539405528544
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.538139957642
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.537578878481
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
+'Howard Lutnick',en,unknown,#111111,#111111,3,0.533153075649
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
-'Epstein Files',en,unknown,#111111,#111111,3,0.528918915725
+'Epstein Files',en,unknown,#111111,#111111,3,0.529497201139
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528871979867
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
-'Joe Rogan',en,unknown,#111111,#111111,3,0.523711814672
+'Joe Rogan',en,unknown,#111111,#111111,3,0.524300467475
 'Tom Homan',en,unknown,#111111,#111111,2,0.521255201480
 'Ro Khanna',en,unknown,#111111,#111111,3,0.519311060981
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.518959256592
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.518645071590
 'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.516554772397
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
 'Alex Pretti',en,unknown,#111111,#111111,2,0.514068548696
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
@@ -66,7 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
-'Jen Psaki',en,unknown,#111111,#111111,3,0.487193317680
+'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Bari Weiss',en,unknown,#111111,#111111,3,0.486326936822
 'Steve Bannon',en,unknown,#111111,#111111,3,0.485380078779
 'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
@@ -825,10 +825,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.216781029857
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.215009181110
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.214282176632
+'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.213776470371
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.212393858933
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.212016224151
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.211701045026
-'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.211503684522
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.211101555631
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.208323344689
 'Andrzej Duda',en,Polen,#8844cc,#8844cc,3,0.207717402164
