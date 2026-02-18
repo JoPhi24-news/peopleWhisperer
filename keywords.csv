@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Carville',en,unknown,#111111,#111111,2,0.574585385593
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.549488993874
 'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
 'Pam Bondi',en,unknown,#111111,#111111,3,0.539405528544
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.538139957642
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.538699923796
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
+'James Carville',en,unknown,#111111,#111111,3,0.534148447754
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.533153075649
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
@@ -68,8 +68,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Bari Weiss',en,unknown,#111111,#111111,3,0.486326936822
+'Bill Maher',en,unknown,#111111,#111111,3,0.485753659797
 'Steve Bannon',en,unknown,#111111,#111111,3,0.485380078779
-'Bill Maher',en,unknown,#111111,#111111,3,0.485087891997
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -85,11 +85,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.480546718227
 'Keir Starmer',en,unknown,#111111,#111111,3,0.480242424647
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.479806887597
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.479176711819
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.479129232647
+'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478901835523
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.478666720697
-'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.477437657661
@@ -374,6 +374,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Johnson',en,USA,#18e8e8,#18e8e8,3,0.405327120531
 'Jerry Seinfeld',en,USA,#18e8e8,#18e8e8,3,0.405310728748
 'Antonio Brown',en,USA,#18e8e8,#18e8e8,3,0.405079179672
+'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.404883440270
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
 'Victoria Monét',en,USA,#18e8e8,#18e8e8,3,0.404553348792
 'Roman Pacino',en,USA,#18e8e8,#18e8e8,1,0.404455146818
@@ -382,7 +383,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Demi Moore',en,USA,#18e8e8,#18e8e8,3,0.404320275881
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.404095916978
-'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.404058618002
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.403778814828
