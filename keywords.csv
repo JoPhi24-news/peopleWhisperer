@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Renee Good',en,unknown,#111111,#111111,3,0.539981213317
 'Pam Bondi',en,unknown,#111111,#111111,3,0.539405528544
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.538699923796
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.537931443376
@@ -22,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Candace Owens',en,unknown,#111111,#111111,3,0.518069028937
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
 'Abby Phillip',en,unknown,#111111,#111111,3,0.517446610750
+'Alex Pretti',en,unknown,#111111,#111111,2,0.514676433055
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.514159336672
-'Alex Pretti',en,unknown,#111111,#111111,2,0.514068548696
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.473868408169
+'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473052363837
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.471422836995
