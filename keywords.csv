@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.536394350637
 'James Carville',en,unknown,#111111,#111111,3,0.534148447754
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.533722942155
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
@@ -7,11 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.531225164541
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
 'Pam Bondi',en,unknown,#111111,#111111,3,0.529262048835
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.529158891223
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528871979867
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.525166093236
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.526336438546
 'Joe Rogan',en,unknown,#111111,#111111,3,0.524887947571
 'Michele Reiner',en,unknown,#111111,#111111,2,0.524523927054
 'Tom Homan',en,unknown,#111111,#111111,2,0.522441115472
@@ -176,13 +176,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451198891941
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.450541942539
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.450515171468
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.449975236200
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.449886165962
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.449068757565
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.449041880530
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.447446899120
@@ -215,10 +215,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.439012111182
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.437742180567
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.437611288415
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.437470659369
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.436981091313
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436812316501
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
