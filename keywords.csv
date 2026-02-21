@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Carville',en,unknown,#111111,#111111,3,0.534148447754
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.533722942155
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.468660437308
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
+'James Carville',en,unknown,#111111,#111111,3,0.468067899682
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.468019358978
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467863042337
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.467730083670
