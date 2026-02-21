@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howard Lutnick',en,unknown,#111111,#111111,3,0.533722942155
 'Rob Reiner',en,unknown,#111111,#111111,3,0.533393038848
 'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
 'Epstein Files',en,unknown,#111111,#111111,3,0.531225164541
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.529736699197
 'Pam Bondi',en,unknown,#111111,#111111,3,0.529262048835
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.529158891223
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528871979867
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
@@ -80,8 +79,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.481398194148
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.481221546527
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.481205342010
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.480546718227
 'Keir Starmer',en,unknown,#111111,#111111,3,0.480242424647
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.479806887597
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
 'James Carville',en,unknown,#111111,#111111,3,0.468067899682
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.468019358978
+'Howard Lutnick',en,unknown,#111111,#111111,3,0.468002540187
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.467863042337
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.467730083670
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
@@ -270,12 +270,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.425066980900
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.424281111662
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.424172970124
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
