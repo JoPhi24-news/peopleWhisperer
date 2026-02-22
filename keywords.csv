@@ -1,14 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Todd Blanche',en,unknown,#111111,#111111,3,0.533152023568
 'Epstein Files',en,unknown,#111111,#111111,3,0.531225164541
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.531122591912
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.529736699197
-'Pam Bondi',en,unknown,#111111,#111111,3,0.529262048835
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.530313357739
+'Pam Bondi',en,unknown,#111111,#111111,3,0.529839651584
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.528871979867
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.527502127780
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.526336438546
 'Michele Reiner',en,unknown,#111111,#111111,2,0.525696827735
 'Joe Rogan',en,unknown,#111111,#111111,3,0.524887947571
 'Tom Homan',en,unknown,#111111,#111111,2,0.522441115472
@@ -16,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Candace Owens',en,unknown,#111111,#111111,3,0.519267636403
 'Abby Phillip',en,unknown,#111111,#111111,3,0.518047754349
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.517875500994
-'Alex Pretti',en,unknown,#111111,#111111,2,0.516492816667
+'Alex Pretti',en,unknown,#111111,#111111,2,0.517095863146
 'Rob Reiner',en,unknown,#111111,#111111,3,0.516100354150
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.515373530086
 'Alan Jackson',en,unknown,#111111,#111111,3,0.511331063282
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.473868408169
 'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473052363837
+'Todd Blanche',en,unknown,#111111,#111111,3,0.471776563669
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.471422836995
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -173,10 +173,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.451751212202
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.451276355009
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451198891941
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.450541942539
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.450515171468
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.449975236200
