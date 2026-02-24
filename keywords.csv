@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Les Wexner',en,unknown,#111111,#111111,3,0.628107681128
+'Les Wexner',en,unknown,#111111,#111111,3,0.609008378959
 'Mark Levin',en,unknown,#111111,#111111,2,0.606024962385
 'Chappell Roan',en,unknown,#111111,#111111,2,0.600751451946
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.530881066374
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.534877848929
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.529450358665
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.527502127780
@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.510720736374
 'Nick Reiner',en,unknown,#111111,#111111,3,0.510375560309
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509759290955
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509141569469
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.508039882085
@@ -103,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.473294050546
 'Todd Blanche',en,unknown,#111111,#111111,3,0.473159791324
 'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473052363837
@@ -113,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.470659385650
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.470523147221
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.470234196919
@@ -137,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.465663223284
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
@@ -156,9 +157,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.461388136158
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.460692610017
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.459950774417
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.459757275127
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
@@ -169,7 +170,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.457876197114
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.457544711469
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.457073346961
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
@@ -181,8 +181,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.452483236501
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
+'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451932007182
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
-'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451198891941
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
