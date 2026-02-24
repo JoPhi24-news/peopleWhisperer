@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chappell Roan',en,unknown,#111111,#111111,2,0.600751451946
+'Chappell Roan',en,unknown,#111111,#111111,2,0.570142393700
 'Mark Levin',en,unknown,#111111,#111111,3,0.563320655124
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.534877848929
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.536009604941
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.529450358665
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.528083232607
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.527502127780
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
 'Les Wexner',en,unknown,#111111,#111111,3,0.527161472115
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
@@ -69,7 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
-'Bill Maher',en,unknown,#111111,#111111,3,0.486418098723
+'Bill Maher',en,unknown,#111111,#111111,3,0.487743000082
 'Bari Weiss',en,unknown,#111111,#111111,3,0.486326936822
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
@@ -80,11 +80,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
+'Casey Wasserman',en,unknown,#111111,#111111,3,0.482071324128
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.481897212510
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.481878856668
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
-'Casey Wasserman',en,unknown,#111111,#111111,3,0.481398194148
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.481221546527
 'Keir Starmer',en,unknown,#111111,#111111,3,0.480917859813
@@ -107,21 +107,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',en,unknown,#111111,#111111,3,0.473159791324
 'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473052363837
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.471623557436
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
+'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.471446121413
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.471422836995
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.470659385650
+'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.470511004073
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.470234196919
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
-'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.469814797693
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.469400769532
-'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.469358939590
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
@@ -255,10 +255,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Affaire Epstein',en,unknown,#111111,#111111,1,0.430499099565
 'Prince William',en,UK,#e838e8,#e838e8,3,0.430354328987
+'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.430149425068
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
-'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.429373465696
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.428692188779
@@ -281,10 +281,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.424959049405
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
-'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.424172970124
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
@@ -351,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.411062672898
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
+'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.410639063153
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.410313019888
@@ -358,7 +359,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.409840929960
-'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.409825278376
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.409808926195
 'Steve Scalise',en,USA,#18e8e8,#18e8e8,3,0.409584058597
 'Victoria Beckham',en,UK,#e838e8,#e838e8,3,0.409118499000
