@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Les Wexner',en,unknown,#111111,#111111,3,0.609008378959
 'Mark Levin',en,unknown,#111111,#111111,2,0.606024962385
 'Chappell Roan',en,unknown,#111111,#111111,2,0.600751451946
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.534877848929
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',en,unknown,#111111,#111111,3,0.527778373107
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.527502127780
 'Cilia Flores',en,unknown,#111111,#111111,3,0.527300896339
+'Les Wexner',en,unknown,#111111,#111111,3,0.527161472115
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.526537163369
 'Michele Reiner',en,unknown,#111111,#111111,2,0.526281526698
 'Joe Rogan',en,unknown,#111111,#111111,3,0.524887947571
