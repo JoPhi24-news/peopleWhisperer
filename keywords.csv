@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chappell Roan',en,unknown,#111111,#111111,3,0.553215618281
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.538259669125
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.529450358665
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.528083232607
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
+'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.482743111324
