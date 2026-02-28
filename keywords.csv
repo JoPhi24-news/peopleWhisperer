@@ -1,18 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Reiner',en,unknown,#111111,#111111,3,0.532042980476
+'Michele Reiner',en,unknown,#111111,#111111,3,0.534307928243
 'Cilia Flores',en,unknown,#111111,#111111,3,0.525885569615
 'Joe Rogan',en,unknown,#111111,#111111,3,0.524887947571
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.524322376967
 'Tom Homan',en,unknown,#111111,#111111,2,0.522441115472
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521264498931
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.520955208125
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.520669783314
 'Ro Khanna',en,unknown,#111111,#111111,3,0.520504719330
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.520269479082
+'Michele Singer',en,unknown,#111111,#111111,2,0.519647947653
 'Candace Owens',en,unknown,#111111,#111111,3,0.519267636403
 'Abby Phillip',en,unknown,#111111,#111111,3,0.519246446598
 'Alex Pretti',en,unknown,#111111,#111111,2,0.517697706473
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.517396953327
-'Michele Singer',en,unknown,#111111,#111111,2,0.516646245731
 'Epstein Files',en,unknown,#111111,#111111,3,0.516262544623
 'Pam Bondi',en,unknown,#111111,#111111,3,0.516107508800
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.515373530086
@@ -69,11 +69,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Maher',en,unknown,#111111,#111111,3,0.487743000082
 'Scott Jennings',en,unknown,#111111,#111111,3,0.486225842141
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
+'Rob Reiner',en,unknown,#111111,#111111,3,0.485424452505
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
+'Nick Reiner',en,unknown,#111111,#111111,3,0.483646530628
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.482743111324
@@ -92,15 +94,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478901835523
-'Rob Reiner',en,unknown,#111111,#111111,3,0.478020052209
+'Jake Reiner',en,unknown,#111111,#111111,2,0.477974683141
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.477437657661
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
-'Jake Reiner',en,unknown,#111111,#111111,2,0.476610693246
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
-'Nick Reiner',en,unknown,#111111,#111111,3,0.475517803202
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473742126963
@@ -447,10 +447,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tyson Fury',en,UK,#e838e8,#e838e8,3,0.396069830134
 'Nikki Glaser',en,unknown,#111111,#111111,1,0.396043248039
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
+'Leandro De Niro-Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.395794107948
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.395558806840
 'Tony Bobulinski',en,USA,#18e8e8,#18e8e8,2,0.395340914463
-'Leandro De Niro-Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.394951982260
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
 'Cruz Beckham',en,Spanien,#9933aa,#9933aa,3,0.394839426047
 'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.394797502731
@@ -504,13 +504,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.386411487596
 'Fani Willis',en,USA,#18e8e8,#18e8e8,3,0.385693278173
 'Andrea Arnold',en,UK,#e838e8,#e838e8,2,0.385671814280
+'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.385649203230
 'Lance Bass',en,USA,#18e8e8,#18e8e8,1,0.385648705276
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.385064220622
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.385005155955
 'Kim Reynolds',en,USA,#18e8e8,#18e8e8,3,0.384941470179
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.384905078928
 'Robert Prevost',en,unknown,#111111,#111111,2,0.384823984602
-'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.384787963701
 'Sam Asghari',en,unknown,#111111,#111111,1,0.384568479521
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.384172665267
 'Recep Tayyip Erdoan',en,Türkei,#66bb22,#66bb22,3,0.384134953708
