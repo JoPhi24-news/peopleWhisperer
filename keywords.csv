@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Reiner',en,unknown,#111111,#111111,3,0.602081761064
-'Rob Reiner',en,unknown,#111111,#111111,3,0.537097127070
-'Nick Reiner',en,unknown,#111111,#111111,3,0.534620598145
+'Rob Reiner',en,unknown,#111111,#111111,3,0.538220081952
+'Nick Reiner',en,unknown,#111111,#111111,3,0.535753374803
+'Michele Reiner',en,unknown,#111111,#111111,3,0.532042980476
 'Cilia Flores',en,unknown,#111111,#111111,3,0.525885569615
 'Joe Rogan',en,unknown,#111111,#111111,3,0.524887947571
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.524322376967
@@ -16,18 +16,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.517396953327
 'Epstein Files',en,unknown,#111111,#111111,3,0.516262544623
 'Pam Bondi',en,unknown,#111111,#111111,3,0.516107508800
+'Michele Singer',en,unknown,#111111,#111111,2,0.515437147384
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.515373530086
-'Michele Singer',en,unknown,#111111,#111111,2,0.514223208672
 'Alan Jackson',en,unknown,#111111,#111111,3,0.512556537234
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.511948645130
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.511740891474
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.509237582791
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.508330737299
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.507998813456
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
@@ -571,9 +571,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.372120601318
 'Nawaz Sharif',en,unknown,#111111,#111111,2,0.372118088371
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.372014779110
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.372013568111
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.371851044958
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933000
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.371127001807
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.371088711955
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.370863575928
 'Meg Bellamy',en,UK,#e838e8,#e838e8,1,0.370510210486
