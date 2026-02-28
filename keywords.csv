@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nick Reiner',en,unknown,#111111,#111111,3,0.536881657847
 'Michele Reiner',en,unknown,#111111,#111111,3,0.532042980476
 'Cilia Flores',en,unknown,#111111,#111111,3,0.525885569615
 'Joe Rogan',en,unknown,#111111,#111111,3,0.524887947571
@@ -13,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.519246446598
 'Alex Pretti',en,unknown,#111111,#111111,2,0.517697706473
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.517396953327
+'Michele Singer',en,unknown,#111111,#111111,2,0.516646245731
 'Epstein Files',en,unknown,#111111,#111111,3,0.516262544623
 'Pam Bondi',en,unknown,#111111,#111111,3,0.516107508800
-'Michele Singer',en,unknown,#111111,#111111,2,0.515437147384
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.515373530086
 'Alan Jackson',en,unknown,#111111,#111111,3,0.512556537234
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.511948645130
@@ -93,14 +92,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478901835523
+'Rob Reiner',en,unknown,#111111,#111111,3,0.478020052209
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.477437657661
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
-'Rob Reiner',en,unknown,#111111,#111111,3,0.476656243691
 'Jake Reiner',en,unknown,#111111,#111111,2,0.476610693246
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
+'Nick Reiner',en,unknown,#111111,#111111,3,0.475517803202
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473742126963
