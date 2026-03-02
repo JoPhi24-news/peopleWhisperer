@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',en,unknown,#111111,#111111,3,0.550658520435
+'Joe Rogan',en,unknown,#111111,#111111,3,0.538488522370
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.525394452206
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.524322376967
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.523824802429
 'Tom Homan',en,unknown,#111111,#111111,2,0.523032300298
 'Michele Singer',en,unknown,#111111,#111111,2,0.522027830424
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521858028953
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.520955208125
 'Ro Khanna',en,unknown,#111111,#111111,3,0.520504719330
 'Candace Owens',en,unknown,#111111,#111111,3,0.519267636403
@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.511948645130
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.510185051601
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.509855112527
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.509237582791
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
@@ -44,12 +44,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.500144724800
 'Mark Levin',en,unknown,#111111,#111111,3,0.498773681855
-'Peter Attia',en,unknown,#111111,#111111,3,0.496646744671
+'Peter Attia',en,unknown,#111111,#111111,3,0.497289427964
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.496375188763
 'Michele Reiner',en,unknown,#111111,#111111,3,0.495863794007
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.495786407122
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.495140714996
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.494512083998
 'Tim Walz',en,unknown,#111111,#111111,3,0.493969834219
 'Thomas Massie',en,unknown,#111111,#111111,3,0.493805496224
@@ -70,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Reiner',en,unknown,#111111,#111111,3,0.486976434182
 'Scott Jennings',en,unknown,#111111,#111111,3,0.486225842141
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.485242339343
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -85,13 +86,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.481878856668
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.481221546527
 'Keir Starmer',en,unknown,#111111,#111111,3,0.480917859813
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.480483191313
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.480012523321
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.479181068300
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478901835523
 'Jake Reiner',en,unknown,#111111,#111111,2,0.477974683141
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
@@ -107,8 +107,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.473294050546
 'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.471623557436
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.471422836995
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -221,9 +221,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.439012111182
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.438989428727
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.438501778130
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.438371142569
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.438230789179
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436812316501
