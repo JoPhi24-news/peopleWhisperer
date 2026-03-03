@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leslie Wexner',en,unknown,#111111,#111111,3,0.590629339276
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,2,0.576614744506
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.542706535789
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.536338042847
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.531195313220
 'Joe Rogan',en,unknown,#111111,#111111,3,0.530850857196
+'Leslie Wexner',en,unknown,#111111,#111111,3,0.530273908385
+'Ro Khanna',en,unknown,#111111,#111111,3,0.524645208064
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.524322376967
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.523824802429
-'Ro Khanna',en,unknown,#111111,#111111,3,0.523468105073
 'Tom Homan',en,unknown,#111111,#111111,2,0.523032300298
 'Michele Singer',en,unknown,#111111,#111111,2,0.522027830424
 'Harry Met Sally',en,unknown,#111111,#111111,2,0.520955208125
@@ -28,12 +28,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.508432739873
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.505943775077
+'Les Wexner',en,unknown,#111111,#111111,3,0.506331718759
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.505915739447
-'Les Wexner',en,unknown,#111111,#111111,3,0.505707137331
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
 'Jack Lang',en,unknown,#111111,#111111,2,0.505596062794
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
