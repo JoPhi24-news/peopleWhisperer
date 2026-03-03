@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nathan Hochman',en,unknown,#111111,#111111,2,0.600076130147
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.590629339276
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,2,0.576614744506
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.542706535789
+'Nathan Hochman',en,unknown,#111111,#111111,2,0.536338042847
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.531195313220
 'Joe Rogan',en,unknown,#111111,#111111,3,0.530850857196
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.524322376967
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.505943775077
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.505915739447
 'Les Wexner',en,unknown,#111111,#111111,3,0.505707137331
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',en,unknown,#111111,#111111,2,0.505596062794
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.505318417116
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505019804320
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
@@ -52,8 +52,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.500144724800
 'Mark Levin',en,unknown,#111111,#111111,3,0.498773681855
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.497660355324
 'Peter Attia',en,unknown,#111111,#111111,3,0.497289427964
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.497018414598
 'Michele Reiner',en,unknown,#111111,#111111,3,0.495863794007
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
@@ -70,11 +70,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',en,unknown,#111111,#111111,3,0.490942280222
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
-'Rob Reiner',en,unknown,#111111,#111111,3,0.488736682086
+'Rob Reiner',en,unknown,#111111,#111111,3,0.490052333968
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Bill Maher',en,unknown,#111111,#111111,3,0.487743000082
-'Nick Reiner',en,unknown,#111111,#111111,3,0.486976434182
+'Nick Reiner',en,unknown,#111111,#111111,3,0.487638432137
 'Scott Jennings',en,unknown,#111111,#111111,3,0.486225842141
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.485907798877
@@ -85,9 +85,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
+'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
-'Casey Wasserman',en,unknown,#111111,#111111,3,0.482743111324
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
