@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.532913167117
 'Joe Rogan',en,unknown,#111111,#111111,3,0.530850857196
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.530273908385
 'Ro Khanna',en,unknown,#111111,#111111,3,0.524645208064
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.473294050546
 'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.471969370686
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.471422836995
@@ -183,8 +183,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.455434468411
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
+'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.454978139934
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
-'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.454251056861
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.452483236501
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
