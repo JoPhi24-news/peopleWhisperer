@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nathan Hochman',en,unknown,#111111,#111111,2,0.536338042847
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.532913167117
 'Joe Rogan',en,unknown,#111111,#111111,3,0.530850857196
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.530273908385
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.460473455346
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
+'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
