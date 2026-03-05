@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',en,unknown,#111111,#111111,3,0.530850857196
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.530273908385
 'Ro Khanna',en,unknown,#111111,#111111,3,0.524645208064
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.524322376967
@@ -21,12 +20,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.511086474836
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.510185051601
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.509669777636
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'María Corina Machado',en,unknown,#111111,#111111,2,0.508544956164
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.508432739873
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
+'Joe Rogan',en,unknown,#111111,#111111,3,0.507589508617
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Les Wexner',en,unknown,#111111,#111111,3,0.506331718759
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
@@ -69,12 +69,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
 'Rob Reiner',en,unknown,#111111,#111111,3,0.490052333968
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.487896217885
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Bill Maher',en,unknown,#111111,#111111,3,0.487743000082
 'Nick Reiner',en,unknown,#111111,#111111,3,0.487638432137
 'Scott Jennings',en,unknown,#111111,#111111,3,0.486225842141
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.485907798877
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
@@ -106,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.474040998358
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Todd Blanche',en,unknown,#111111,#111111,3,0.473849340556
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.473742126963
@@ -113,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.473294050546
 'Renee Good',en,unknown,#111111,#111111,3,0.473102685410
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.471969370686
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.471422836995
@@ -214,10 +214,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443832264461
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.443530073717
+'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.443290109453
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.442623400926
-'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.442539930996
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
@@ -272,10 +272,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.428333945588
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
+'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.427415435499
-'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427195757820
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
