@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tony Dokoupil',en,unknown,#111111,#111111,3,0.591534701331
+'Tony Dokoupil',en,unknown,#111111,#111111,3,0.535028873404
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.523824802429
 'Tom Homan',en,unknown,#111111,#111111,2,0.523032300298
 'Michele Singer',en,unknown,#111111,#111111,2,0.522027830424
@@ -35,10 +35,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505019804320
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.503969359530
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.502824568547
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.502709479088
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Jacob Frey',en,unknown,#111111,#111111,3,0.502360569228
 'James Bond',en,unknown,#111111,#111111,2,0.501855337366
@@ -55,12 +55,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.494512083998
 'Tim Walz',en,unknown,#111111,#111111,3,0.493969834219
+'Bari Weiss',en,unknown,#111111,#111111,3,0.493550766912
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493001141251
 'Kristi Noem',en,unknown,#111111,#111111,3,0.492200928384
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492082605598
-'Bari Weiss',en,unknown,#111111,#111111,3,0.491596358945
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.491589157883
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.491218493022
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.491151332893
@@ -98,10 +98,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.479579943858
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.478147266816
 'Jake Reiner',en,unknown,#111111,#111111,2,0.477974683141
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.477466296794
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.477437657661
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
