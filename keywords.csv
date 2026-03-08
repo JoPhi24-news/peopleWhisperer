@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Epstein Files',en,unknown,#111111,#111111,3,0.519268058376
 'Candace Owens',en,unknown,#111111,#111111,3,0.519267636403
 'Abby Phillip',en,unknown,#111111,#111111,3,0.519246446598
 'Tom Homan',en,unknown,#111111,#111111,2,0.517718993435
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.517396953327
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.515373530086
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.513960672141
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.515175657786
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.512964730577
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.512820623951
 'Alan Jackson',en,unknown,#111111,#111111,3,0.512556537234
@@ -69,16 +68,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.487896217885
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Bill Maher',en,unknown,#111111,#111111,3,0.487743000082
-'Scott Jennings',en,unknown,#111111,#111111,3,0.486225842141
+'Epstein Files',en,unknown,#111111,#111111,3,0.487325590529
+'Scott Jennings',en,unknown,#111111,#111111,3,0.486889338517
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.484882726203
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.484215216735
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
@@ -498,9 +498,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.388436817411
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
+'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.388036687703
 'Gabriel Attal',en,Frankreich,#e8e808,#e8e808,2,0.387445140707
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.387205521593
-'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.387179926525
 'Rand Paul',en,unknown,#111111,#111111,3,0.387003345763
 'Caroline Ellison',en,USA,#18e8e8,#18e8e8,2,0.386837288472
 'Abraham Lincoln',en,USA,#18e8e8,#18e8e8,3,0.386826551126
@@ -567,10 +567,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.373885552780
 'Alexander Smirnov',en,unknown,#111111,#111111,2,0.373879334522
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,1,0.373839567216
+'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.373783017684
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.373590795018
 'Kevin Hart',en,unknown,#111111,#111111,3,0.373398968191
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.373348144151
-'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.372899712965
 'Steve Doocy',en,unknown,#111111,#111111,2,0.372745899742
 'Gisele Bündchen',en,unknown,#111111,#111111,2,0.372687675738
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.372491839687
