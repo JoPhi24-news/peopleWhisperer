@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.553779405522
+'Kash Patel',en,unknown,#111111,#111111,2,0.601149308102
+'Michelle Reiner',en,unknown,#111111,#111111,2,0.600044285691
 'Abby Phillip',en,unknown,#111111,#111111,3,0.519246446598
 'Tom Homan',en,unknown,#111111,#111111,2,0.517718993435
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.517396953327
@@ -27,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',en,unknown,#111111,#111111,2,0.505596062794
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
+'Ali Khamenei',en,unknown,#111111,#111111,2,0.505335730403
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505019804320
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.503969359530
@@ -34,10 +36,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.502824568547
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
+'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Jacob Frey',en,unknown,#111111,#111111,3,0.502360569228
+'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
 'James Bond',en,unknown,#111111,#111111,2,0.501855337366
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
+'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.500144724800
 'Mark Levin',en,unknown,#111111,#111111,3,0.498773681855
@@ -75,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485056609049
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -89,9 +95,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.481362962659
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.481143408901
 'Keir Starmer',en,unknown,#111111,#111111,3,0.480917859813
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.480688416967
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.479660918651
