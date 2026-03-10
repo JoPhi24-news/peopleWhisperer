@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kash Patel',en,unknown,#111111,#111111,3,0.543513474854
 'Abby Phillip',en,unknown,#111111,#111111,3,0.519246446598
 'Tom Homan',en,unknown,#111111,#111111,2,0.517718993435
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.517396953327
@@ -54,11 +53,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Attia',en,unknown,#111111,#111111,3,0.497289427964
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.495383424140
 'Larry Summers',en,unknown,#111111,#111111,3,0.495174470679
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.494512083998
 'Bari Weiss',en,unknown,#111111,#111111,3,0.494199635308
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.494089132408
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.493464049161
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493455377586
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
+'Kash Patel',en,unknown,#111111,#111111,3,0.485132086808
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485056609049
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
