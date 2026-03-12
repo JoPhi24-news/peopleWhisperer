@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Candace Owens',en,unknown,#111111,#111111,3,0.516832304219
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.516385798701
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.513430999340
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.512970315236
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.512964730577
 'Alan Jackson',en,unknown,#111111,#111111,3,0.512556537234
 'Peter Mandelson',en,unknown,#111111,#111111,2,0.511948645130
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.511086474836
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.510517780044
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.510185051601
+'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.509999895257
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Les Wexner',en,unknown,#111111,#111111,3,0.506955052519
-'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.506277876691
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.505915739447
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
@@ -76,11 +75,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.487896217885
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Bill Maher',en,unknown,#111111,#111111,3,0.487743000082
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.487050115316
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
 'Kash Patel',en,unknown,#111111,#111111,3,0.485132086808
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485056609049
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
+'Candace Owens',en,unknown,#111111,#111111,3,0.476924188586
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Renee Good',en,unknown,#111111,#111111,3,0.475853107419
