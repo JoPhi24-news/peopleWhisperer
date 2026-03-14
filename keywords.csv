@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Mandelson',en,unknown,#111111,#111111,2,0.515603062256
+'Peter Mandelson',en,unknown,#111111,#111111,3,0.527570927918
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.513430999340
 'Delcy Rodriguez',en,unknown,#111111,#111111,2,0.512964730577
 'Alan Jackson',en,unknown,#111111,#111111,3,0.512556537234
@@ -92,10 +92,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
+'Keir Starmer',en,unknown,#111111,#111111,3,0.481591947881
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.481362962659
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.481143408901
-'Keir Starmer',en,unknown,#111111,#111111,3,0.480917859813
 'Alex Pretti',en,unknown,#111111,#111111,3,0.480899458118
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
@@ -159,6 +159,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.463615017433
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.463428328121
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
@@ -167,7 +168,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.462126100189
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462101082409
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.461293165944
 'Cilia Flores',en,unknown,#111111,#111111,3,0.461269005297
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
