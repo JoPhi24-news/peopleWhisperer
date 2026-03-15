@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alan Jackson',en,unknown,#111111,#111111,3,0.512556537234
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.511700312486
 'Delcy Rodríguez',en,unknown,#111111,#111111,2,0.510800689231
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.509999895257
@@ -202,6 +201,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.449886165962
+'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
@@ -578,6 +578,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,3,0.373398968191
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.373348144151
 'Steve Doocy',en,unknown,#111111,#111111,2,0.372745899742
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.372736280034
 'Gisele Bündchen',en,unknown,#111111,#111111,2,0.372687675738
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.372491839687
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.372179868826
@@ -585,7 +586,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.372120601318
 'Nawaz Sharif',en,unknown,#111111,#111111,2,0.372118088371
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.372013568111
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.371851044958
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933000
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.371088711955
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.370863575928
