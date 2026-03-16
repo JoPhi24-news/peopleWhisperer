@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.636900236558
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.659972774711
+'Ali Khamenei',en,unknown,#111111,#111111,2,0.510303482817
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.509999895257
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'María Corina Machado',en,unknown,#111111,#111111,2,0.509781546142
-'Ali Khamenei',en,unknown,#111111,#111111,2,0.509686850295
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.509384644444
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
@@ -43,8 +43,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.501414843520
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.500991926783
 'Kristi Noem',en,unknown,#111111,#111111,3,0.500570480974
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.500356655804
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Thomas Massie',en,unknown,#111111,#111111,3,0.498956248696
 'Mark Levin',en,unknown,#111111,#111111,3,0.498773681855
@@ -77,7 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488259293262
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.487050115316
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.487711966172
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
@@ -118,9 +118,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.475560238073
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475117535313
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474603179992
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.473983332451
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.473915134865
 'Todd Blanche',en,unknown,#111111,#111111,3,0.473849340556
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
@@ -140,6 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.469959132144
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.469502841051
+'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
@@ -147,7 +148,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
-'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.468019358978
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
@@ -832,10 +832,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.225531397193
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.225293913529
 'président de la République',en,unknown,#111111,#111111,1,0.224631255563
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.224031011554
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.223889878969
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.223770278675
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.223435060446
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.222908320574
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
