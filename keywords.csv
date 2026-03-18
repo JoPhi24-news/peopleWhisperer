@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Khamenei',en,unknown,#111111,#111111,2,0.510303482817
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.509999895257
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'María Corina Machado',en,unknown,#111111,#111111,2,0.509781546142
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Les Wexner',en,unknown,#111111,#111111,3,0.506955052519
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.506028614918
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
 'Jack Lang',en,unknown,#111111,#111111,2,0.505596062794
@@ -42,9 +42,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.501414843520
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.500991926783
 'Kristi Noem',en,unknown,#111111,#111111,3,0.500570480974
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
+'Ali Khamenei',en,unknown,#111111,#111111,3,0.499581680394
 'Thomas Massie',en,unknown,#111111,#111111,3,0.498956248696
 'Mark Levin',en,unknown,#111111,#111111,3,0.498773681855
 'Rob Reiner',en,unknown,#111111,#111111,3,0.498477022538
