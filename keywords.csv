@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521325597344
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.549811115968
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'María Corina Machado',en,unknown,#111111,#111111,2,0.509781546142
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
@@ -69,11 +69,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.489856961649
+'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.488556379467
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
-'Keir Starmer',en,unknown,#111111,#111111,3,0.488259293262
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
@@ -367,12 +367,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.411626420588
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
+'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.411434996125
 'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.411062672898
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.411009036471
 'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.410639063153
-'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.410622742354
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.410313019888
@@ -440,6 +440,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
 'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.399482843420
 'Ayatollah Khomeini',en,Iran,#117733,#117733,1,0.399467280512
+'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.399244609220
 'Chris Kirkpatrick',en,USA,#18e8e8,#18e8e8,1,0.399079205200
 'Jacoby Brissett',en,USA,#18e8e8,#18e8e8,2,0.398985177314
 'Joe Alwyn',en,UK,#e838e8,#e838e8,2,0.398823512610
@@ -447,7 +448,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.398747138112
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223159
 'Jeffrey Donaldson',en,Irland,#3377bb,#3377bb,2,0.398430401226
-'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.398409033250
 'Sam H',en,unknown,#111111,#111111,2,0.398158194809
 'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.398095856622
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.397503028453
