@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.513434185111
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.521325597344
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.509952077940
 'María Corina Machado',en,unknown,#111111,#111111,2,0.509781546142
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
@@ -592,10 +592,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.372120601318
 'Nawaz Sharif',en,unknown,#111111,#111111,2,0.372118088371
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933000
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.371317618683
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.371088711955
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.370863575928
 'Meg Bellamy',en,UK,#e838e8,#e838e8,1,0.370510210486
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.370429771668
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.370270966181
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.370105783273
 'Julian Edelman',en,unknown,#111111,#111111,2,0.369911336388
