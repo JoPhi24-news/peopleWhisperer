@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'María Corina Machado',en,unknown,#111111,#111111,2,0.509781546142
 'Brigitte Bardot',en,unknown,#111111,#111111,2,0.509558044792
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.509384644444
 'Tom Homan',en,unknown,#111111,#111111,2,0.509274524638
@@ -40,21 +39,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.501414843520
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
+'Ali Khamenei',en,unknown,#111111,#111111,3,0.500218499774
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
-'Ali Khamenei',en,unknown,#111111,#111111,3,0.499581680394
 'Mark Levin',en,unknown,#111111,#111111,3,0.499412115614
+'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
 'Thomas Massie',en,unknown,#111111,#111111,3,0.498956248696
 'Rob Reiner',en,unknown,#111111,#111111,3,0.498477022538
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Michele Reiner',en,unknown,#111111,#111111,3,0.497792677779
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.497439964100
 'Peter Attia',en,unknown,#111111,#111111,3,0.497289427964
 'Larry Summers',en,unknown,#111111,#111111,3,0.496464430210
+'Nicolás Maduro',en,unknown,#111111,#111111,3,0.496052446456
 'Pam Bondi',en,unknown,#111111,#111111,3,0.496043843967
 'Bari Weiss',en,unknown,#111111,#111111,3,0.495493485971
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.494862710286
-'Nicolás Maduro',en,unknown,#111111,#111111,3,0.494760835848
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.494512083998
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
@@ -156,9 +156,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.465277735317
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.465011384290
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.464304225516
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
@@ -170,8 +170,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.462126100189
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462101082409
+'Cilia Flores',en,unknown,#111111,#111111,3,0.461982187851
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
-'Cilia Flores',en,unknown,#111111,#111111,3,0.461269005297
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.460473455346
@@ -358,6 +358,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.412544633373
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.411910146970
+'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.411874081601
 'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.411853016877
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.411815657059
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791364
@@ -368,7 +369,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.411434996125
-'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.411062672898
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.411009036471
