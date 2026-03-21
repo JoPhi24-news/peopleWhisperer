@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.509384644444
 'Tom Homan',en,unknown,#111111,#111111,2,0.509274524638
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
 'Joe Rogan',en,unknown,#111111,#111111,3,0.508829911330
@@ -262,6 +261,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.433148666576
+'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.432976962777
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.432493571316
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
