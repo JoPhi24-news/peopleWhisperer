@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Homan',en,unknown,#111111,#111111,2,0.509274524638
+'Kristi Noem',en,unknown,#111111,#111111,3,0.511805678758
+'Tom Homan',en,unknown,#111111,#111111,3,0.509650079046
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.509242268006
 'Joe Rogan',en,unknown,#111111,#111111,3,0.508829911330
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.504719004531
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.504597412581
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
-'Kristi Noem',en,unknown,#111111,#111111,3,0.504360568305
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501900843952
 'James Bond',en,unknown,#111111,#111111,2,0.501855337366
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',en,unknown,#111111,#111111,3,0.498956248696
 'Michele Reiner',en,unknown,#111111,#111111,3,0.498433071566
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.497439964100
 'Peter Attia',en,unknown,#111111,#111111,3,0.497289427964
 'Larry Summers',en,unknown,#111111,#111111,3,0.496464430210
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.496052446456
@@ -109,8 +109,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
+'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.476928410250
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
-'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.476245006343
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Renee Good',en,unknown,#111111,#111111,3,0.475853107419
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.475289854774
