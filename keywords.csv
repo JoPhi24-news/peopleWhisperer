@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',en,unknown,#111111,#111111,3,0.539068692708
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.515521078261
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.518533958735
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.501414843520
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
+'Joe Rogan',en,unknown,#111111,#111111,3,0.501152377691
 'Rob Reiner',en,unknown,#111111,#111111,3,0.501025478028
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.500218499774
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
@@ -50,8 +50,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',en,unknown,#111111,#111111,3,0.495493485971
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
+'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
-'Ben Shapiro',en,unknown,#111111,#111111,3,0.494512083998
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
@@ -63,10 +63,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.489872750713
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.489856961649
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Tom Homan',en,unknown,#111111,#111111,3,0.489279795120
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.489215222897
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
@@ -252,9 +252,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
 'Mark Carney',en,Kanada,#443388,#443388,3,0.435680553464
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.435468044475
+'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.435301646572
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
-'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.434535769472
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
