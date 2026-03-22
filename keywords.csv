@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',en,unknown,#111111,#111111,3,0.508829911330
+'Joe Rogan',en,unknown,#111111,#111111,3,0.537460194630
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.510637431231
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Les Wexner',en,unknown,#111111,#111111,3,0.506955052519
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.506299708699
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.506045078440
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
@@ -64,10 +64,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.490351777639
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.489856961649
+'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Tom Homan',en,unknown,#111111,#111111,3,0.489279795120
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.489215222897
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
-'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.488699837985
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.488556379467
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
@@ -110,9 +110,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Renee Good',en,unknown,#111111,#111111,3,0.477220113667
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.476659103291
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.475289854774
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475117535313
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
@@ -242,22 +242,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.439129506873
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.438194862899
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.437434662533
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436812316501
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
+'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
 'Mark Carney',en,Kanada,#443388,#443388,3,0.435680553464
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.435468044475
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
-'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434916732593
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
+'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.434535769472
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
-'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.433768391430
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.433148666576
@@ -582,12 +582,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.373783017684
 'Kevin Hart',en,unknown,#111111,#111111,3,0.373398968191
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.373348144151
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.373088420613
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.372898504195
 'Steve Doocy',en,unknown,#111111,#111111,2,0.372745899742
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.372736280034
 'Gisele Bündchen',en,unknown,#111111,#111111,2,0.372687675738
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.372491839687
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.372203834643
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.372179868826
 'Michelle O\'Neill',en,Irland,#3377bb,#3377bb,3,0.372130919865
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.372120601318
