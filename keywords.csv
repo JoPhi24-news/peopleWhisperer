@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.518533958735
 'Woody Allen',en,unknown,#111111,#111111,2,0.508581448633
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
@@ -30,13 +29,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Abby Phillip',en,unknown,#111111,#111111,3,0.501490452089
+'Ali Khamenei',en,unknown,#111111,#111111,3,0.501488323984
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.501442717911
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.501414843520
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Joe Rogan',en,unknown,#111111,#111111,3,0.501152377691
 'Rob Reiner',en,unknown,#111111,#111111,3,0.501025478028
-'Ali Khamenei',en,unknown,#111111,#111111,3,0.500218499774
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Mark Levin',en,unknown,#111111,#111111,3,0.500049273784
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.465011384290
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.464294598107
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
@@ -428,11 +428,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.401217866605
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
+'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.400992537183
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.400972438328
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
-'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.400160288113
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.400149875670
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
 'Kim Mulkey',en,USA,#18e8e8,#18e8e8,2,0.399961151285
