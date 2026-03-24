@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Nanos',en,unknown,#111111,#111111,3,0.638744941394
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.600635712199
+'Chris Nanos',en,unknown,#111111,#111111,3,0.674298805185
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.603686186187
 'Markwayne Mullin',en,unknown,#111111,#111111,2,0.600294856583
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',en,unknown,#111111,#111111,2,0.505457312396
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.504719004531
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.504650962650
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.504597412581
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.487247754785
 'Kash Patel',en,unknown,#111111,#111111,3,0.487125141995
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
