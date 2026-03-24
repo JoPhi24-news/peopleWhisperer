@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.603686186187
 'Markwayne Mullin',en,unknown,#111111,#111111,2,0.600294856583
 'Chris Nanos',en,unknown,#111111,#111111,3,0.577957074407
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.554456644623
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
 'Les Wexner',en,unknown,#111111,#111111,3,0.507577141155
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.506668984788
 'David Amiel',en,unknown,#111111,#111111,2,0.506307630281
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.506290973623
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.506045078440
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Catherine Pégard',en,unknown,#111111,#111111,2,0.505457312396
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.505277654001
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.504719004531
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.504650962650
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.504597412581
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
@@ -162,9 +162,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.465277735317
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.465011384290
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.465001775998
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.464294598107
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
