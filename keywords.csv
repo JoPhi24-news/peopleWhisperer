@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markwayne Mullin',en,unknown,#111111,#111111,3,0.590797147063
 'Chris Nanos',en,unknown,#111111,#111111,3,0.577957074407
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.554456644623
+'Markwayne Mullin',en,unknown,#111111,#111111,3,0.525742035004
+'Kristi Noem',en,unknown,#111111,#111111,3,0.508722001996
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'David Amiel',en,unknown,#111111,#111111,2,0.506307630281
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.506290973623
-'Kristi Noem',en,unknown,#111111,#111111,3,0.506235359953
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
@@ -493,8 +493,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.392873004398
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.392426607776
+'Rand Paul',en,unknown,#111111,#111111,3,0.392121817112
 'Narendra Modi',en,Indien,#cc3388,#cc3388,3,0.392011486860
-'Rand Paul',en,unknown,#111111,#111111,3,0.391272747327
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Mark Rutte',en,Niederlande,#6622bb,#6622bb,3,0.391092414550
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
