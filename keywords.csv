@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markwayne Mullin',en,unknown,#111111,#111111,3,0.524572702481
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.519948500865
 'Chris Nanos',en,unknown,#111111,#111111,3,0.512474922009
 'Kristi Noem',en,unknown,#111111,#111111,3,0.511802471026
@@ -79,8 +78,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487565587348
 'Kash Patel',en,unknown,#111111,#111111,3,0.487125141995
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.486903443675
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
@@ -184,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
+'Markwayne Mullin',en,unknown,#111111,#111111,3,0.459942436200
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
