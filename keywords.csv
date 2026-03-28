@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.580094981166
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.552585593537
 'Kristi Noem',en,unknown,#111111,#111111,3,0.511802471026
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Ali Larijani',en,unknown,#111111,#111111,2,0.502561614416
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
+'Nicolas Maduro',en,unknown,#111111,#111111,3,0.502048000255
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
 'James Bond',en,unknown,#111111,#111111,2,0.501855337366
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
@@ -35,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.501490452089
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.501488323984
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.501442717911
-'Nicolas Maduro',en,unknown,#111111,#111111,3,0.501414843520
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Joe Rogan',en,unknown,#111111,#111111,3,0.501152377691
@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.496696317092
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.496182192761
 'Pam Bondi',en,unknown,#111111,#111111,3,0.496043843967
 'Bari Weiss',en,unknown,#111111,#111111,3,0.495493485971
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.489872750713
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.489856961649
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.489674795820
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Tom Homan',en,unknown,#111111,#111111,3,0.489279795120
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
