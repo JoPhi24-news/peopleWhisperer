@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kristi Noem',en,unknown,#111111,#111111,3,0.511802471026
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.508415106474
 'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
@@ -50,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.496825804180
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.496696317092
-'Pam Bondi',en,unknown,#111111,#111111,3,0.496043843967
+'Pam Bondi',en,unknown,#111111,#111111,3,0.496687731790
 'Bari Weiss',en,unknown,#111111,#111111,3,0.495493485971
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.472888785177
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
+'Kristi Noem',en,unknown,#111111,#111111,3,0.471825347190
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
@@ -250,8 +250,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.438953572898
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
+'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
-'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436812316501
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
