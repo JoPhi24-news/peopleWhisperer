@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
+'Margaret Brennan',en,unknown,#111111,#111111,3,0.534856736333
 'Les Wexner',en,unknown,#111111,#111111,3,0.507577141155
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.507291644844
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
@@ -63,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.491007035713
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.490856527107
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.489872750713
@@ -70,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Tom Homan',en,unknown,#111111,#111111,3,0.489279795120
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488885911364
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
@@ -90,9 +90,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
 'Alex Pretti',en,unknown,#111111,#111111,3,0.482917801010
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.482708020256
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.482036162915
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.481619727518
@@ -226,9 +226,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.445452933258
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.445271399812
+'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.444786043183
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.444579901279
 'prince Andrew',en,unknown,#111111,#111111,3,0.444414912224
-'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.444038812755
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.443530073717
@@ -240,6 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.441488881098
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.440524839487
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.440466530721
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.439746580244
 'Usha Vance',en,unknown,#111111,#111111,3,0.439378268135
@@ -248,7 +249,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.439129506873
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.438953572898
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
@@ -900,6 +900,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986345
 'Katarina Barley',en,EU,#4488cc,#4488cc,1,0.182888300900
+'Rafael Grossi',en,UN,#e888e8,#e888e8,2,0.182409315968
 'Subrahmanyam Jaishankar',en,Indien,#cc3388,#cc3388,2,0.182126549545
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.181417164873
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.180689997180
@@ -911,7 +912,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.177058112031
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.176517912354
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.176437667473
-'Rafael Grossi',en,UN,#e888e8,#e888e8,2,0.175357432394
 'Tamim bin Hamad Al-Thani',en,Katar,#44cc88,#44cc88,2,0.174662010205
 'Christine Lagarde',en,EU,#4488cc,#4488cc,3,0.174478726466
 'Alberto Ángel Fernández',en,Argentinien,#bb11cc,#bb11cc,2,0.173823493043
