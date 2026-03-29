@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Liveblog USA',en,unknown,#111111,#111111,2,0.507961721971
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.507784495686
 'Les Wexner',en,unknown,#111111,#111111,3,0.507577141155
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.507291644844
@@ -231,6 +230,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',en,unknown,#111111,#111111,3,0.444414912224
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.444038812755
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
+'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.443530073717
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
