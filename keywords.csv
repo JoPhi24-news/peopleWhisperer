@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hoda Kotb',en,unknown,#111111,#111111,3,0.668507648454
+'Hoda Kotb',en,unknown,#111111,#111111,3,0.683396377297
 'Stephen Miller',en,unknown,#111111,#111111,2,0.605333923178
 'Corey Lewandowski',en,unknown,#111111,#111111,2,0.603997282114
 'Rashida Tlaib',en,unknown,#111111,#111111,2,0.601243670901
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.511473415142
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.511279118933
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.507291644844
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.506950439658
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
 'David Amiel',en,unknown,#111111,#111111,2,0.506307630281
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.506290973623
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.501152377691
 'Viktor Orban',en,unknown,#111111,#111111,2,0.501052057051
 'Rob Reiner',en,unknown,#111111,#111111,3,0.501025478028
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.500226040840
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Mark Levin',en,unknown,#111111,#111111,3,0.500049273784
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
