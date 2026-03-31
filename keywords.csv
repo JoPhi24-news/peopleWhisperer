@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hoda Kotb',en,unknown,#111111,#111111,3,0.612853602870
+'Hoda Kotb',en,unknown,#111111,#111111,3,0.638229342439
 'Stephen Miller',en,unknown,#111111,#111111,2,0.605333923178
 'Corey Lewandowski',en,unknown,#111111,#111111,2,0.603997282114
 'Rashida Tlaib',en,unknown,#111111,#111111,2,0.601243670901
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.524094100697
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.516756315044
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.535632261013
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.522727732884
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.507291644844
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
@@ -148,11 +148,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468989980155
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
 'James Carville',en,unknown,#111111,#111111,3,0.468767580147
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468290742759
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
@@ -256,9 +256,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
+'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
-'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
 'Mark Carney',en,Kanada,#443388,#443388,3,0.435680553464
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.435468044475
@@ -827,9 +827,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dalai Lama',en,Tibet,#cc8844,#cc8844,3,0.232549346049
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.232372229839
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.231894365087
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.231848961432
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.230736520270
 'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
