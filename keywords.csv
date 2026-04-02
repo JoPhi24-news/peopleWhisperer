@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hoda Kotb',en,unknown,#111111,#111111,3,0.574721388346
 'Corey Lewandowski',en,unknown,#111111,#111111,2,0.574452324797
 'Stephen Miller',en,unknown,#111111,#111111,3,0.564042999701
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.539563392963
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
+'Hoda Kotb',en,unknown,#111111,#111111,3,0.493466930094
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.493205705503
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492734406699
