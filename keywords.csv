@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Corey Lewandowski',en,unknown,#111111,#111111,3,0.586067822152
 'Stephen Miller',en,unknown,#111111,#111111,3,0.564042999701
+'Corey Lewandowski',en,unknown,#111111,#111111,3,0.545150428829
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.539563392963
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.528284202863
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.524496045661
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.504640751798
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
+'Kristi Noem',en,unknown,#111111,#111111,3,0.504169358197
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.504043923083
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
 'James Bond',en,unknown,#111111,#111111,2,0.501855337366
-'Kristi Noem',en,unknown,#111111,#111111,3,0.501646154229
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Abby Phillip',en,unknown,#111111,#111111,3,0.501490452089
