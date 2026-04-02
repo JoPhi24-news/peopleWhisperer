@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Corey Lewandowski',en,unknown,#111111,#111111,2,0.574452324797
+'Corey Lewandowski',en,unknown,#111111,#111111,3,0.615703771792
 'Stephen Miller',en,unknown,#111111,#111111,3,0.564042999701
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.539563392963
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.528284202863
@@ -44,12 +44,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Mark Levin',en,unknown,#111111,#111111,3,0.500049273784
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.498621842443
 'Michele Reiner',en,unknown,#111111,#111111,3,0.498433071566
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Woody Allen',en,unknown,#111111,#111111,3,0.498033681338
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.497641414296
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.497340529410
 'Pam Bondi',en,unknown,#111111,#111111,3,0.497330333194
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.496696317092
@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
+'Kristi Noem',en,unknown,#111111,#111111,3,0.493954293212
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.493466930094
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.493205705503
@@ -85,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
-'Kristi Noem',en,unknown,#111111,#111111,3,0.484744060427
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -166,6 +166,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.465011384290
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
+'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464216074200
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
@@ -185,7 +186,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
-'Markwayne Mullin',en,unknown,#111111,#111111,3,0.459942436200
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
@@ -243,9 +243,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.441488881098
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.441220783029
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.440641774866
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.440524839487
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.440466530721
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.439746580244
 'Usha Vance',en,unknown,#111111,#111111,3,0.439378268135
@@ -617,9 +617,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
+'Jim Jordan',en,unknown,#111111,#111111,3,0.366994023407
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
-'Jim Jordan',en,unknown,#111111,#111111,3,0.366098247177
 'Mick Jagger',en,unknown,#111111,#111111,3,0.365750938827
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.365608216250
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.365602148198
