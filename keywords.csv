@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.524496045661
 'Kristi Noem',en,unknown,#111111,#111111,3,0.516487082627
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.513450258401
 'Stephen Miller',en,unknown,#111111,#111111,3,0.507122912473
@@ -143,6 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.469532930759
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
@@ -151,7 +151,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Carville',en,unknown,#111111,#111111,3,0.468767580147
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.468135228564
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
@@ -165,6 +164,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.465011384290
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.464418982448
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464216074200
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
