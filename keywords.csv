@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rashida Tlaib',en,unknown,#111111,#111111,3,0.528284202863
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.524496045661
 'Kristi Noem',en,unknown,#111111,#111111,3,0.516487082627
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.513450258401
@@ -216,6 +215,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.449886165962
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
+'Rashida Tlaib',en,unknown,#111111,#111111,3,0.449492607434
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
