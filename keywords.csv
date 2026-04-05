@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.510542085703
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.508339470818
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
@@ -39,8 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',en,unknown,#111111,#111111,3,0.500231111818
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Mark Levin',en,unknown,#111111,#111111,3,0.500049273784
+'Pam Bondi',en,unknown,#111111,#111111,3,0.499887925544
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
-'Pam Bondi',en,unknown,#111111,#111111,3,0.499250444354
 'Michele Reiner',en,unknown,#111111,#111111,3,0.498433071566
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Woody Allen',en,unknown,#111111,#111111,3,0.498033681338
@@ -194,6 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.457567041980
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.457544711469
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.457516656029
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.456977739396
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
@@ -366,9 +366,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.414313602534
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
 'Bill Belichick',en,USA,#18e8e8,#18e8e8,3,0.413080824508
+'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.413054823951
 'Michelle Williams',en,USA,#18e8e8,#18e8e8,3,0.412798931051
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.412544633373
-'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.412245689367
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.411910146970
 'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.411853016877
@@ -482,6 +482,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.395581280348
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.395558806840
 'Tony Bobulinski',en,USA,#18e8e8,#18e8e8,2,0.395340914463
+'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.394956482116
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
 'Cruz Beckham',en,Spanien,#9933aa,#9933aa,3,0.394839426047
 'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.394797502731
@@ -490,7 +491,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
-'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.394112770077
 'James Biden',en,USA,#18e8e8,#18e8e8,3,0.394084618023
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.393616819744
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.393362451115
