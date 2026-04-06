@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Craig Melvin',en,unknown,#111111,#111111,2,0.601841847346
 'Tom Cotton',en,unknown,#111111,#111111,2,0.566749676391
+'Craig Melvin',en,unknown,#111111,#111111,2,0.544492220244
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.534730409156
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
@@ -128,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.473002930207
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.472888785177
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472047055768
@@ -144,7 +145,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469574711006
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.469532930759
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
@@ -163,11 +163,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.465277735317
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.465125913343
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464923408014
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.464418982448
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
@@ -356,9 +356,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.417510382085
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.417134930487
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.417112936482
+'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.416922481094
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.416311272107
-'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.416120812153
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.416106292789
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
 'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.415562666203
