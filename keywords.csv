@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Cotton',en,unknown,#111111,#111111,3,0.520260367674
 'Craig Melvin',en,unknown,#111111,#111111,3,0.517770067207
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
@@ -72,13 +71,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'Tom Homan',en,unknown,#111111,#111111,3,0.489937193989
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
+'Kash Patel',en,unknown,#111111,#111111,3,0.489106284417
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489038337783
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
-'Kash Patel',en,unknown,#111111,#111111,3,0.487786843064
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.475754144519
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
+'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475117535313
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.474671241763
@@ -130,10 +130,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.472888785177
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472353141243
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472047055768
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.471660607598
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.471589165742
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -761,7 +761,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.280213281713
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.279848829406
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476152
-'Xi Jinping',en,China,#e88818,#e88818,3,0.273804416806
+'Xi Jinping',en,China,#e88818,#e88818,3,0.274855505743
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.273319336059
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.271682434403
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
