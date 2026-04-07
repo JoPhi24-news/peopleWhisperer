@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Craig Melvin',en,unknown,#111111,#111111,2,0.544492220244
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.534730409156
 'Tom Cotton',en,unknown,#111111,#111111,3,0.520260367674
+'Craig Melvin',en,unknown,#111111,#111111,3,0.517770067207
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.506444819359
@@ -54,9 +54,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
+'Hoda Kotb',en,unknown,#111111,#111111,3,0.494763705282
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
-'Hoda Kotb',en,unknown,#111111,#111111,3,0.493466930094
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.493205705503
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492734406699
@@ -119,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
+'Savannah Guthrie',en,unknown,#111111,#111111,3,0.475754144519
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475117535313
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
@@ -128,7 +129,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
-'Savannah Guthrie',en,unknown,#111111,#111111,3,0.473002930207
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.472888785177
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472047055768
@@ -210,10 +210,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451932007182
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
+'Ryan Gosling',en,Kanada,#443388,#443388,3,0.451237888548
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.450710767369
-'Ryan Gosling',en,Kanada,#443388,#443388,3,0.450503399984
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.449886165962
@@ -621,6 +621,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Jordan',en,unknown,#111111,#111111,3,0.367888163721
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
+'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.366745395227
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
 'Mick Jagger',en,unknown,#111111,#111111,3,0.365750938827
@@ -633,7 +634,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.364213702129
-'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.364051790726
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.363530410555
 'Roger Federer',en,unknown,#111111,#111111,3,0.363412792318
 'Mary Robinson',en,unknown,#111111,#111111,3,0.363299736172
