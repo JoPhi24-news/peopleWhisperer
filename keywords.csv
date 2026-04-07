@@ -1,12 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Cotton',en,unknown,#111111,#111111,2,0.566749676391
 'Craig Melvin',en,unknown,#111111,#111111,2,0.544492220244
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.534730409156
+'Tom Cotton',en,unknown,#111111,#111111,3,0.520260367674
 'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.506444819359
 'David Amiel',en,unknown,#111111,#111111,2,0.506307630281
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.506290973623
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.505923874635
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Catherine Pégard',en,unknown,#111111,#111111,2,0.505457312396
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.505298476839
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.504640751798
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
@@ -137,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.471589165742
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.470966692997
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
@@ -144,7 +145,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469574711006
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
@@ -262,9 +262,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Mark Carney',en,Kanada,#443388,#443388,3,0.436444190051
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.436232097098
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.435468044475
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.435301646572
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
@@ -292,12 +292,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
+'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.428692188779
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.428333945588
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
-'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
@@ -368,8 +368,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.414454553945
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.414313602534
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
+'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.413862401760
 'Bill Belichick',en,USA,#18e8e8,#18e8e8,3,0.413080824508
-'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.413054823951
 'Michelle Williams',en,USA,#18e8e8,#18e8e8,3,0.412798931051
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.412719926811
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.412544633373
