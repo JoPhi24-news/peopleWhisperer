@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.506444819359
 'David Amiel',en,unknown,#111111,#111111,2,0.506307630281
 'Amélie de Montchalin',en,unknown,#111111,#111111,2,0.506290973623
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.505923874635
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
+'Ali Khamenei',en,unknown,#111111,#111111,3,0.505892923298
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
 'Jack Lang',en,unknown,#111111,#111111,2,0.505596062794
@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
 'Catherine Pégard',en,unknown,#111111,#111111,2,0.505457312396
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
-'Ali Khamenei',en,unknown,#111111,#111111,3,0.504640751798
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
@@ -35,9 +34,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
 'Rob Reiner',en,unknown,#111111,#111111,3,0.501025478028
+'Mark Levin',en,unknown,#111111,#111111,3,0.500685158912
 'Thomas Massie',en,unknown,#111111,#111111,3,0.500231111818
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
-'Mark Levin',en,unknown,#111111,#111111,3,0.500049273784
 'Pam Bondi',en,unknown,#111111,#111111,3,0.499887925544
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
 'Michele Reiner',en,unknown,#111111,#111111,3,0.498433071566
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.491804994082
+'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.491687735546
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
@@ -118,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.475795182181
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475117535313
@@ -129,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.472888785177
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.472353141243
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472047055768
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
