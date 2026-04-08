@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Juan Pablo Guanipa',en,unknown,#111111,#111111,2,0.506960258859
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.506594918289
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.506444819359
 'David Amiel',en,unknown,#111111,#111111,2,0.506307630281
@@ -286,6 +285,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Les Wexner',en,unknown,#111111,#111111,2,0.431441394982
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.431236257148
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.430991968124
+'Juan Pablo Guanipa',en,unknown,#111111,#111111,1,0.430916235030
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Affaire Epstein',en,unknown,#111111,#111111,1,0.430499099565
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.430149425068
