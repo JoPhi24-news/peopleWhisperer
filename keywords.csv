@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.505923874635
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.507731796167
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.505892923298
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
@@ -66,9 +66,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'Tom Homan',en,unknown,#111111,#111111,3,0.489937193989
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489696218821
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Kash Patel',en,unknown,#111111,#111111,3,0.489106284417
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489038337783
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
@@ -92,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.481905008285
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.481864701078
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.481619727518
@@ -114,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.476479482363
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
@@ -237,9 +237,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.443530073717
+'Steve Witkoff',en,unknown,#111111,#111111,2,0.443373415278
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
-'Steve Witkoff',en,unknown,#111111,#111111,2,0.442623400926
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.442031633879
