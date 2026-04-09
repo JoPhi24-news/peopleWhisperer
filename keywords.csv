@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.507731796167
 'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.505892923298
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
@@ -64,9 +63,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.491007035713
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.490528965452
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.490352786101
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'Tom Homan',en,unknown,#111111,#111111,3,0.489937193989
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.489696218821
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Kash Patel',en,unknown,#111111,#111111,3,0.489106284417
 'Keir Starmer',en,unknown,#111111,#111111,3,0.488918729900
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.486581770978
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.481905008285
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.481864701078
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.481619727518
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Candace Owens',en,unknown,#111111,#111111,3,0.477606239047
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.477450917651
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
@@ -225,12 +225,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.445715266875
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.445452933258
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.445271399812
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.444969868901
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.444786043183
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.444579901279
 'prince Andrew',en,unknown,#111111,#111111,3,0.444414912224
@@ -246,7 +246,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.441488881098
-'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.440641774866
+'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.441395683042
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.439746580244
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
@@ -761,7 +761,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.280213281713
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.279848829406
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476152
-'Xi Jinping',en,China,#e88818,#e88818,3,0.274855505743
+'Xi Jinping',en,China,#e88818,#e88818,3,0.275904998008
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.273319336059
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.271682434403
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
