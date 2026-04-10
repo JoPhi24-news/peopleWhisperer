@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Lang',en,unknown,#111111,#111111,2,0.506220866110
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
 'Joey Kelly',en,unknown,#111111,#111111,2,0.505496559256
 'Sohn Nick',en,unknown,#111111,#111111,2,0.505477986639
@@ -215,6 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.449492607434
+'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
@@ -342,12 +342,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.419643351823
+'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.419545666937
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Prince George',en,UK,#e838e8,#e838e8,3,0.419264187228
 'Camilla',en,UK,#e838e8,#e838e8,3,0.419215377178
 'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.419016153932
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
-'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.418749075442
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.418693261034
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
