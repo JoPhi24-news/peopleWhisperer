@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lisa Müller',en,unknown,#111111,#111111,2,0.505920506563
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.505892923298
 'Caroline Lang',en,unknown,#111111,#111111,2,0.505645758821
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,2,0.505642532795
@@ -289,6 +288,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Amiel',en,unknown,#111111,#111111,1,0.430361530739
 'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.430347327580
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.430149425068
+'Lisa Müller',en,unknown,#111111,#111111,1,0.430032445579
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
