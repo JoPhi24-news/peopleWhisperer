@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Catherine Pégard',en,unknown,#111111,#111111,2,0.505457312396
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
 'Ali Larijani',en,unknown,#111111,#111111,2,0.505077524347
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
@@ -291,6 +290,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,1,0.429796152876
 'Sohn Nick',en,unknown,#111111,#111111,1,0.429656288643
+'Catherine Pégard',en,unknown,#111111,#111111,1,0.429638790537
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
