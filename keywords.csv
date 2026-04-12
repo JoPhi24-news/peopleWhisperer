@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fabrice Aidan',en,unknown,#111111,#111111,2,0.505404838709
+'Fabrice Aidan',en,unknown,#111111,#111111,2,0.542694187903
 'Ali Larijani',en,unknown,#111111,#111111,2,0.505077524347
 'Elie Favrot',en,unknown,#111111,#111111,2,0.504362902980
 'Mark Kelly',en,unknown,#111111,#111111,3,0.504235594857
@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.482753550496
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
@@ -90,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.481619727518
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.481143408901
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.480734220756
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.480337513442
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
