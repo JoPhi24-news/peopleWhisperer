@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Van Der Beek',en,unknown,#111111,#111111,3,0.540819743207
 'Mark Kelly',en,unknown,#111111,#111111,3,0.539714573532
 'Mark Levin',en,unknown,#111111,#111111,3,0.507596602684
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
@@ -175,6 +174,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
+'James Van Der Beek',en,unknown,#111111,#111111,3,0.460747891726
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.460473455346
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
