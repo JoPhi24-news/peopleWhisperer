@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.610000000000
+'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.653004770000
 'Penny Green',en,unknown,#111111,#111111,3,0.610000000000
 'Myron Ebell',en,USA,#18e8e8,#111111,3,0.610000000000
 'Michael Lynk',en,unknown,#111111,#111111,3,0.610000000000
@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'René Gelber',en,unknown,#111111,#111111,2,0.518500000000
 'Raz Segal',en,unknown,#111111,#111111,2,0.518500000000
 'Norbert Rollinger',en,Deutschland,#11dd44,#11dd44,2,0.518500000000
+'Viktor Orban',en,unknown,#111111,#111111,2,0.512270230756
 'Mark Levin',en,unknown,#111111,#111111,3,0.507596602684
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'James Bond',en,unknown,#111111,#111111,2,0.502487614011
-'Viktor Orban',en,unknown,#111111,#111111,2,0.502318553721
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
 'Joe Rogan',en,unknown,#111111,#111111,3,0.501786058827
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
@@ -53,13 +53,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
 'Michele Reiner',en,unknown,#111111,#111111,3,0.498433071566
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.498311540381
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.498282110302
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Woody Allen',en,unknown,#111111,#111111,3,0.498033681338
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.497338901343
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.496385779007
 'Bari Weiss',en,unknown,#111111,#111111,3,0.495493485971
 'Nick Reiner',en,unknown,#111111,#111111,3,0.495480042726
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.495410150591
@@ -78,10 +78,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.491168143591
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.491008042161
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.491007035713
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.490528965452
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.490352786101
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
 'Tom Homan',en,unknown,#111111,#111111,3,0.489937193989
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
@@ -279,10 +279,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.436994653645
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Mark Carney',en,Kanada,#443388,#443388,3,0.436444190051
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.436232097098
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.435301646572
@@ -876,6 +876,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',en,unknown,#111111,#111111,1,0.224631255563
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.223889878969
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.223770278675
+'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.223542565977
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.223435060446
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
@@ -885,7 +886,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
-'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.219040619649
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.218192888971
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.217505800445
