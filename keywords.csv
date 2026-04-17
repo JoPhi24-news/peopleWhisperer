@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.672358944500
 'Penny Green',en,unknown,#111111,#111111,3,0.610000000000
 'Myron Ebell',en,USA,#18e8e8,#111111,3,0.610000000000
 'Michael Lynk',en,unknown,#111111,#111111,3,0.610000000000
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',en,unknown,#111111,#111111,3,0.610000000000
 'Amos Goldberg',en,unknown,#111111,#111111,3,0.610000000000
 'Amihai Eliyahu',en,unknown,#111111,#111111,3,0.610000000000
+'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.580997537825
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.558250375000
 'Mark Kelly',en,unknown,#111111,#111111,3,0.539714573532
 'Viktor Orban',en,unknown,#111111,#111111,2,0.521908746968
