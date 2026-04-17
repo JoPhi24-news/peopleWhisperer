@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Penny Green',en,unknown,#111111,#111111,3,0.610000000000
 'Myron Ebell',en,USA,#18e8e8,#111111,3,0.610000000000
 'Michael Lynk',en,unknown,#111111,#111111,3,0.610000000000
 'Martin Shaw',en,unknown,#111111,#111111,3,0.610000000000
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amihai Eliyahu',en,unknown,#111111,#111111,3,0.610000000000
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.580997537825
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.558250375000
+'Penny Green',en,unknown,#111111,#111111,3,0.545478333077
 'Mark Kelly',en,unknown,#111111,#111111,3,0.539714573532
 'Viktor Orban',en,unknown,#111111,#111111,2,0.521908746968
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.519866615900
@@ -48,9 +48,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
 'Thomas Massie',en,unknown,#111111,#111111,3,0.500231111818
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.500225781978
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Pam Bondi',en,unknown,#111111,#111111,3,0.499887925544
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.499588977177
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
 'Michele Reiner',en,unknown,#111111,#111111,3,0.498433071566
