@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Isaac Herzog',en,unknown,#111111,#111111,3,0.610000000000
 'Hannu Halinen',en,unknown,#111111,#111111,3,0.610000000000
 'Giorgio Goacomelli',en,unknown,#111111,#111111,3,0.610000000000
 'Daniel Hagari',en,unknown,#111111,#111111,3,0.610000000000
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',en,unknown,#111111,#111111,3,0.610000000000
 'Amos Goldberg',en,unknown,#111111,#111111,3,0.610000000000
 'Amihai Eliyahu',en,unknown,#111111,#111111,3,0.610000000000
+'Isaac Herzog',en,unknown,#111111,#111111,3,0.600570524839
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.580997537825
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.558250375000
 'Penny Green',en,unknown,#111111,#111111,3,0.545478333077
@@ -42,13 +42,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.501786058827
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501495577118
 'Abby Phillip',en,unknown,#111111,#111111,3,0.501490452089
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.501442717911
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
 'Thomas Massie',en,unknown,#111111,#111111,3,0.500231111818
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.500225781978
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500215318055
 'Pam Bondi',en,unknown,#111111,#111111,3,0.499887925544
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
@@ -175,8 +175,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
+'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.466686784985
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.465982960656
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464923408014
@@ -236,6 +236,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.449492607434
+'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.448926475785
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.448682204641
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
@@ -243,7 +244,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
-'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.447446899120
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.446197380124
@@ -363,9 +363,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
+'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.420606763372
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
-'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.419812228853
 'Merrick Garland',en,USA,#18e8e8,#18e8e8,3,0.419808918437
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
@@ -835,6 +835,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.245081759362
+'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.245001399145
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.244824561224
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.244496985284
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
@@ -848,15 +849,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
 'Aleksandar Vučić',en,Serbien,#88cc44,#88cc44,1,0.239310118648
-'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.238411369567
 'Paul Konerko',en,unknown,#111111,#111111,1,0.237653039901
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.237179702499
 'Cyril Ramaphosa',en,Südafrika,#cc4488,#cc4488,3,0.236762703671
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,3,0.236493260750
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,2,0.235135573887
+'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.233586709617
 'Benjamin Nethanaju',en,Israel,#22bb33,#22bb33,1,0.233362291038
 'Dalai Lama',en,Tibet,#cc8844,#cc8844,3,0.232549346049
-'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.232476586039
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.232372229839
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.231894365087
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
@@ -888,8 +888,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.218192888971
+'Ursula von der Leyen',en,EU,#4488cc,#4488cc,3,0.217986972895
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.217505800445
-'Ursula von der Leyen',en,EU,#4488cc,#4488cc,3,0.216856558837
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.216043606442
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.214282176632
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.212393858933
