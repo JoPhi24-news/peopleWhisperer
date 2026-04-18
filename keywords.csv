@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Makarim Wobisono',en,unknown,#111111,#111111,3,0.610000000000
 'John Dugard',en,unknown,#111111,#111111,3,0.610000000000
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.610000000000
 'Hannu Halinen',en,unknown,#111111,#111111,3,0.610000000000
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Rollinger',en,Deutschland,#11dd44,#11dd44,2,0.518500000000
 'Myron Ebell',en,USA,#18e8e8,#111111,2,0.518500000000
 'Michael Lynk',en,unknown,#111111,#111111,2,0.518500000000
+'Makarim Wobisono',en,unknown,#111111,#111111,2,0.518500000000
 'Mark Levin',en,unknown,#111111,#111111,3,0.507596602684
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
