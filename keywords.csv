@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howie Mandel',en,unknown,#111111,#111111,3,0.636280803668
-'Kelly Ripa',en,unknown,#111111,#111111,2,0.609520696754
+'Howie Mandel',en,unknown,#111111,#111111,3,0.635339568118
+'Kelly Ripa',en,unknown,#111111,#111111,2,0.614526539348
 'Diane Keaton',en,unknown,#111111,#111111,2,0.605213730067
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.600570524839
 'Eric Dane',en,unknown,#111111,#111111,3,0.588386518486
@@ -98,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.485382070939
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.485179694332
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.484875817794
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.483378537204
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
