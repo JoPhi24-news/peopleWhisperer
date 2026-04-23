@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Isaac Herzog',en,unknown,#111111,#111111,3,0.575821755399
 'Kelly Ripa',en,unknown,#111111,#111111,2,0.570843232890
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.558250375000
 'Penny Green',en,unknown,#111111,#111111,3,0.545478333077
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',en,unknown,#111111,#111111,1,0.518500000000
 'Giorgio Goacomelli',en,unknown,#111111,#111111,2,0.518500000000
 'Amihai Eliyahu',en,unknown,#111111,#111111,1,0.518500000000
+'Isaac Herzog',en,unknown,#111111,#111111,3,0.518293210476
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.516985350333
 'Diane Keaton',en,unknown,#111111,#111111,1,0.514432090557
 'Mark Levin',en,unknown,#111111,#111111,3,0.507596602684
@@ -164,6 +164,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
+'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.469488121367
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
@@ -180,7 +181,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
-'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.466686784985
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
@@ -837,9 +837,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.248506987544
 'Tamim Hamad Thani',en,Katar,#44cc88,#44cc88,3,0.247704442776
+'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.247185932506
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
-'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.246094428639
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.245081759362
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.244824561224
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.244496985284
