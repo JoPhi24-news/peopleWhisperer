@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kelly Ripa',en,unknown,#111111,#111111,2,0.570843232890
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.558250375000
 'Penny Green',en,unknown,#111111,#111111,3,0.545478333077
 'Howie Mandel',en,unknown,#111111,#111111,3,0.543939517900
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.495410150591
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
+'Kelly Ripa',en,unknown,#111111,#111111,2,0.494823548512
 'Tim Walz',en,unknown,#111111,#111111,3,0.494617865463
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
