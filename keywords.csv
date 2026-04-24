@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Eric Dane',en,unknown,#111111,#111111,3,0.536899857531
 'Chris Soto',en,unknown,#111111,#111111,3,0.527996249545
 'Viktor Orban',en,unknown,#111111,#111111,2,0.524270658279
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.520372404659
@@ -25,10 +24,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amihai Eliyahu',en,unknown,#111111,#111111,1,0.518500000000
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.518293210476
 'Diane Keaton',en,unknown,#111111,#111111,1,0.514432090557
+'Eric Dane',en,unknown,#111111,#111111,3,0.508043148901
 'Mark Levin',en,unknown,#111111,#111111,3,0.507596602684
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.504019980847
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.504647932766
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Péter Magyar',en,unknown,#111111,#111111,2,0.503684571184
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
