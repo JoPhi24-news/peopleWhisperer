@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.519866615900
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.519386409101
 'William Schabas ',en,unknown,#111111,#111111,3,0.519250075000
 'Martin Shaw',en,unknown,#111111,#111111,3,0.519101050000
@@ -207,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
+'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
@@ -840,6 +840,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim Hamad Thani',en,Katar,#44cc88,#44cc88,3,0.247704442776
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
+'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.245253486940
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.245081759362
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.244824561224
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.244496985284
@@ -849,7 +850,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
-'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.243063564636
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
