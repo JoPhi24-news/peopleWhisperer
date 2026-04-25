@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Soto',en,unknown,#111111,#111111,3,0.527996249545
 'Viktor Orban',en,unknown,#111111,#111111,2,0.524270658279
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.520372404659
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.519866615900
@@ -231,6 +230,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451932007182
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
+'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.451237888548
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
