@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Richard Falk',en,unknown,#111111,#111111,2,0.518500135000
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.518500090000
 'Sebastian Hille',en,unknown,#111111,#111111,2,0.518500030000
 'Amos Goldberg',en,unknown,#111111,#111111,2,0.518500015000
@@ -272,6 +271,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.442031633879
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
+'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.441488881098
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.441395683042
