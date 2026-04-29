@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Revital Gottlieb',en,unknown,#111111,#111111,1,0.518500000000
 'René Gelber',en,unknown,#111111,#111111,2,0.518500000000
 'Raz Segal',en,unknown,#111111,#111111,2,0.518500000000
 'Norbert Rollinger',en,Deutschland,#11dd44,#11dd44,2,0.518500000000
@@ -276,6 +275,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.441395683042
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
 'Thilo Jung',en,unknown,#111111,#111111,1,0.440725000000
+'Revital Gottlieb',en,unknown,#111111,#111111,1,0.440725000000
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.439924769847
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.439746580244
