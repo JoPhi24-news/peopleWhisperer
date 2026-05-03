@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kelly Ripa',en,unknown,#111111,#111111,2,0.508128617408
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.506288063905
 'Péter Magyar',en,unknown,#111111,#111111,2,0.504940559332
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
@@ -58,9 +57,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.491183869653
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.491007035713
 'Mark Kelly',en,unknown,#111111,#111111,3,0.490992864775
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.490528965452
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Keir Starmer',en,unknown,#111111,#111111,3,0.490233655441
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
@@ -168,6 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
+'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.463615017433
 'Cilia Flores',en,unknown,#111111,#111111,3,0.463404310997
 'Kristi Noem',en,unknown,#111111,#111111,3,0.462885739892
@@ -406,6 +406,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Williams',en,USA,#18e8e8,#18e8e8,3,0.412798931051
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.412719926811
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.412544633373
+'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.412436745894
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
 'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.411853016877
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.411815657059
@@ -413,7 +414,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',en,USA,#18e8e8,#18e8e8,3,0.411768921892
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230017
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
-'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.411626420588
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.411125868409
@@ -469,13 +469,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
+'Nikki Glaser',en,unknown,#111111,#111111,1,0.401890314804
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.401823203134
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.401382707999
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
-'Nikki Glaser',en,unknown,#111111,#111111,1,0.401059776815
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.400982144538
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.400972438328
@@ -514,6 +514,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.396321451020
 'Tyson Fury',en,UK,#e838e8,#e838e8,3,0.396069830134
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
+'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.395639920536
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.395581280348
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.395558806840
@@ -521,7 +522,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.394956482116
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
 'Cruz Beckham',en,Spanien,#9933aa,#9933aa,3,0.394839426047
-'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.394797502731
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.394657649648
 'Matt Winkelmeyer',en,USA,#18e8e8,#18e8e8,2,0.394601458644
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
