@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Isaac Herzog',en,unknown,#111111,#111111,3,0.506288063905
 'Péter Magyar',en,unknown,#111111,#111111,2,0.504940559332
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
@@ -140,12 +139,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469852705695
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.469488121367
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469155187321
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468989980155
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
@@ -234,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
+'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.446197380124
@@ -822,13 +822,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Maria Rypa',en,unknown,#111111,#111111,1,0.263075096843
 'Eva Kaili',en,EU,#4488cc,#4488cc,3,0.262505447988
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.261364110525
+'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.261235250220
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.261191158022
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.261099390997
 'Munther Amira',en,Palestina,#cc2255,#cc2255,1,0.261003125000
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Adnan al-Burj',en,Palestina,#cc2255,#cc2255,1,0.261003125000
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775
-'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.260163855577
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.257219495474
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.256540291249
 'Steven Donziger',en,unknown,#111111,#111111,1,0.254714520833
