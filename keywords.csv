@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',en,unknown,#111111,#111111,2,0.609924365682
-'Sydney Sweeney',en,unknown,#111111,#111111,2,0.602472684334
+'Sydney Sweeney',en,unknown,#111111,#111111,2,0.604638384237
 'Angus Cloud',en,unknown,#111111,#111111,2,0.602063045425
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.564301671739
 'Péter Magyar',en,unknown,#111111,#111111,3,0.553610456826
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',en,unknown,#111111,#111111,3,0.503621842452
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.503454908735
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.503186837985
+'James Bond',en,unknown,#111111,#111111,2,0.503118627405
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
 'Sebastian Hille',en,unknown,#111111,#111111,2,0.502671327175
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
-'James Bond',en,unknown,#111111,#111111,2,0.502487614011
 'Joe Rogan',en,unknown,#111111,#111111,3,0.502418473887
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
@@ -195,9 +195,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
+'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458760249660
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.458419684454
-'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.457567041980
@@ -353,13 +353,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
+'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.424131165883
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
 'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.422613670525
-'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.422554254826
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.422420407043
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
