@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Péter Magyar',en,unknown,#111111,#111111,3,0.626926811952
 'Jacob Elordi',en,unknown,#111111,#111111,2,0.609924365682
 'Sydney Sweeney',en,unknown,#111111,#111111,2,0.602472684334
 'Angus Cloud',en,unknown,#111111,#111111,2,0.602063045425
+'Péter Magyar',en,unknown,#111111,#111111,3,0.553610456826
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
@@ -780,8 +780,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoğan',en,Türkei,#66bb22,#66bb22,3,0.298410244770
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.296895232705
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.295419941258
+'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.295330572850
 'Suleika Jaouad',en,unknown,#111111,#111111,1,0.294509363688
-'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.294311427845
 'Rudolf Steiner',en,Oesterreich,#bbff33,#bbff33,1,0.292311623142
 'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.292175960279
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.291481919003
