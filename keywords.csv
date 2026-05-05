@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sydney Sweeney',en,unknown,#111111,#111111,2,0.604638384237
 'Angus Cloud',en,unknown,#111111,#111111,2,0.602063045425
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.587085124783
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.564301671739
 'Péter Magyar',en,unknown,#111111,#111111,3,0.553610456826
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
@@ -229,8 +229,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.449664076419
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.449420287126
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.448682204641
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
@@ -303,9 +303,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.433917256207
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
+'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.433263441144
 'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.432976962777
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
-'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.432493571316
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Kamel Daoud',en,unknown,#111111,#111111,1,0.432186640325
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
@@ -475,12 +475,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Glaser',en,unknown,#111111,#111111,1,0.401890314804
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.401823203134
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
+'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.401812830266
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.401382707999
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
-'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.400982144538
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.400972438328
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
@@ -543,13 +543,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
 'Francis Ford Coppola',en,USA,#18e8e8,#18e8e8,3,0.390419987433
+'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.390381397197
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.390081873599
 'Chris Stapleton',en,USA,#18e8e8,#18e8e8,3,0.389966375935
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.389945185566
 'Sheryl Crow',en,USA,#18e8e8,#18e8e8,3,0.389905522132
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.389759317912
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.389580739940
-'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.389529046223
 'Abraham Lincoln',en,USA,#18e8e8,#18e8e8,3,0.389394000213
 'Michel Barnier',en,Frankreich,#e8e808,#e8e808,2,0.389157432200
 'Steffen Kotre',en,Deutschland,#1818e8,#1818e8,1,0.388972974229
@@ -843,10 +843,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.248506987544
 'Tamim Hamad Thani',en,Katar,#44cc88,#44cc88,3,0.247704442776
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.247266068521
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.246346165051
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.245081759362
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.244824561224
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.244496985284
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
