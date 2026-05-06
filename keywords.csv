@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.567337142038
 'Angus Cloud',en,unknown,#111111,#111111,3,0.564792395385
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.559709872589
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.561773352802
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.555375438914
 'Péter Magyar',en,unknown,#111111,#111111,3,0.553610456826
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
@@ -192,10 +192,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
+'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.459478405942
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
-'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458760249660
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.458419684454
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
@@ -337,10 +337,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
+'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.427308132423
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
-'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.426526628479
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.425702531613
@@ -464,9 +464,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',en,USA,#18e8e8,#18e8e8,3,0.404320275881
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
+'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.403730634013
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
-'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.402903608324
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.402693583489
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.402641934547
@@ -970,8 +970,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,2,0.169396922294
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.169344050433
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,2,0.169208668101
+'Justin Trudeau',en,Kanada,#443388,#443388,3,0.169022423696
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.169002693578
-'Justin Trudeau',en,Kanada,#443388,#443388,3,0.167836246560
 'Karl Nehammer',en,Oesterreich,#bbff33,#bbff33,2,0.166898476781
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.162656080435
 'Amin Nasser',en,SaudiArabien,#1144ee,#1144ee,2,0.162574303778
