@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.556426221489
 'Péter Magyar',en,unknown,#111111,#111111,3,0.553610456826
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.541849830303
 'Angus Cloud',en,unknown,#111111,#111111,3,0.541125246077
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.540741311441
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Jen Psaki',en,unknown,#111111,#111111,3,0.487854882639
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487172464998
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.487010352357
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.485542008868
