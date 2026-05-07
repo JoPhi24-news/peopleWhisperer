@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.541849830303
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.556442291667
 'Angus Cloud',en,unknown,#111111,#111111,3,0.541125246077
 'Péter Magyar',en,unknown,#111111,#111111,3,0.525074873302
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
@@ -196,9 +196,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
+'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.458752781749
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.458419684454
-'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.458033184956
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.457567041980
@@ -249,6 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.444786043183
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.444579901279
 'prince Andrew',en,unknown,#111111,#111111,3,0.444414912224
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.444201260232
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
@@ -256,7 +257,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.443373415278
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.442703019267
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
@@ -292,11 +292,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',en,Kanada,#443388,#443388,3,0.437206331174
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
+'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.436327896751
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.435301646572
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
-'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.434798669327
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.434742848797
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
@@ -358,12 +358,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
+'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.422874961779
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
 'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.422613670525
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.422420407043
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
-'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.422084830122
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.421534459013
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
@@ -419,12 +419,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
+'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.411451285579
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.411125868409
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.411009036471
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.410654684699
-'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.410639063153
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
