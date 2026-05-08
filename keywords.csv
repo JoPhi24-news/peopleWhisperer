@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Angus Cloud',en,unknown,#111111,#111111,3,0.541125246077
+'Angus Cloud',en,unknown,#111111,#111111,3,0.544458184165
 'Péter Magyar',en,unknown,#111111,#111111,3,0.525074873302
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.506408161504
 'Rob Reiner',en,unknown,#111111,#111111,3,0.504810138249
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
 'Jacob Frey',en,unknown,#111111,#111111,3,0.503621842452
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.503454908735
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.503273494979
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.503186837985
 'James Bond',en,unknown,#111111,#111111,2,0.503118627405
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.491183869653
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.491007035713
 'Mark Kelly',en,unknown,#111111,#111111,3,0.490992864775
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.490962161326
 'Keir Starmer',en,unknown,#111111,#111111,3,0.490889149421
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Scott Jennings',en,unknown,#111111,#111111,3,0.490187002947
@@ -68,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',en,unknown,#111111,#111111,3,0.489937193989
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Kash Patel',en,unknown,#111111,#111111,3,0.489106284417
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.488992180973
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
@@ -172,6 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.463615017433
 'Cilia Flores',en,unknown,#111111,#111111,3,0.463404310997
+'Eric Dane',en,unknown,#111111,#111111,3,0.463284224846
 'Kristi Noem',en,unknown,#111111,#111111,3,0.462885739892
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.462837582409
@@ -202,7 +203,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458030946595
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.457567041980
-'Eric Dane',en,unknown,#111111,#111111,3,0.457559777842
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.457544711469
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.456427993804
