@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rob Reiner',en,unknown,#111111,#111111,3,0.547677246148
 'Joe Kent',en,unknown,#111111,#111111,2,0.504782513763
 'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
@@ -7,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.503454908735
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.503186837985
 'James Bond',en,unknown,#111111,#111111,2,0.503118627405
+'Michele Reiner',en,unknown,#111111,#111111,3,0.502880144904
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
 'Sebastian Hille',en,unknown,#111111,#111111,2,0.502671327175
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Joe Rogan',en,unknown,#111111,#111111,3,0.502418473887
-'Michele Reiner',en,unknown,#111111,#111111,3,0.502248654085
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
 'Nick Reiner',en,unknown,#111111,#111111,3,0.501872501414
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
@@ -81,9 +80,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
+'Jake Reiner',en,unknown,#111111,#111111,2,0.484045706354
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
-'Jake Reiner',en,unknown,#111111,#111111,2,0.483376523256
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475803185526
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
+'Rob Reiner',en,unknown,#111111,#111111,3,0.475023333771
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.474696625906
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.474671241763
