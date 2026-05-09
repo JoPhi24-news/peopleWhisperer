@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Noël Barrot',en,unknown,#111111,#111111,2,0.503861114834
 'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
 'Jacob Frey',en,unknown,#111111,#111111,3,0.503621842452
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.503454908735
@@ -97,10 +96,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.481143408901
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.480150385042
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.479579943858
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479473416366
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Stephen Miller',en,unknown,#111111,#111111,3,0.479098653315
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.478970460837
@@ -146,10 +145,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.469224930732
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468989980155
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.468526161441
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.467939621569
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
@@ -195,6 +194,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.459478405942
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
+'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.458419684454
@@ -559,6 +559,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',en,UK,#e838e8,#e838e8,3,0.388733145116
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
 'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.388436817411
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.388366243978
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.388223261329
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
@@ -566,7 +567,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',en,Frankreich,#e8e808,#e8e808,2,0.387445140707
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.387205521593
 'Caroline Ellison',en,USA,#18e8e8,#18e8e8,2,0.386837288472
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.386652351946
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.386544027344
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.386540311018
 'Hailey Van Lith',en,USA,#18e8e8,#18e8e8,2,0.386505347677
