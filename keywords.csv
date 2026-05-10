@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Khamenei',en,unknown,#111111,#111111,3,0.503186837985
 'James Bond',en,unknown,#111111,#111111,2,0.503118627405
 'Michele Reiner',en,unknown,#111111,#111111,3,0.502880144904
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
@@ -9,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Joe Rogan',en,unknown,#111111,#111111,3,0.502418473887
 'Raphaël Arnault',en,unknown,#111111,#111111,2,0.502042214423
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.501949242328
 'Nick Reiner',en,unknown,#111111,#111111,3,0.501872501414
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.501475151500
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.501442717911
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.501315887882
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
@@ -287,6 +286,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
+'Ali Khamenei',en,unknown,#111111,#111111,3,0.437218201833
 'Mark Carney',en,Kanada,#443388,#443388,3,0.437206331174
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
