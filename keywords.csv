@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Quentin Deranque',en,unknown,#111111,#111111,2,0.503454908735
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.503186837985
 'James Bond',en,unknown,#111111,#111111,2,0.503118627405
 'Michele Reiner',en,unknown,#111111,#111111,3,0.502880144904
@@ -336,6 +335,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.428088115422
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
+'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
