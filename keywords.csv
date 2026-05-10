@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Claire Legendre',en,unknown,#111111,#111111,2,0.503637913174
 'Jacob Frey',en,unknown,#111111,#111111,3,0.503621842452
 'Quentin Deranque',en,unknown,#111111,#111111,2,0.503454908735
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.503186837985
@@ -334,6 +333,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.428692188779
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.428333945588
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
+'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.428088115422
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
