@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hunter Schafer',en,unknown,#111111,#111111,2,0.605755237881
 'Scooter Braun',en,unknown,#111111,#111111,2,0.600787355349
-'Sam Levinson',en,unknown,#111111,#111111,2,0.600165291576
+'Sam Levinson',en,unknown,#111111,#111111,2,0.600604452977
+'Hunter Schafer',en,unknown,#111111,#111111,2,0.583481465835
 'James Bond',en,unknown,#111111,#111111,3,0.532885223653
 'Kendall Jenner',en,unknown,#111111,#111111,2,0.509588390102
 'Daniel Craig',en,unknown,#111111,#111111,2,0.503692109554
@@ -39,9 +39,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',en,unknown,#111111,#111111,3,0.495264602125
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.494219318646
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.493774831104
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.493570489649
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492734406699
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
@@ -71,10 +71,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487172464998
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.486206870263
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.486047251573
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.485542008868
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -163,11 +163,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464923408014
+'Eric Dane',en,unknown,#111111,#111111,3,0.464701184613
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464081168268
 'Larry David',en,unknown,#111111,#111111,3,0.464076515097
-'Eric Dane',en,unknown,#111111,#111111,3,0.463993408681
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
 'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.463615017433
@@ -232,6 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.449420287126
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.449398844516
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
@@ -251,7 +252,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.444786043183
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.444579901279
 'prince Andrew',en,unknown,#111111,#111111,3,0.444414912224
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.444201260232
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',en,unknown,#111111,#111111,3,0.392969286862
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.392873004398
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
+'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.392081291330
 'Narendra Modi',en,Indien,#cc3388,#cc3388,3,0.392011486860
 'Mark Rutte',en,Niederlande,#6622bb,#6622bb,3,0.391941823970
-'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.391232145070
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
 'Francis Ford Coppola',en,USA,#18e8e8,#18e8e8,3,0.390419987433
