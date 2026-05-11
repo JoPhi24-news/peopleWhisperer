@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',en,unknown,#111111,#111111,2,0.503118627405
+'James Bond',en,unknown,#111111,#111111,3,0.518974534658
 'Michele Reiner',en,unknown,#111111,#111111,3,0.502880144904
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
 'Abby Phillip',en,unknown,#111111,#111111,3,0.502755198714
@@ -204,8 +204,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.455434468411
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.455373918875
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.454647620173
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
@@ -304,6 +304,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
 'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.432976962777
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
+'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.432468232398
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Kamel Daoud',en,unknown,#111111,#111111,1,0.432186640325
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
@@ -318,7 +319,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Affaire Epstein',en,unknown,#111111,#111111,1,0.430499099565
 'David Amiel',en,unknown,#111111,#111111,1,0.430361530739
 'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.430347327580
-'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.430149425068
 'Lisa Müller',en,unknown,#111111,#111111,1,0.430032445579
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
@@ -341,18 +341,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
+'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.426485638451
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
-'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.425702531613
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
+'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.425060875301
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
-'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.424131165883
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
@@ -476,12 +476,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.401823203134
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
+'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.401803142527
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.401382707999
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
-'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.400972438328
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.400415420419
@@ -592,6 +592,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Corman',en,unknown,#111111,#111111,2,0.382356647791
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.382014735954
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381967053335
+'Lana Del Rey',en,unknown,#111111,#111111,3,0.381911801647
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
 'Peyton Manning',en,unknown,#111111,#111111,3,0.380459354945
@@ -599,7 +600,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bundchen',en,unknown,#111111,#111111,2,0.380271200903
 'Leni Klum',en,unknown,#111111,#111111,2,0.380029061917
 'Itamar Ben-Gvir',en,Israel,#22bb33,#22bb33,3,0.379599528175
-'Lana Del Rey',en,unknown,#111111,#111111,3,0.379302272690
 'Jason Whitlock',en,unknown,#111111,#111111,2,0.379008627582
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,3,0.378945893901
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.378838594409
