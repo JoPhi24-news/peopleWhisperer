@@ -1,5 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',en,unknown,#111111,#111111,3,0.518974534658
+'Hunter Schafer',en,unknown,#111111,#111111,2,0.605755237881
+'Scooter Braun',en,unknown,#111111,#111111,2,0.600787355349
+'Sam Levinson',en,unknown,#111111,#111111,2,0.600165291576
+'James Bond',en,unknown,#111111,#111111,3,0.532885223653
+'Kendall Jenner',en,unknown,#111111,#111111,2,0.509588390102
+'Daniel Craig',en,unknown,#111111,#111111,2,0.503692109554
 'Michele Reiner',en,unknown,#111111,#111111,3,0.502880144904
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
 'Abby Phillip',en,unknown,#111111,#111111,3,0.502755198714
@@ -36,8 +41,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.493774831104
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.493570489649
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.492920361961
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492734406699
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
@@ -299,12 +304,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
+'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.434006566447
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.433917256207
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.433678782325
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
 'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.432976962777
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
-'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.432468232398
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Kamel Daoud',en,unknown,#111111,#111111,1,0.432186640325
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
@@ -581,6 +586,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.384905078928
 'Robert Prevost',en,unknown,#111111,#111111,2,0.384823984602
 'Sam Asghari',en,unknown,#111111,#111111,1,0.384568479521
+'Lana Del Rey',en,unknown,#111111,#111111,3,0.384506779423
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.384172665267
 'Recep Tayyip Erdoan',en,Türkei,#66bb22,#66bb22,3,0.384134953708
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.384063379309
@@ -592,7 +598,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Corman',en,unknown,#111111,#111111,2,0.382356647791
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.382014735954
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381967053335
-'Lana Del Rey',en,unknown,#111111,#111111,3,0.381911801647
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
 'Peyton Manning',en,unknown,#111111,#111111,3,0.380459354945
