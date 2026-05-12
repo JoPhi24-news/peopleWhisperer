@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scooter Braun',en,unknown,#111111,#111111,3,0.592739821885
 'Sam Levinson',en,unknown,#111111,#111111,3,0.585629780030
 'Hunter Schafer',en,unknown,#111111,#111111,2,0.583952575048
+'Scooter Braun',en,unknown,#111111,#111111,3,0.576961881784
 'James Bond',en,unknown,#111111,#111111,3,0.532885223653
 'Kendall Jenner',en,unknown,#111111,#111111,2,0.510205219252
 'Daniel Craig',en,unknown,#111111,#111111,2,0.503692109554
@@ -70,8 +70,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.487532614143
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487172464998
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.486870404511
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.486047251573
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
@@ -122,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.474671241763
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.474567865415
 'Todd Blanche',en,unknown,#111111,#111111,3,0.474537516710
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.474448744561
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
@@ -152,7 +153,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.468203913785
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.467939621569
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
@@ -227,12 +227,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.450710767369
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.450229091084
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450157195128
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.450135513183
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.449886165962
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.449420287126
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.449398844516
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
@@ -268,6 +268,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.441488881098
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.441395683042
+'Justin Bieber',en,Kanada,#443388,#443388,3,0.441287025446
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
 'Thilo Jung',en,unknown,#111111,#111111,1,0.440725000000
@@ -293,7 +294,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.437218201833
 'Mark Carney',en,Kanada,#443388,#443388,3,0.437206331174
-'Justin Bieber',en,Kanada,#443388,#443388,3,0.436739996954
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.436327896751
@@ -415,6 +415,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.412719926811
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.412544633373
 'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.412436745894
+'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.412261947513
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
 'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.411853016877
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.411815657059
@@ -424,13 +425,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
-'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.411451285579
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.411386525017
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.411125868409
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.411009036471
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.410654684699
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.410574177978
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
@@ -463,6 +463,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.404883440270
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.404604171107
+'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.404556082231
 'Victoria Monét',en,USA,#18e8e8,#18e8e8,3,0.404553348792
 'Roman Pacino',en,USA,#18e8e8,#18e8e8,1,0.404455146818
 'Drew Bledsoe',en,USA,#18e8e8,#18e8e8,2,0.404445273789
@@ -470,7 +471,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',en,USA,#18e8e8,#18e8e8,3,0.404320275881
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
-'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.403730634013
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
