@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Levinson',en,unknown,#111111,#111111,3,0.585629780030
-'Hunter Schafer',en,unknown,#111111,#111111,2,0.583952575048
+'Hunter Schafer',en,unknown,#111111,#111111,2,0.584422775501
 'Scooter Braun',en,unknown,#111111,#111111,3,0.576961881784
+'Sam Levinson',en,unknown,#111111,#111111,3,0.552738943025
 'James Bond',en,unknown,#111111,#111111,3,0.532885223653
 'Kendall Jenner',en,unknown,#111111,#111111,2,0.510205219252
 'Daniel Craig',en,unknown,#111111,#111111,2,0.503692109554
@@ -51,11 +51,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.491804994082
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
+'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.491183869653
-'Angus Cloud',en,unknown,#111111,#111111,3,0.491028681540
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.491007035713
 'Mark Kelly',en,unknown,#111111,#111111,3,0.490992864775
 'Keir Starmer',en,unknown,#111111,#111111,3,0.490889149421
@@ -113,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.476505588981
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475803185526
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
@@ -122,7 +123,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.474671241763
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.474567865415
 'Todd Blanche',en,unknown,#111111,#111111,3,0.474537516710
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.474448744561
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.473562200722
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.473520867743
@@ -476,10 +476,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
 'Nikki Glaser',en,unknown,#111111,#111111,1,0.402719271504
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.402693583489
+'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.402652287659
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
-'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.401823203134
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.401803142527
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
