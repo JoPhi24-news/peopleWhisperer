@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Levinson',en,unknown,#111111,#111111,3,0.552738943025
 'James Bond',en,unknown,#111111,#111111,3,0.532885223653
 'Hunter Schafer',en,unknown,#111111,#111111,2,0.519894267358
 'Kendall Jenner',en,unknown,#111111,#111111,2,0.510205219252
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Kash Patel',en,unknown,#111111,#111111,3,0.489106284417
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Sam Levinson',en,unknown,#111111,#111111,3,0.488418125208
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
@@ -105,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Stephen Miller',en,unknown,#111111,#111111,3,0.479098653315
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.478970460837
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.478550162732
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478131918325
 'Renee Good',en,unknown,#111111,#111111,3,0.477901574356
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
@@ -113,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.476505588981
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.475803185526
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
