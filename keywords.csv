@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Reiner',en,unknown,#111111,#111111,3,0.558272610091
-'Nick Reiner',en,unknown,#111111,#111111,3,0.505021106814
+'Michele Reiner',en,unknown,#111111,#111111,3,0.532408935029
+'Nick Reiner',en,unknown,#111111,#111111,3,0.505647058713
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
 'Abby Phillip',en,unknown,#111111,#111111,3,0.502755198714
+'Michelle Reiner',en,unknown,#111111,#111111,2,0.502707655087
 'Sebastian Hille',en,unknown,#111111,#111111,2,0.502671327175
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
@@ -12,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.501475151500
-'Michelle Reiner',en,unknown,#111111,#111111,2,0.501442717911
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Woody Allen',en,unknown,#111111,#111111,3,0.498033681338
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
+'Jake Reiner',en,unknown,#111111,#111111,2,0.497793987527
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.497338901343
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.496801698607
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493034292127
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.492734406699
-'Jake Reiner',en,unknown,#111111,#111111,2,0.492624491170
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
@@ -63,7 +63,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Kash Patel',en,unknown,#111111,#111111,3,0.489106284417
+'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Rob Reiner',en,unknown,#111111,#111111,3,0.488483352893
 'Sam Levinson',en,unknown,#111111,#111111,3,0.488418125208
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
@@ -71,13 +73,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.487532614143
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487172464998
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
-'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.486185845806
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.486047251573
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
-'Rob Reiner',en,unknown,#111111,#111111,3,0.484501641619
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
@@ -425,12 +425,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.411605143385
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
+'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.411466877123
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.411386525017
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.411125868409
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.411028532074
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.411009036471
-'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.410654684699
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Robin Wall Kimmerer',en,USA,#18e8e8,#18e8e8,1,0.410189635964
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
