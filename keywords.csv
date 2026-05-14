@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kendall Jenner',en,unknown,#111111,#111111,2,0.510205219252
 'Daniel Craig',en,unknown,#111111,#111111,2,0.504320716504
 'Michele Reiner',en,unknown,#111111,#111111,3,0.502880144904
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
@@ -30,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.497338901343
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.495513090743
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.496801698607
 'Bari Weiss',en,unknown,#111111,#111111,3,0.495493485971
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.495410150591
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.487532614143
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487172464998
+'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.486047251573
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
@@ -151,12 +151,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.469224930732
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468989980155
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
+'Nancy Guthrie',en,unknown,#111111,#111111,3,0.468639557069
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
-'Nancy Guthrie',en,unknown,#111111,#111111,3,0.467939621569
+'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468208826789
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
-'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.467508033305
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
@@ -330,6 +330,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,1,0.429796152876
 'Sohn Nick',en,unknown,#111111,#111111,1,0.429656288643
+'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.429643526999
 'Catherine Pégard',en,unknown,#111111,#111111,1,0.429638790537
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
@@ -338,7 +339,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.428333945588
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
-'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.428088115422
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
 'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
@@ -352,6 +352,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
+'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.425236169244
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.425060875301
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
@@ -361,7 +362,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.424131165883
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
-'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.423663560822
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
