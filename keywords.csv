@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.519134508048
 'Abby Phillip',en,unknown,#111111,#111111,3,0.502755198714
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.502707655087
 'Sebastian Hille',en,unknown,#111111,#111111,2,0.502671327175
@@ -224,6 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451134913958
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.450964121173
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.450755656841
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.450710767369
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.450621872931
