@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michele Reiner',en,unknown,#111111,#111111,3,0.532408935029
 'Nick Reiner',en,unknown,#111111,#111111,3,0.505647058713
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.502804651593
 'Abby Phillip',en,unknown,#111111,#111111,3,0.502755198714
@@ -204,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.457828887571
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.457567041980
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.457544711469
+'Michele Reiner',en,unknown,#111111,#111111,3,0.457199004775
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.456427993804
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
