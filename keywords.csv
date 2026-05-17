@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.518292079992
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.506168090135
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.502707655087
 'Sebastian Hille',en,unknown,#111111,#111111,2,0.502671327175
@@ -100,10 +99,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.479579943858
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.479448384213
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Stephen Miller',en,unknown,#111111,#111111,3,0.479098653315
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478811561566
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.478770013059
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.478575517993
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.478532151634
 'Renee Good',en,unknown,#111111,#111111,3,0.477901574356
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
@@ -185,6 +185,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.460747891726
+'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.460743229464
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.460473455346
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
@@ -192,7 +193,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.459478405942
-'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.459310519356
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.459267464143
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.459138515541
