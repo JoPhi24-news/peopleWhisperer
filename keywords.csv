@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michaela Coel',en,unknown,#111111,#111111,3,0.576292006108
 'Adam Mockler',en,unknown,#111111,#111111,3,0.548614970881
+'Michaela Coel',en,unknown,#111111,#111111,3,0.536837205192
 'Scott Jennings',en,unknown,#111111,#111111,3,0.513591486744
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
@@ -71,11 +71,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
+'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
-'Chappell Roan',en,unknown,#111111,#111111,3,0.484282404630
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.483612354374
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483423976603
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
@@ -152,6 +152,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468208826789
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.468085906073
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
@@ -181,8 +182,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461911574661
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.461726095208
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
+'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.461457454797
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
@@ -190,7 +191,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.460473455346
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
-'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.460187700608
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.459478405942
@@ -621,12 +621,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.376933800366
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.376660408661
 'Benny Safdie',en,unknown,#111111,#111111,3,0.376425196325
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.376421968280
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.376369068300
 'nan Si',en,unknown,#111111,#111111,1,0.376318863180
 'Faith Birol',en,unknown,#111111,#111111,1,0.376282948397
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.375870477972
 'Dawn Staley',en,unknown,#111111,#111111,2,0.375609659989
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.375543542048
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.375353230130
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.375267519544
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.375241491623
