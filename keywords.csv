@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michaela Coel',en,unknown,#111111,#111111,2,0.606165318951
+'Michaela Coel',en,unknown,#111111,#111111,3,0.576292006108
 'Adam Mockler',en,unknown,#111111,#111111,3,0.548614970881
 'Scott Jennings',en,unknown,#111111,#111111,3,0.513591486744
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
@@ -59,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',en,unknown,#111111,#111111,3,0.489937193989
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.489358394957
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.488853069698
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Sam Levinson',en,unknown,#111111,#111111,3,0.488418125208
@@ -66,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',en,unknown,#111111,#111111,3,0.488266583549
 'Epstein Files',en,unknown,#111111,#111111,3,0.487986891408
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487834071589
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.487532614143
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.487373632105
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
@@ -181,6 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461911574661
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.461726095208
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.461457454797
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
@@ -212,7 +213,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.453797095614
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.452358079190
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
@@ -456,12 +456,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Brockman',en,USA,#18e8e8,#18e8e8,1,0.406212830739
 'Ron Johnson',en,USA,#18e8e8,#18e8e8,3,0.406149520021
 'George Miller',en,Australien,#99aa33,#99aa33,3,0.405902060736
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.405743844165
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.405614073038
 'Kate Hudson',en,USA,#18e8e8,#18e8e8,3,0.405422095858
 'Jerry Seinfeld',en,USA,#18e8e8,#18e8e8,3,0.405310728748
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.405119775849
 'Antonio Brown',en,USA,#18e8e8,#18e8e8,3,0.405079179672
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.404920668049
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.404883440270
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.404604171107
