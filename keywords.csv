@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Adam Mockler',en,unknown,#111111,#111111,3,0.548614970881
 'Michaela Coel',en,unknown,#111111,#111111,3,0.536837205192
 'Scott Jennings',en,unknown,#111111,#111111,3,0.513591486744
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
+'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
