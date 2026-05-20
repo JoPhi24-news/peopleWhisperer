@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michaela Coel',en,unknown,#111111,#111111,3,0.536837205192
 'Scott Jennings',en,unknown,#111111,#111111,3,0.513591486744
+'Michaela Coel',en,unknown,#111111,#111111,3,0.509350191187
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Joe Rogan',en,unknown,#111111,#111111,3,0.502418473887
@@ -111,11 +111,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
+'Hunter Schafer',en,unknown,#111111,#111111,3,0.475524438840
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.475020046709
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
-'Hunter Schafer',en,unknown,#111111,#111111,3,0.474838232254
 'Todd Blanche',en,unknown,#111111,#111111,3,0.474537516710
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474209698005
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
@@ -151,7 +152,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.468447197507
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468208826789
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.468085906073
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
@@ -512,6 +512,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Koch',en,USA,#18e8e8,#18e8e8,3,0.397427143047
 'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.397326396430
 'Ana Navarro',en,Nicaragua,#3467de,#3467de,3,0.397317119969
+'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.397239170150
 'Viktor Shokin',en,Ukraine,#e818e8,#e818e8,1,0.397008288922
 'Sultan al-Jaber',en,VAE,#2266bb,#2266bb,3,0.397003494841
 'Robert Kraft',en,USA,#18e8e8,#18e8e8,3,0.396964774759
@@ -522,7 +523,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.396634640344
 'Yoon Suk Yeol',en,SüdKorea,#22bb66,#22bb66,3,0.396587234843
 'Paris Hilton',en,USA,#18e8e8,#18e8e8,3,0.396478933132
-'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.396399784567
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.396321451020
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
 'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.395639920536
