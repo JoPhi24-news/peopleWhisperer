@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michaela Coel',en,unknown,#111111,#111111,3,0.509350191187
 'Mario Adorf',en,unknown,#111111,#111111,2,0.502633550354
 'Charles Kushner',en,unknown,#111111,#111111,2,0.502542780561
 'Joe Rogan',en,unknown,#111111,#111111,3,0.502418473887
@@ -109,13 +108,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.477073483458
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
+'Hunter Schafer',en,unknown,#111111,#111111,3,0.476209278432
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
-'Hunter Schafer',en,unknown,#111111,#111111,3,0.475524438840
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.475020046709
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Todd Blanche',en,unknown,#111111,#111111,3,0.474537516710
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474209698005
@@ -141,6 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.469922310395
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.469869034846
+'Michaela Coel',en,unknown,#111111,#111111,3,0.469717329327
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.469488121367
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
@@ -308,9 +308,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.434006566447
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.433917256207
+'Callum Turner',en,UK,#e838e8,#e838e8,2,0.433394514414
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
 'Amélie de Montchalin',en,unknown,#111111,#111111,1,0.432976962777
-'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Kamel Daoud',en,unknown,#111111,#111111,1,0.432186640325
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
