@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jake Reiner',en,unknown,#111111,#111111,2,0.501617193177
 'François Mitterrand',en,unknown,#111111,#111111,2,0.501560577211
 'laffaire Epstein',en,unknown,#111111,#111111,2,0.501553245440
 'Thomas Massie',en,unknown,#111111,#111111,3,0.501500885681
@@ -111,9 +110,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
+'Todd Blanche',en,unknown,#111111,#111111,3,0.475224322280
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
-'Todd Blanche',en,unknown,#111111,#111111,3,0.474537516710
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474209698005
 'Prince Philip',en,unknown,#111111,#111111,3,0.474029513555
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.473578873987
@@ -267,6 +266,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.441395683042
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.441287025446
+'Jake Reiner',en,unknown,#111111,#111111,2,0.440876009200
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
 'Thilo Jung',en,unknown,#111111,#111111,1,0.440725000000
