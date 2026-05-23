@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Massie',en,unknown,#111111,#111111,3,0.526690528283
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.505321899367
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509055317748
+'Thomas Massie',en,unknown,#111111,#111111,3,0.507192783586
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.501475151500
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
@@ -629,10 +629,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.375870477972
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.375732409555
 'Dawn Staley',en,unknown,#111111,#111111,2,0.375609659989
+'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.375544744144
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.375267519544
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.375241491623
 'Sergei Shoigu',en,unknown,#111111,#111111,1,0.374975650452
-'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.374664694369
 'Gerald Darmanin',en,unknown,#111111,#111111,1,0.374526604703
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.374402461942
 'Dwayne Johnson',en,unknown,#111111,#111111,3,0.374336564884
