@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500850871427
@@ -343,6 +342,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
+'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Raphaël Arnault',en,unknown,#111111,#111111,1,0.426735897260
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
