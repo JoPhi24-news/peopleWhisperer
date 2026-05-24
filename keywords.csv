@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Hagari',en,unknown,#111111,#111111,1,0.501475151500
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
 'Craig Melvin',en,unknown,#111111,#111111,3,0.501156702126
@@ -350,6 +349,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.426485638451
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
+'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
