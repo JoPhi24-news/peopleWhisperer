@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.511381738921
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.501475151500
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.501269642898
 'Quand Harry',en,unknown,#111111,#111111,2,0.501164347156
@@ -61,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487834071589
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
-'Steve Bannon',en,unknown,#111111,#111111,3,0.486045263389
+'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
@@ -227,6 +226,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.449256323083
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.449160528428
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
