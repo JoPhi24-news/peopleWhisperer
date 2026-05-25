@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'David Lowery',en,unknown,#111111,#111111,2,0.604982013028
 'Ed Gallrein',en,unknown,#111111,#111111,2,0.603753338010
 'Geraldo Rivera',en,unknown,#111111,#111111,2,0.601015443848
+'David Lowery',en,unknown,#111111,#111111,2,0.564639871528
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.555800559792
 'Craig Melvin',en,unknown,#111111,#111111,3,0.508207139080
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500850871427
@@ -84,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481143668895
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.481143408901
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.481000322421
@@ -102,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.477073483458
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476209278432
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
