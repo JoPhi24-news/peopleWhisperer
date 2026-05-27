@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'David Lowery',en,unknown,#111111,#111111,2,0.564639871528
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.555800559792
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.538474501363
 'Thomas Massie',en,unknown,#111111,#111111,3,0.527821696967
@@ -93,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.480564629916
 'Stephen Miller',en,unknown,#111111,#111111,3,0.480452733808
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
+'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
