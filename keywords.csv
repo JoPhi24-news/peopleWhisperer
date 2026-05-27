@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Ruffalo',en,unknown,#111111,#111111,3,0.555800559792
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.538474501363
 'Thomas Massie',en,unknown,#111111,#111111,3,0.527821696967
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.510863412271
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
+'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.486542023452
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
@@ -131,6 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.470046115200
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.470035255449
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
@@ -139,7 +140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.469488121367
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.469348982266
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468989980155
@@ -817,8 +817,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
+'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.269749798637
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
-'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.268691006743
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.267816028118
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
