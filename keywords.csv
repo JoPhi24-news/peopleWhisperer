@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ed Gallrein',en,unknown,#111111,#111111,3,0.504766364016
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.500850871427
 'Pam Bondi',en,unknown,#111111,#111111,3,0.500524133046
 'Scooter Braun',en,unknown,#111111,#111111,3,0.499907509194
@@ -103,9 +102,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.477092107502
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.476258207267
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476209278432
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.475573465350
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
 'Todd Blanche',en,unknown,#111111,#111111,3,0.475224322280
@@ -154,8 +153,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
+'Thomas Massie',en,unknown,#111111,#111111,3,0.465864068035
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
-'Thomas Massie',en,unknown,#111111,#111111,3,0.465158606065
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464923408014
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464788769952
@@ -231,6 +230,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.449160528428
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
+'Ed Gallrein',en,unknown,#111111,#111111,3,0.447919924414
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
