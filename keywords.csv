@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.571355108152
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.504185140405
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.521038844688
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.506064247296
 'Pam Bondi',en,unknown,#111111,#111111,3,0.501159069407
 'Scooter Braun',en,unknown,#111111,#111111,3,0.499907509194
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.499564199567
@@ -62,11 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.484826872587
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484281066888
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.484159251432
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
@@ -87,15 +87,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.480582533493
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.480564629916
 'Stephen Miller',en,unknown,#111111,#111111,3,0.480452733808
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.480338095864
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479661502236
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479033918849
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478811561566
-'Todd Blanche',en,unknown,#111111,#111111,3,0.477957888693
+'Todd Blanche',en,unknown,#111111,#111111,3,0.478637878845
 'Renee Good',en,unknown,#111111,#111111,3,0.477901574356
 'Craig Melvin',en,unknown,#111111,#111111,3,0.477836344127
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
