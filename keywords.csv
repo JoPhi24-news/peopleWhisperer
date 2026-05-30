@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scooter Braun',en,unknown,#111111,#111111,3,0.499907509194
+'Scooter Braun',en,unknown,#111111,#111111,3,0.531185606041
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.499564199567
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.497338901343
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.497308530404
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.496801698607
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.496699169363
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.494263746647
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.492782909360
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
 'Kash Patel',en,unknown,#111111,#111111,3,0.492381901622
@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Sam Levinson',en,unknown,#111111,#111111,3,0.488418125208
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.487931254780
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487834071589
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.481000322421
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.480582533493
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.480564629916
 'Stephen Miller',en,unknown,#111111,#111111,3,0.480452733808
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
@@ -152,10 +152,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',en,unknown,#111111,#111111,3,0.466568128581
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
+'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.465494966480
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464923408014
-'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.464788769952
 'Eric Dane',en,unknown,#111111,#111111,3,0.464701184613
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
@@ -260,11 +260,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.442241125287
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
+'Justin Bieber',en,Kanada,#443388,#443388,3,0.442039666218
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.441395683042
-'Justin Bieber',en,Kanada,#443388,#443388,3,0.441287025446
 'Jake Reiner',en,unknown,#111111,#111111,2,0.440876009200
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
