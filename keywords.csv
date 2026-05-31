@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.506795556930
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.499564199567
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.498975289426
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487834071589
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.487159543390
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
@@ -237,6 +237,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
+'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.446723625195
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
@@ -258,7 +259,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.442790828050
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
-'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.442241125287
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
@@ -291,10 +291,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.437590294153
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
+'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.437338498281
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.437218201833
 'Mark Carney',en,Kanada,#443388,#443388,3,0.437206331174
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
-'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.436576616568
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
@@ -403,6 +403,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
 'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.417510382085
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.417134930487
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.417029361986
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.416922481094
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.416907989749
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
@@ -416,7 +417,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.414313602534
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.413862401760
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.413814209783
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.413086582474
 'Bill Belichick',en,USA,#18e8e8,#18e8e8,3,0.413080824508
 'Michelle Williams',en,USA,#18e8e8,#18e8e8,3,0.412798931051
