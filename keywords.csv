@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scooter Braun',en,unknown,#111111,#111111,3,0.526621615135
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.501771237491
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.506795556930
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.499564199567
 'María Corina Machado',en,unknown,#111111,#111111,2,0.499323018958
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.498975289426
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
 'Woody Allen',en,unknown,#111111,#111111,3,0.498673593607
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.498282110302
@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'James Bond',en,unknown,#111111,#111111,3,0.495262730105
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.495159031984
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.495120190653
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.494263746647
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.493651107578
+'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
 'Kash Patel',en,unknown,#111111,#111111,3,0.492381901622
@@ -48,9 +48,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',en,unknown,#111111,#111111,3,0.490032268087
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
+'Sam Levinson',en,unknown,#111111,#111111,3,0.489077244700
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
-'Sam Levinson',en,unknown,#111111,#111111,3,0.488418125208
 'Bill Maher',en,unknown,#111111,#111111,3,0.488403467582
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.487834071589
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
@@ -255,12 +255,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.443530073717
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.443373415278
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
+'Justin Bieber',en,Kanada,#443388,#443388,3,0.442790828050
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.442241125287
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
-'Justin Bieber',en,Kanada,#443388,#443388,3,0.442039666218
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
