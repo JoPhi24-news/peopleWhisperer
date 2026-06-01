@@ -1,13 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.498975289426
+'Mother Mary',en,unknown,#111111,#111111,2,0.608801023554
+'Sarah Kellen',en,unknown,#111111,#111111,2,0.608206865672
+'Javier Bardem',en,unknown,#111111,#111111,2,0.502415166995
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
 'Woody Allen',en,unknown,#111111,#111111,3,0.498673593607
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.498282110302
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.497444072315
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.497338901343
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.496801698607
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.496699169363
 'Bari Weiss',en,unknown,#111111,#111111,3,0.496138473327
 'Tim Walz',en,unknown,#111111,#111111,3,0.495910046749
@@ -44,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Pam Bondi',en,unknown,#111111,#111111,3,0.490032268087
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.489872541012
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Sam Levinson',en,unknown,#111111,#111111,3,0.489077244700
 'Bill Maher',en,unknown,#111111,#111111,3,0.489062616342
@@ -100,8 +103,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.477201447454
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.477092107502
+'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
-'Hunter Schafer',en,unknown,#111111,#111111,3,0.476209278432
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
