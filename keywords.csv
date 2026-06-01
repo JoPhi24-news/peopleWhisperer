@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mother Mary',en,unknown,#111111,#111111,2,0.608801023554
 'Sarah Kellen',en,unknown,#111111,#111111,2,0.608206865672
+'Mother Mary',en,unknown,#111111,#111111,2,0.531990725021
 'Javier Bardem',en,unknown,#111111,#111111,2,0.502415166995
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
 'Woody Allen',en,unknown,#111111,#111111,3,0.498673593607
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.491974432381
 'Tom Homan',en,unknown,#111111,#111111,3,0.491901523789
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.491837465856
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Mark Kelly',en,unknown,#111111,#111111,3,0.491646842468
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.491321110289
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
 'Epstein Files',en,unknown,#111111,#111111,3,0.490618916891
@@ -78,10 +78,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Todd Blanche',en,unknown,#111111,#111111,3,0.481344308929
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481143668895
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.481143408901
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.481000322421
@@ -334,10 +334,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',en,unknown,#111111,#111111,1,0.429638790537
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.429245556087
+'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.429111930867
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
-'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.428333945588
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
