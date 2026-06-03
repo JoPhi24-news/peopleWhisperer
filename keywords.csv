@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.498794950833
 'Woody Allen',en,unknown,#111111,#111111,3,0.498673593607
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.498282110302
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
 'Kash Patel',en,unknown,#111111,#111111,3,0.492381901622
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.492288504080
 'Keir Starmer',en,unknown,#111111,#111111,3,0.492196212496
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.487159543390
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487030238881
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.486716003138
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.480564629916
 'Stephen Miller',en,unknown,#111111,#111111,3,0.480452733808
+'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.480345393208
 'Joy Reid',en,unknown,#111111,#111111,3,0.480035688547
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
