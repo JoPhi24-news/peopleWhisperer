@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Margaret Brennan',en,unknown,#111111,#111111,3,0.542128587393
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.498123596764
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.498085162601
 'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
@@ -15,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.494263746647
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.494238772638
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Mark Kelly',en,unknown,#111111,#111111,3,0.493600948523
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.493589982581
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
@@ -129,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
+'Margaret Brennan',en,unknown,#111111,#111111,3,0.470307183830
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
