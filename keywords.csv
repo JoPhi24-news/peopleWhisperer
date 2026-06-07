@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hoda Kotb',en,unknown,#111111,#111111,3,0.496699169363
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.496510806393
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.496449053141
 'Bari Weiss',en,unknown,#111111,#111111,3,0.496138473327
@@ -382,6 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.422420407043
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.422325657665
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
+'Hoda Kotb',en,unknown,#111111,#111111,2,0.422195013959
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
