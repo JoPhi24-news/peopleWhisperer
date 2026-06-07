@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Attia',en,unknown,#111111,#111111,3,0.497930827222
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.497338901343
 'Larry Summers',en,unknown,#111111,#111111,3,0.497107477750
 'Hoda Kotb',en,unknown,#111111,#111111,3,0.496699169363
@@ -374,6 +373,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camilla',en,UK,#e838e8,#e838e8,3,0.423966455932
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
+'Peter Attia',en,unknown,#111111,#111111,2,0.423241338139
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
