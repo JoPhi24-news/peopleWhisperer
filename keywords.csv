@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',en,unknown,#111111,#111111,3,0.496510806393
+'Jacob Elordi',en,unknown,#111111,#111111,3,0.506528015434
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.496449053141
 'Bari Weiss',en,unknown,#111111,#111111,3,0.496138473327
 'Tim Walz',en,unknown,#111111,#111111,3,0.495910046749
@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kelly',en,unknown,#111111,#111111,3,0.493600948523
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
+'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
 'Kash Patel',en,unknown,#111111,#111111,3,0.492381901622
@@ -26,11 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.491837465856
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Rob Reiner',en,unknown,#111111,#111111,3,0.491765165560
+'Sam Levinson',en,unknown,#111111,#111111,3,0.491700586586
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
-'Sam Levinson',en,unknown,#111111,#111111,3,0.491046716449
 'Pam Bondi',en,unknown,#111111,#111111,3,0.490688164258
 'Epstein Files',en,unknown,#111111,#111111,3,0.490618916891
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.488494357254
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.488481487192
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
-'Kendall Jenner',en,unknown,#111111,#111111,3,0.487378521012
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
@@ -165,6 +165,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.463591641006
 'Cilia Flores',en,unknown,#111111,#111111,3,0.463404310997
+'James Bond',en,unknown,#111111,#111111,3,0.463192703996
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.462951882823
 'Kristi Noem',en,unknown,#111111,#111111,3,0.462885739892
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
@@ -178,7 +179,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
-'James Bond',en,unknown,#111111,#111111,3,0.461056133821
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.460747891726
@@ -358,6 +358,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quand Harry',en,unknown,#111111,#111111,1,0.425989710083
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.425845229504
+'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.425701959532
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
@@ -368,7 +369,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'María Corina Machado',en,unknown,#111111,#111111,1,0.424424941114
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
-'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.424131165883
 'Camilla',en,UK,#e838e8,#e838e8,3,0.423966455932
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
