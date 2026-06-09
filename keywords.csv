@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paul McCartney',en,unknown,#111111,#111111,2,0.604574329117
+'Paul McCartney',en,unknown,#111111,#111111,3,0.618846084749
 'Robert Gates',en,unknown,#111111,#111111,2,0.601441744557
 'Alexander Yui',en,unknown,#111111,#111111,2,0.601287867588
 'HBO Max',en,unknown,#111111,#111111,2,0.601097228237
-'David Letterman',en,unknown,#111111,#111111,3,0.582267494328
+'David Letterman',en,unknown,#111111,#111111,3,0.582740946926
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.580115788510
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.560931421812
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.552031787156
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.502251846129
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.506645831561
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.496449053141
 'Bari Weiss',en,unknown,#111111,#111111,3,0.496138473327
 'Tim Walz',en,unknown,#111111,#111111,3,0.495910046749
@@ -152,9 +152,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.467405844821
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.466703452169
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.466199760301
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
@@ -622,11 +622,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',en,unknown,#111111,#111111,3,0.380459354945
 'Sam Bankman-Fried',en,unknown,#111111,#111111,2,0.380371643238
 'Gisele Bundchen',en,unknown,#111111,#111111,2,0.380271200903
+'Jon Batiste',en,unknown,#111111,#111111,2,0.380132483471
 'Leni Klum',en,unknown,#111111,#111111,2,0.380029061917
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.379920630151
 'Itamar Ben-Gvir',en,Israel,#22bb33,#22bb33,3,0.379599528175
 'Kevin Hart',en,unknown,#111111,#111111,3,0.379541526584
-'Jon Batiste',en,unknown,#111111,#111111,2,0.379260944784
 'Jason Whitlock',en,unknown,#111111,#111111,2,0.379008627582
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,3,0.378945893901
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.378838594409
