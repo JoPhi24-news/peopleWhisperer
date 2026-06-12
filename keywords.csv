@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'HBO Max',en,unknown,#111111,#111111,3,0.567754670742
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.560931421812
 'David Letterman',en,unknown,#111111,#111111,3,0.559175236025
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.552031787156
 'Robert Gates',en,unknown,#111111,#111111,3,0.547995824692
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.544057754970
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.536306995232
+'HBO Max',en,unknown,#111111,#111111,3,0.519387266949
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
@@ -16,26 +16,26 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.494438614738
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.494263746647
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.493790224694
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Mark Kelly',en,unknown,#111111,#111111,3,0.493600948523
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
+'Keir Starmer',en,unknown,#111111,#111111,3,0.492847786674
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.492489756603
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
 'Kash Patel',en,unknown,#111111,#111111,3,0.492381901622
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
-'Keir Starmer',en,unknown,#111111,#111111,3,0.492196212496
+'Sam Levinson',en,unknown,#111111,#111111,3,0.492353150733
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492146335089
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Tom Homan',en,unknown,#111111,#111111,3,0.491901523789
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Rob Reiner',en,unknown,#111111,#111111,3,0.491765165560
-'Sam Levinson',en,unknown,#111111,#111111,3,0.491700586586
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Pam Bondi',en,unknown,#111111,#111111,3,0.491342750509
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
