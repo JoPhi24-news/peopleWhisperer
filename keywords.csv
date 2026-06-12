@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Cage',en,unknown,#111111,#111111,3,0.580115788510
 'HBO Max',en,unknown,#111111,#111111,3,0.579546712638
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.560931421812
 'David Letterman',en,unknown,#111111,#111111,3,0.559175236025
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.552031787156
 'Robert Gates',en,unknown,#111111,#111111,3,0.547995824692
+'Nicolas Cage',en,unknown,#111111,#111111,3,0.543508425688
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.536306995232
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
@@ -104,8 +104,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.477263396022
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.476580660968
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
@@ -222,10 +222,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.451932007182
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.451812493506
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
+'Belal Muhammad',en,unknown,#111111,#111111,3,0.451697500670
 'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.451237888548
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.450964121173
-'Belal Muhammad',en,unknown,#111111,#111111,3,0.450963921403
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.450755656841
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.450710767369
@@ -580,6 +580,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',en,Frankreich,#e8e808,#e8e808,2,0.389157432200
 'Steffen Kotre',en,Deutschland,#1818e8,#1818e8,1,0.388972974229
 'Robin Roberts',en,USA,#18e8e8,#18e8e8,3,0.388941178168
+'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.388917340918
 'Nathalie Emmanuel',en,UK,#e838e8,#e838e8,2,0.388868610614
 'Hugh Grant',en,UK,#e838e8,#e838e8,3,0.388733145116
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
@@ -589,7 +590,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.388036687703
 'Gabriel Attal',en,Frankreich,#e8e808,#e8e808,2,0.387445140707
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.387401980304
-'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.387205521593
 'Billy Crystal',en,unknown,#111111,#111111,3,0.386903194371
 'Caroline Ellison',en,USA,#18e8e8,#18e8e8,2,0.386837288472
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.386540311018
