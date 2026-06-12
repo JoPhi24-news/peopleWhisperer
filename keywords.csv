@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'HBO Max',en,unknown,#111111,#111111,3,0.579546712638
+'HBO Max',en,unknown,#111111,#111111,3,0.567754670742
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.560931421812
 'David Letterman',en,unknown,#111111,#111111,3,0.559175236025
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.552031787156
 'Robert Gates',en,unknown,#111111,#111111,3,0.547995824692
-'Nicolas Cage',en,unknown,#111111,#111111,3,0.543508425688
+'Nicolas Cage',en,unknown,#111111,#111111,3,0.544057754970
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.536306995232
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
@@ -60,11 +60,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.485493161348
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
+'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
-'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484281066888
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.483925159037
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
@@ -162,13 +162,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.464923408014
+'Larry David',en,unknown,#111111,#111111,3,0.464784126020
 'Eric Dane',en,unknown,#111111,#111111,3,0.464701184613
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.464638779885
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.464323544609
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.464256313662
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.464136154632
-'Larry David',en,unknown,#111111,#111111,3,0.464076515097
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.464043062837
 'James Bond',en,unknown,#111111,#111111,3,0.463902069496
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
