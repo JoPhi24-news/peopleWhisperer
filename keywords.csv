@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jamieson Greer',en,unknown,#111111,#111111,2,0.552031787156
 'Robert Gates',en,unknown,#111111,#111111,3,0.547995824692
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.545390507177
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.544057754970
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
 'David Letterman',en,unknown,#111111,#111111,3,0.503541640621
+'Jamieson Greer',en,unknown,#111111,#111111,2,0.502155859083
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.496449053141
 'Bari Weiss',en,unknown,#111111,#111111,3,0.496138473327
 'Tim Walz',en,unknown,#111111,#111111,3,0.495910046749
@@ -74,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Todd Blanche',en,unknown,#111111,#111111,3,0.482689440874
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482509677391
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.479858619897
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479134946567
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479033918849
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478811561566
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.478563084885
@@ -297,11 +297,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
+'Mark Carney',en,Kanada,#443388,#443388,3,0.438726135881
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.437338498281
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.437218201833
-'Mark Carney',en,Kanada,#443388,#443388,3,0.437206331174
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.436214017636
