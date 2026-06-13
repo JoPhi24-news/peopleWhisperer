@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Cassidy',en,unknown,#111111,#111111,3,0.545390507177
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.544057754970
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.538554705962
 'HBO Max',en,unknown,#111111,#111111,3,0.519387266949
@@ -18,12 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.494438614738
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.494263746647
+'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.493790431894
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Mark Kelly',en,unknown,#111111,#111111,3,0.493600948523
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
-'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.493140744435
 'Keir Starmer',en,unknown,#111111,#111111,3,0.492847786674
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
@@ -119,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.473335703407
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.473310580254
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
+'Bill Cassidy',en,unknown,#111111,#111111,3,0.473089940646
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472738820229
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.472006136361
