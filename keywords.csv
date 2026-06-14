@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.521827334159
 'HBO Max',en,unknown,#111111,#111111,3,0.519387266949
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.518067979035
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
 'David Letterman',en,unknown,#111111,#111111,3,0.503541640621
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.502155859083
+'Bari Weiss',en,unknown,#111111,#111111,3,0.497424584813
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.496449053141
-'Bari Weiss',en,unknown,#111111,#111111,3,0.496138473327
 'Tim Walz',en,unknown,#111111,#111111,3,0.495910046749
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.495593226483
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.495506086921
@@ -40,20 +40,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
+'Bill Maher',en,unknown,#111111,#111111,3,0.491032175556
 'Epstein Files',en,unknown,#111111,#111111,3,0.490618916891
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.490454520942
 'Ro Khanna',en,unknown,#111111,#111111,3,0.490240902142
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.489798157236
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
-'Bill Maher',en,unknown,#111111,#111111,3,0.489062616342
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.488494357254
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487178043607
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
@@ -61,10 +62,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.484593247346
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.483925159037
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Todd Blanche',en,unknown,#111111,#111111,3,0.482689440874
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482509677391
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.482489341549
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
@@ -619,10 +619,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381967053335
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
+'Kevin Hart',en,unknown,#111111,#111111,3,0.381281942601
 'Jon Batiste',en,unknown,#111111,#111111,2,0.381002402726
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.380790943218
 'Peyton Manning',en,unknown,#111111,#111111,3,0.380459354945
-'Kevin Hart',en,unknown,#111111,#111111,3,0.380412544105
 'Sam Bankman-Fried',en,unknown,#111111,#111111,2,0.380371643238
 'Gisele Bundchen',en,unknown,#111111,#111111,2,0.380271200903
 'Leni Klum',en,unknown,#111111,#111111,2,0.380029061917
