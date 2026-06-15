@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Will Ferrell',en,unknown,#111111,#111111,2,0.601967543345
 'Jack White',en,unknown,#111111,#111111,2,0.600951846771
+'Will Ferrell',en,unknown,#111111,#111111,2,0.549288346843
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
@@ -52,9 +52,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.488494357254
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487839639061
 'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487178043607
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.485707018195
@@ -356,6 +356,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
+'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426980078124
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
@@ -365,7 +366,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
-'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'Quand Harry',en,unknown,#111111,#111111,1,0.425989710083
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.425845229504
@@ -424,11 +424,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.416311272107
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
 'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.415562666203
+'Prince Harry',en,UK,#e838e8,#e838e8,3,0.415118756269
 'Gigi Hadid',en,USA,#18e8e8,#18e8e8,3,0.415034072696
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.415008952288
 'Reed Richards',en,USA,#18e8e8,#18e8e8,3,0.414813802932
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.414454553945
-'Prince Harry',en,UK,#e838e8,#e838e8,3,0.414313602534
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.413894099157
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.413862401760
@@ -505,18 +505,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.401382707999
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
+'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.401247184313
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.400580823426
-'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.400415420419
+'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.400316380153
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
 'Kim Mulkey',en,USA,#18e8e8,#18e8e8,2,0.399961151285
 'David Weiss',en,Deutschland,#1818e8,#1818e8,3,0.399861338220
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
-'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.399482843420
 'Ayatollah Khomeini',en,Iran,#117733,#117733,1,0.399467280512
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.399244609220
 'Chris Kirkpatrick',en,USA,#18e8e8,#18e8e8,1,0.399079205200
