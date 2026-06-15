@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.518067979035
+'Will Ferrell',en,unknown,#111111,#111111,2,0.601967543345
+'Jack White',en,unknown,#111111,#111111,2,0.600951846771
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
@@ -22,10 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.493108402252
 'Sam Levinson',en,unknown,#111111,#111111,3,0.493004411433
 'Keir Starmer',en,unknown,#111111,#111111,3,0.492847786674
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.492457349688
 'Kash Patel',en,unknown,#111111,#111111,3,0.492381901622
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
@@ -194,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.459872527180
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.459478405942
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.459138515541
