@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Will Ferrell',en,unknown,#111111,#111111,2,0.549288346843
 'Jack White',en,unknown,#111111,#111111,3,0.547599541574
+'Will Ferrell',en,unknown,#111111,#111111,3,0.535484908453
+'Paul McCartney',en,unknown,#111111,#111111,3,0.512873145392
 'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
-'Paul McCartney',en,unknown,#111111,#111111,3,0.509185797386
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
 'David Letterman',en,unknown,#111111,#111111,3,0.503541640621
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.502155859083
@@ -127,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.471291038304
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
 'Thomas Massie',en,unknown,#111111,#111111,3,0.470763199685
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
@@ -149,7 +150,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.468504114120
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.468305750065
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
