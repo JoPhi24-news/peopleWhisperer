@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexander Yui',en,unknown,#111111,#111111,1,0.511095092450
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
 'David Letterman',en,unknown,#111111,#111111,3,0.503541640621
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.502155859083
@@ -118,11 +117,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.473310580254
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.473089940646
+'Margaret Brennan',en,unknown,#111111,#111111,3,0.473079801244
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472738820229
-'Margaret Brennan',en,unknown,#111111,#111111,3,0.472388716890
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.472006136361
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
+'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -814,9 +814,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.290206786813
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,1,0.288279035778
+'Xi Jinping',en,China,#e88818,#e88818,3,0.287343473589
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.286808126123
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.286685895977
-'Xi Jinping',en,China,#e88818,#e88818,3,0.286311671495
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.284832077785
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,2,0.284733425354
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,1,0.281827205898
