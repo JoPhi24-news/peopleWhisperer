@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.507723853453
 'David Letterman',en,unknown,#111111,#111111,3,0.503541640621
 'Jamieson Greer',en,unknown,#111111,#111111,2,0.502155859083
 'Jack White',en,unknown,#111111,#111111,3,0.497705062611
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
+'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
@@ -579,6 +579,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.389580739940
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.389565347464
 'Abraham Lincoln',en,USA,#18e8e8,#18e8e8,3,0.389394000213
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.389220779460
 'Michel Barnier',en,Frankreich,#e8e808,#e8e808,2,0.389157432200
 'Steffen Kotre',en,Deutschland,#1818e8,#1818e8,1,0.388972974229
 'Robin Roberts',en,USA,#18e8e8,#18e8e8,3,0.388941178168
@@ -586,7 +587,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathalie Emmanuel',en,UK,#e838e8,#e838e8,2,0.388868610614
 'Hugh Grant',en,UK,#e838e8,#e838e8,3,0.388733145116
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.388366243978
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.388036687703
