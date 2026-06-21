@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Margaret Brennan',en,unknown,#111111,#111111,3,0.541636415574
 'Ro Khanna',en,unknown,#111111,#111111,3,0.496093303130
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul McCartney',en,unknown,#111111,#111111,3,0.479308496003
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479033918849
+'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478811561566
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.478563084885
