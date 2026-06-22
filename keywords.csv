@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Don Bacon',en,unknown,#111111,#111111,2,0.608106301865
 'Deborah Birx',en,unknown,#111111,#111111,2,0.605988732928
 'Chris Van Hollen',en,unknown,#111111,#111111,2,0.604624868632
 'Chris Murphy',en,unknown,#111111,#111111,2,0.604349411591
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Pelley',en,unknown,#111111,#111111,2,0.603333027812
 'Jim Himes',en,unknown,#111111,#111111,2,0.602127152482
 'John Lennon',en,unknown,#111111,#111111,2,0.600336129514
+'Don Bacon',en,unknown,#111111,#111111,3,0.587316796585
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -113,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.475451618499
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
 'Prince Philip',en,unknown,#111111,#111111,3,0.474717330896
@@ -124,7 +125,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472738820229
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.472697982272
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
@@ -133,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.471291038304
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.471064733108
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.470731023272
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
@@ -162,7 +163,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.466169831589
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466072200323
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.465999087326
