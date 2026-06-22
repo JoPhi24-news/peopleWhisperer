@@ -1,5 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ro Khanna',en,unknown,#111111,#111111,3,0.508451749479
+'Don Bacon',en,unknown,#111111,#111111,2,0.608106301865
+'Deborah Birx',en,unknown,#111111,#111111,2,0.605988732928
+'Chris Van Hollen',en,unknown,#111111,#111111,2,0.604624868632
+'Chris Murphy',en,unknown,#111111,#111111,2,0.604349411591
+'Graham Platner',en,unknown,#111111,#111111,2,0.603411176532
+'Trevor Phillips',en,unknown,#111111,#111111,2,0.603388428797
+'Scott Pelley',en,unknown,#111111,#111111,2,0.603333027812
+'Jim Himes',en,unknown,#111111,#111111,2,0.602127152482
+'John Lennon',en,unknown,#111111,#111111,2,0.600336129514
+'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
+'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
@@ -303,6 +313,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.437338498281
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.437218201833
+'Ro Khanna',en,unknown,#111111,#111111,3,0.437138262057
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.436867852921
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
