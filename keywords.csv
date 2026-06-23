@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Graham Platner',en,unknown,#111111,#111111,2,0.604276368971
+'Graham Platner',en,unknown,#111111,#111111,3,0.609510504534
 'Trevor Phillips',en,unknown,#111111,#111111,2,0.603388428797
 'Scott Pelley',en,unknown,#111111,#111111,2,0.603333027812
 'Jim Himes',en,unknown,#111111,#111111,2,0.602127152482
@@ -109,16 +109,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.477502480728
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
+'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.476856318238
+'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475939987682
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
-'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.475487857924
-'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475254610537
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475148472523
 'Prince Philip',en,unknown,#111111,#111111,3,0.474717330896
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.474519549456
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474209698005
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.473831337450
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.473779628955
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.473335703407
@@ -309,11 +309,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
+'Ro Khanna',en,unknown,#111111,#111111,3,0.437899043323
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.437338498281
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.437218201833
-'Ro Khanna',en,unknown,#111111,#111111,3,0.437138262057
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.436867852921
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
