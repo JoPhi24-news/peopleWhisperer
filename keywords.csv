@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Graham Platner',en,unknown,#111111,#111111,3,0.609510504534
+'Graham Platner',en,unknown,#111111,#111111,3,0.623050248854
 'Trevor Phillips',en,unknown,#111111,#111111,2,0.603388428797
 'Scott Pelley',en,unknown,#111111,#111111,2,0.603333027812
 'Jim Himes',en,unknown,#111111,#111111,2,0.602127152482
@@ -196,6 +196,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
+'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461286471945
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'David Letterman',en,unknown,#111111,#111111,3,0.460939519528
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
@@ -204,7 +205,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
-'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.459855922209
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.459478405942
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
@@ -423,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.419318210504
 'Prince George',en,UK,#e838e8,#e838e8,3,0.419264187228
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
+'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.418309367943
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.417934641600
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.417912690074
@@ -430,7 +431,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.417829276984
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.417708139132
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
-'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.417510382085
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.416311272107
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
@@ -608,11 +608,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.386540311018
 'Hailey Van Lith',en,USA,#18e8e8,#18e8e8,2,0.386505347677
 'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.386411487596
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.385977703788
 'Fani Willis',en,USA,#18e8e8,#18e8e8,3,0.385693278173
 'Andrea Arnold',en,UK,#e838e8,#e838e8,2,0.385671814280
 'Lance Bass',en,USA,#18e8e8,#18e8e8,1,0.385648705276
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.385552545757
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.385117079702
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.385064220622
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.385005155955
 'Kim Reynolds',en,USA,#18e8e8,#18e8e8,3,0.384941470179
