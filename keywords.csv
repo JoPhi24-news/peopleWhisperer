@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Graham Platner',en,unknown,#111111,#111111,3,0.623050248854
+'Graham Platner',en,unknown,#111111,#111111,3,0.620922712890
 'Trevor Phillips',en,unknown,#111111,#111111,2,0.603388428797
 'Scott Pelley',en,unknown,#111111,#111111,2,0.603333027812
 'Jim Himes',en,unknown,#111111,#111111,2,0.602127152482
@@ -24,11 +24,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.493108402252
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.493066892908
 'Sam Levinson',en,unknown,#111111,#111111,3,0.493004411433
 'Keir Starmer',en,unknown,#111111,#111111,3,0.492847786674
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492798008894
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.492415757263
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
 'Bill Maher',en,unknown,#111111,#111111,3,0.492338667868
@@ -390,11 +390,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.424558962771
 'María Corina Machado',en,unknown,#111111,#111111,1,0.424424941114
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.423997837005
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
-'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.423772105043
 'Peter Attia',en,unknown,#111111,#111111,2,0.423241338139
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
