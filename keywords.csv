@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Lennon',en,unknown,#111111,#111111,2,0.600336129514
 'Jim Himes',en,unknown,#111111,#111111,3,0.598717494126
 'Don Bacon',en,unknown,#111111,#111111,3,0.587316796585
 'Scott Pelley',en,unknown,#111111,#111111,3,0.585992519003
 'Trevor Phillips',en,unknown,#111111,#111111,2,0.573914292811
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.571808474789
+'John Lennon',en,unknown,#111111,#111111,2,0.553648552506
 'Graham Platner',en,unknown,#111111,#111111,3,0.546387139593
 'Chris Murphy',en,unknown,#111111,#111111,2,0.541380047580
 'Deborah Birx',en,unknown,#111111,#111111,1,0.515090662989
@@ -72,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Todd Blanche',en,unknown,#111111,#111111,3,0.482689440874
+'Paul McCartney',en,unknown,#111111,#111111,3,0.482681503078
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.482489341549
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
-'Paul McCartney',en,unknown,#111111,#111111,3,0.479308496003
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479033918849
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
@@ -581,12 +581,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.391632850732
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
+'Sheryl Crow',en,USA,#18e8e8,#18e8e8,3,0.390757165220
 'Francis Ford Coppola',en,USA,#18e8e8,#18e8e8,3,0.390419987433
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.390081873599
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.390073709843
 'Chris Stapleton',en,USA,#18e8e8,#18e8e8,3,0.389966375935
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.389945185566
-'Sheryl Crow',en,USA,#18e8e8,#18e8e8,3,0.389905522132
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.389759317912
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.389580739940
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.389565347464
