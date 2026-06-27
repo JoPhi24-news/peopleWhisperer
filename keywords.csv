@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Trevor Phillips',en,unknown,#111111,#111111,2,0.573914292811
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.571808474789
 'Scott Pelley',en,unknown,#111111,#111111,3,0.567288958952
 'John Lennon',en,unknown,#111111,#111111,2,0.553648552506
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Bacon',en,unknown,#111111,#111111,3,0.513547896452
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
+'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
