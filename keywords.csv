@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scott Pelley',en,unknown,#111111,#111111,3,0.638563739944
 'Trevor Phillips',en,unknown,#111111,#111111,2,0.573914292811
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.571808474789
+'Scott Pelley',en,unknown,#111111,#111111,3,0.567288958952
 'John Lennon',en,unknown,#111111,#111111,2,0.553648552506
 'Graham Platner',en,unknown,#111111,#111111,3,0.547473336212
 'Chris Murphy',en,unknown,#111111,#111111,2,0.541380047580
@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.488494357254
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
-'Joe Rogan',en,unknown,#111111,#111111,3,0.487220037242
+'Joe Rogan',en,unknown,#111111,#111111,3,0.487881548857
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.486821751807
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
@@ -111,12 +111,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.476856318238
+'Bari Weiss',en,unknown,#111111,#111111,3,0.476347810102
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.475939987682
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475834061106
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
-'Bari Weiss',en,unknown,#111111,#111111,3,0.475663247058
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.474717330896
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474209698005
@@ -879,9 +879,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.249749008201
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.248506987544
+'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.248106459536
 'Tamim Hamad Thani',en,Katar,#44cc88,#44cc88,3,0.247704442776
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.247437316791
-'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.247016246483
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.246847750763
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.244824561224
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.244496985284
