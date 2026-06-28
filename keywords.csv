@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Lennon',en,unknown,#111111,#111111,2,0.553648552506
 'Graham Platner',en,unknown,#111111,#111111,3,0.547473336212
 'Chris Murphy',en,unknown,#111111,#111111,2,0.541380047580
 'Jim Himes',en,unknown,#111111,#111111,3,0.534539806436
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
+'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
+'Paul McCartney',en,unknown,#111111,#111111,3,0.484689201260
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Todd Blanche',en,unknown,#111111,#111111,3,0.482689440874
-'Paul McCartney',en,unknown,#111111,#111111,3,0.482681503078
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482671898739
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.482489341549
@@ -364,11 +364,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.427975959573
 'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
+'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.427760699680
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
-'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426980078124
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
@@ -647,6 +647,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Juliette Binoche',en,unknown,#111111,#111111,1,0.378769568064
 'Joy Behar',en,unknown,#111111,#111111,3,0.378759642581
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.378621035670
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.378013513582
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428515
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.377619587850
 'Alexander De Croo',en,Belgien,#33bbff,#33bbff,1,0.377435711124
@@ -658,7 +659,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.376369068300
 'nan Si',en,unknown,#111111,#111111,1,0.376318863180
 'Faith Birol',en,unknown,#111111,#111111,1,0.376282948397
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.376260938049
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.375870477972
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.375732409555
 'Dawn Staley',en,unknown,#111111,#111111,2,0.375609659989
@@ -695,10 +695,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
 'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.367639989804
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
+'Mick Jagger',en,unknown,#111111,#111111,3,0.366647348781
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.366498829551
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
-'Mick Jagger',en,unknown,#111111,#111111,3,0.365750938827
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.365608216250
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
