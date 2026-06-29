@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Pulte',en,unknown,#111111,#111111,2,0.604941546088
+'Bill Pulte',en,unknown,#111111,#111111,3,0.637346172357
 'Spencer Pratt',en,unknown,#111111,#111111,2,0.604931442797
 'Ken Paxton',en,unknown,#111111,#111111,2,0.602584297874
 'Nick Bilton',en,unknown,#111111,#111111,2,0.601374317929
@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.496476654851
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.485925426655
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485346236880
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
@@ -75,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483096979269
+'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.483018062905
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.482691153805
 'Todd Blanche',en,unknown,#111111,#111111,3,0.482689440874
@@ -87,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
-'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.481674246013
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
