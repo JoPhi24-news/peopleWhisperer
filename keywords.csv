@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Susan Collins',en,unknown,#111111,#111111,2,0.607142080314
 'Bill Pulte',en,unknown,#111111,#111111,2,0.604941546088
 'Spencer Pratt',en,unknown,#111111,#111111,2,0.604931442797
 'Ken Paxton',en,unknown,#111111,#111111,2,0.602584297874
 'Nick Bilton',en,unknown,#111111,#111111,2,0.601374317929
+'Susan Collins',en,unknown,#111111,#111111,2,0.539214361449
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
@@ -139,12 +139,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.471291038304
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
+'Graham Platner',en,unknown,#111111,#111111,3,0.471014084344
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.470731023272
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.470369679193
-'Graham Platner',en,unknown,#111111,#111111,3,0.470318880780
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
