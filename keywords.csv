@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Deborah Birx',en,unknown,#111111,#111111,1,0.515090662989
 'Don Bacon',en,unknown,#111111,#111111,3,0.513547896452
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
@@ -309,6 +308,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
+'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
 'Ro Khanna',en,unknown,#111111,#111111,3,0.437899043323
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.437573736448
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
