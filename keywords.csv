@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ken Paxton',en,unknown,#111111,#111111,2,0.602584297874
 'Nick Bilton',en,unknown,#111111,#111111,2,0.601374317929
 'Bill Pulte',en,unknown,#111111,#111111,3,0.580083583528
+'Ken Paxton',en,unknown,#111111,#111111,3,0.577942103193
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.547889599442
 'Susan Collins',en,unknown,#111111,#111111,2,0.539214361449
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.505362996873
 'Andy Burnham',en,unknown,#111111,#111111,2,0.504682487875
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.502849379697
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.494438614738
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.494263746647
+'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Kash Patel',en,unknown,#111111,#111111,3,0.493683007370
 'Keir Starmer',en,unknown,#111111,#111111,3,0.493498059335
@@ -32,13 +33,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Levinson',en,unknown,#111111,#111111,3,0.493004411433
 'Bill Maher',en,unknown,#111111,#111111,3,0.492989957497
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492798008894
-'Pam Bondi',en,unknown,#111111,#111111,3,0.492648003410
+'Tom Homan',en,unknown,#111111,#111111,3,0.492553686586
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
-'Tom Homan',en,unknown,#111111,#111111,3,0.491901523789
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Rob Reiner',en,unknown,#111111,#111111,3,0.491765165560
 'Scott Pelley',en,unknown,#111111,#111111,3,0.491762642966
@@ -97,11 +97,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.480345393208
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.479489849884
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479033918849
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.478811561566
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.478563084885
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.478318785129
@@ -528,10 +528,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
+'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.400823838780
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.400316380153
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
-'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.399991268360
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.399985318091
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
 'Kim Mulkey',en,USA,#18e8e8,#18e8e8,2,0.399961151285
