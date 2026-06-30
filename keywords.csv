@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Spencer Pratt',en,unknown,#111111,#111111,2,0.604931442797
 'Ken Paxton',en,unknown,#111111,#111111,2,0.602584297874
 'Nick Bilton',en,unknown,#111111,#111111,2,0.601374317929
 'Bill Pulte',en,unknown,#111111,#111111,3,0.580083583528
+'Spencer Pratt',en,unknown,#111111,#111111,3,0.547889599442
 'Susan Collins',en,unknown,#111111,#111111,2,0.539214361449
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
@@ -32,12 +32,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Levinson',en,unknown,#111111,#111111,3,0.493004411433
 'Bill Maher',en,unknown,#111111,#111111,3,0.492989957497
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492798008894
+'Pam Bondi',en,unknown,#111111,#111111,3,0.492648003410
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
-'Pam Bondi',en,unknown,#111111,#111111,3,0.491996029379
 'Tom Homan',en,unknown,#111111,#111111,3,0.491901523789
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Rob Reiner',en,unknown,#111111,#111111,3,0.491765165560
@@ -286,13 +286,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.442186270918
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.442148110341
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Mark Carney',en,Kanada,#443388,#443388,3,0.441747897550
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.441433918741
 'Jake Reiner',en,unknown,#111111,#111111,2,0.440876009200
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
@@ -608,11 +608,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.388036687703
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.387694121911
 'Gabriel Attal',en,Frankreich,#e8e808,#e8e808,2,0.387445140707
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.387401980304
 'Billy Crystal',en,unknown,#111111,#111111,3,0.386903194371
 'Caroline Ellison',en,USA,#18e8e8,#18e8e8,2,0.386837288472
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.386836717392
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.386540311018
 'Hailey Van Lith',en,USA,#18e8e8,#18e8e8,2,0.386505347677
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.386412355161
@@ -621,6 +621,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Arnold',en,UK,#e838e8,#e838e8,2,0.385671814280
 'Lance Bass',en,USA,#18e8e8,#18e8e8,1,0.385648705276
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.385064220622
+'Robert Downey Jr',en,unknown,#111111,#111111,3,0.385035054753
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.385005155955
 'Kim Reynolds',en,USA,#18e8e8,#18e8e8,3,0.384941470179
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.384905078928
@@ -628,7 +629,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',en,unknown,#111111,#111111,2,0.384823984602
 'Sam Asghari',en,unknown,#111111,#111111,1,0.384568479521
 'Lana Del Rey',en,unknown,#111111,#111111,3,0.384506779423
-'Robert Downey Jr',en,unknown,#111111,#111111,3,0.384172665267
 'Recep Tayyip Erdoan',en,Türkei,#66bb22,#66bb22,3,0.384134953708
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.384063379309
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,1,0.384048849733
