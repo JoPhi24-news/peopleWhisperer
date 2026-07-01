@@ -1,19 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nick Bilton',en,unknown,#111111,#111111,3,0.569051026691
+'Nick Bilton',en,unknown,#111111,#111111,3,0.568187652687
 'Ken Paxton',en,unknown,#111111,#111111,3,0.552850100406
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.547889599442
 'Susan Collins',en,unknown,#111111,#111111,2,0.539214361449
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509095925159
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509713737802
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
 'Bill Pulte',en,unknown,#111111,#111111,3,0.507126235090
 'Andy Burnham',en,unknown,#111111,#111111,2,0.504682487875
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
+'Scott Pelley',en,unknown,#111111,#111111,3,0.503309252156
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
-'Scott Pelley',en,unknown,#111111,#111111,3,0.496945817192
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
@@ -71,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
+'Bari Weiss',en,unknown,#111111,#111111,3,0.483788532426
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
@@ -100,7 +101,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.479489849884
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
-'Bari Weiss',en,unknown,#111111,#111111,3,0.479072447458
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479033918849
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
@@ -272,10 +272,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.445531803027
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.445326066880
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
+'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.445025064182
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444767082819
 'prince Andrew',en,unknown,#111111,#111111,3,0.444414912224
 'Daniel Craig',en,unknown,#111111,#111111,3,0.444339041335
-'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.444278305020
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.444121954728
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
@@ -662,12 +662,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.377130085100
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.377109161198
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.376660408661
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.376610486641
 'Benny Safdie',en,unknown,#111111,#111111,3,0.376425196325
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.376369068300
 'nan Si',en,unknown,#111111,#111111,1,0.376318863180
 'Faith Birol',en,unknown,#111111,#111111,1,0.376282948397
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.375870477972
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.375732409555
 'Dawn Staley',en,unknown,#111111,#111111,2,0.375609659989
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.375267519544
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.375241491623
