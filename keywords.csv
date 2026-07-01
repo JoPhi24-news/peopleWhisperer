@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Pulte',en,unknown,#111111,#111111,3,0.580083583528
 'Ken Paxton',en,unknown,#111111,#111111,3,0.577942103193
 'Nick Bilton',en,unknown,#111111,#111111,3,0.569051026691
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.547889599442
@@ -7,7 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.505362996873
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.507235058930
+'Bill Pulte',en,unknown,#111111,#111111,3,0.507126235090
 'Andy Burnham',en,unknown,#111111,#111111,2,0.504682487875
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
