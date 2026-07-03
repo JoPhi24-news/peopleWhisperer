@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ken Paxton',en,unknown,#111111,#111111,3,0.520334465800
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.515218834351
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.517031977317
 'Nick Bilton',en,unknown,#111111,#111111,3,0.515189012057
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.509806019870
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Bari Weiss',en,unknown,#111111,#111111,3,0.483788532426
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.483687961249
+'Ken Paxton',en,unknown,#111111,#111111,3,0.483605057294
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.483240140667
