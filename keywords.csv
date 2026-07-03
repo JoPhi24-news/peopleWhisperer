@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.517031977317
 'Nick Bilton',en,unknown,#111111,#111111,3,0.515189012057
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.509806019870
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
 'Bill Pulte',en,unknown,#111111,#111111,3,0.507126235090
-'Andy Burnham',en,unknown,#111111,#111111,2,0.504682487875
+'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
 'Scott Pelley',en,unknown,#111111,#111111,3,0.504566738455
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
+'Keir Starmer',en,unknown,#111111,#111111,3,0.494794710276
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Kash Patel',en,unknown,#111111,#111111,3,0.493683007370
-'Keir Starmer',en,unknown,#111111,#111111,3,0.493498059335
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.485925426655
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485731551629
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
@@ -405,11 +405,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
 'Peter Attia',en,unknown,#111111,#111111,2,0.423241338139
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
+'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.423115322290
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
 'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.422613670525
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
-'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.422325657665
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
 'Hoda Kotb',en,unknown,#111111,#111111,2,0.422195013959
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
@@ -510,9 +510,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',en,USA,#18e8e8,#18e8e8,3,0.404320275881
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
+'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.403732987186
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
-'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.402905965992
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
 'Nikki Glaser',en,unknown,#111111,#111111,1,0.402719271504
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.402693583489
