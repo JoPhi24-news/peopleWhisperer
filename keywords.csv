@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nick Bilton',en,unknown,#111111,#111111,3,0.515189012057
+'Nick Bilton',en,unknown,#111111,#111111,3,0.519985910087
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.509806019870
+'Scott Pelley',en,unknown,#111111,#111111,3,0.508928546471
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
 'Bill Pulte',en,unknown,#111111,#111111,3,0.507126235090
 'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
-'Scott Pelley',en,unknown,#111111,#111111,3,0.504566738455
 'Peter Phillips',en,unknown,#111111,#111111,2,0.503654104445
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
@@ -48,18 +48,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
+'Joe Rogan',en,unknown,#111111,#111111,3,0.489200612391
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
-'Joe Rogan',en,unknown,#111111,#111111,3,0.487881548857
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.486821751807
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.486589522714
+'Bari Weiss',en,unknown,#111111,#111111,3,0.486453983579
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.485925426655
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485731551629
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
-'Bari Weiss',en,unknown,#111111,#111111,3,0.483788532426
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.483687961249
 'Ken Paxton',en,unknown,#111111,#111111,3,0.483605057294
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
@@ -679,12 +679,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.373885552780
 'Alexander Smirnov',en,unknown,#111111,#111111,2,0.373879334522
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,1,0.373839567216
+'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.373005340458
 'Steve Doocy',en,unknown,#111111,#111111,2,0.372745899742
 'Gisele Bündchen',en,unknown,#111111,#111111,2,0.372687675738
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.372491839687
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.372179868826
 'Michelle O\'Neill',en,Irland,#3377bb,#3377bb,3,0.372130919865
-'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.372120601318
 'Nawaz Sharif',en,unknown,#111111,#111111,2,0.372118088371
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.371881035287
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933000
