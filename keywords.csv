@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nick Bilton',en,unknown,#111111,#111111,3,0.519985910087
 'Chris Murphy',en,unknown,#111111,#111111,2,0.510583750898
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.509806019870
-'Scott Pelley',en,unknown,#111111,#111111,3,0.508928546471
+'Scott Pelley',en,unknown,#111111,#111111,3,0.509546693394
 'Harriet Sperling',en,unknown,#111111,#111111,2,0.508311008776
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.507788583571
 'Bill Pulte',en,unknown,#111111,#111111,3,0.507126235090
@@ -53,15 +52,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Bari Weiss',en,unknown,#111111,#111111,3,0.488439137940
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.486821751807
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.486589522714
-'Bari Weiss',en,unknown,#111111,#111111,3,0.486453983579
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.486396034685
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485731551629
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
@@ -204,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.461637379880
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461286471945
+'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'David Letterman',en,unknown,#111111,#111111,3,0.460939519528
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
