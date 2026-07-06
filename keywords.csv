@@ -1,18 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brendan Carr',en,unknown,#111111,#111111,2,0.608016940180
 'Jay Clayton',en,unknown,#111111,#111111,2,0.607034718145
 'James Talarico',en,unknown,#111111,#111111,2,0.606892655780
 'Katie Couric',en,unknown,#111111,#111111,2,0.600572970375
 'John Cornyn',en,unknown,#111111,#111111,2,0.600209276475
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.588412050636
+'Brendan Carr',en,unknown,#111111,#111111,3,0.560176971572
 'Peter Phillips',en,unknown,#111111,#111111,2,0.528427229068
 'Bill Pulte',en,unknown,#111111,#111111,3,0.507126235090
 'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
 'Tulsi Gabbard',en,unknown,#111111,#111111,2,0.500195410559
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.498132369460
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.497491373680
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.489890168374
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489200612391
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.486589522714
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.484948444941
@@ -100,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.479711763839
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.479675972349
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.479489849884
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
@@ -107,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.478646171924
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.478563084885
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.478318785129
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.478219330058
 'Jack White',en,unknown,#111111,#111111,3,0.478021923219
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.477987936260
@@ -527,6 +527,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.401803142527
+'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.401654825739
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.401412272712
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.401382707999
@@ -534,7 +535,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
-'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.400823838780
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.400316380153
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
