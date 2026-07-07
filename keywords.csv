@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Cornyn',en,unknown,#111111,#111111,3,0.606767403875
 'Jay Clayton',en,unknown,#111111,#111111,3,0.595786530423
-'James Talarico',en,unknown,#111111,#111111,2,0.590832347295
+'James Talarico',en,unknown,#111111,#111111,2,0.592200637901
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.588412050636
 'Brendan Carr',en,unknown,#111111,#111111,3,0.562749232686
+'John Cornyn',en,unknown,#111111,#111111,3,0.561485653639
 'Katie Couric',en,unknown,#111111,#111111,2,0.543487834819
 'Peter Phillips',en,unknown,#111111,#111111,2,0.528427229068
-'Bill Pulte',en,unknown,#111111,#111111,3,0.510838137894
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.507595049483
+'Bill Pulte',en,unknown,#111111,#111111,3,0.511452471410
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509453762977
 'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
+'Ken Paxton',en,unknown,#111111,#111111,3,0.492195143238
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491201210345
 'Epstein Files',en,unknown,#111111,#111111,3,0.490618916891
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
-'Ken Paxton',en,unknown,#111111,#111111,3,0.490232579750
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.489890168374
@@ -1015,7 +1015,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.171827586662
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.170999449144
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.170925634088
-'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.169474690278
+'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.170659206854
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,2,0.169396922294
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.169344050433
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,2,0.169208668101
