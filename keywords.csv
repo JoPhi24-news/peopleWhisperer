@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Talarico',en,unknown,#111111,#111111,2,0.592200637901
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.588412050636
 'Brendan Carr',en,unknown,#111111,#111111,3,0.562749232686
 'John Cornyn',en,unknown,#111111,#111111,3,0.561999560933
 'Jay Clayton',en,unknown,#111111,#111111,3,0.561490693319
 'Katie Couric',en,unknown,#111111,#111111,2,0.543487834819
+'James Talarico',en,unknown,#111111,#111111,2,0.540988202216
 'Peter Phillips',en,unknown,#111111,#111111,2,0.528427229068
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.520375046265
 'Bill Pulte',en,unknown,#111111,#111111,3,0.516323193221
@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.494438614738
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.494377905314
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.494365264757
+'Ken Paxton',en,unknown,#111111,#111111,3,0.494145970157
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Kash Patel',en,unknown,#111111,#111111,3,0.493683007370
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
-'Ken Paxton',en,unknown,#111111,#111111,3,0.492195143238
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
