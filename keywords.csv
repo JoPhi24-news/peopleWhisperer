@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Couric',en,unknown,#111111,#111111,2,0.543487834819
 'James Talarico',en,unknown,#111111,#111111,2,0.541542522071
 'Peter Phillips',en,unknown,#111111,#111111,2,0.535302869960
 'Brendan Carr',en,unknown,#111111,#111111,3,0.528744573238
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.525104381384
 'Bill Pulte',en,unknown,#111111,#111111,3,0.516323193221
+'Katie Couric',en,unknown,#111111,#111111,3,0.515002746370
 'Jay Clayton',en,unknown,#111111,#111111,3,0.507486208287
 'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
 'John Cornyn',en,unknown,#111111,#111111,3,0.502743331965
@@ -502,13 +502,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',en,Australien,#99aa33,#99aa33,3,0.405902060736
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.405614073038
 'Kate Hudson',en,USA,#18e8e8,#18e8e8,3,0.405422095858
+'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.405382298917
 'Jerry Seinfeld',en,USA,#18e8e8,#18e8e8,3,0.405310728748
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.405130069823
 'Antonio Brown',en,USA,#18e8e8,#18e8e8,3,0.405079179672
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.404883440270
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.404604171107
-'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.404558430914
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.404556082231
 'Victoria Monét',en,USA,#18e8e8,#18e8e8,3,0.404553348792
 'Roman Pacino',en,USA,#18e8e8,#18e8e8,1,0.404455146818
