@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
+'Andy Burnham',en,unknown,#111111,#111111,3,0.552676531991
+'Keir Starmer',en,unknown,#111111,#111111,3,0.505609336218
 'John Cornyn',en,unknown,#111111,#111111,3,0.502743331965
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
-'Keir Starmer',en,unknown,#111111,#111111,3,0.494794710276
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.494682721541
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
@@ -171,9 +171,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.466702879614
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.466235246965
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466072200323
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.465530523780
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.465345274292
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
