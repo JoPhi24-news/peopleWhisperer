@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509328095891
-'Brendan Carr',en,unknown,#111111,#111111,3,0.506290224703
+'Brendan Carr',en,unknown,#111111,#111111,3,0.506913641350
 'Andy Burnham',en,unknown,#111111,#111111,2,0.505309116246
 'John Cornyn',en,unknown,#111111,#111111,3,0.502743331965
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
@@ -21,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.494438614738
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.494406608427
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.494377905314
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.494365264757
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.493758154317
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Kash Patel',en,unknown,#111111,#111111,3,0.493683007370
 'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
@@ -175,6 +174,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466072200323
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.465530523780
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.465345274292
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
@@ -312,16 +312,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',en,unknown,#111111,#111111,1,0.440725000000
 'Giorgio Goacomelli',en,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',en,unknown,#111111,#111111,1,0.440725000000
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.440502245967
 'Prince William',en,UK,#e838e8,#e838e8,3,0.440299732878
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.440050462664
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.439746580244
+'Ali Khamenei',en,unknown,#111111,#111111,3,0.439495604883
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439108594858
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.439087005626
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
-'Ali Khamenei',en,unknown,#111111,#111111,3,0.438737960048
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
 'Ro Khanna',en,unknown,#111111,#111111,3,0.437899043323
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
@@ -661,10 +661,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Juliette Binoche',en,unknown,#111111,#111111,1,0.378769568064
 'Joy Behar',en,unknown,#111111,#111111,3,0.378759642581
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.378621035670
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.378361768958
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.377809654549
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428515
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.377619587850
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.377486939379
 'Alexander De Croo',en,Belgien,#33bbff,#33bbff,1,0.377435711124
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.377130085100
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.377109161198
