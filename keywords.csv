@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andy Burnham',en,unknown,#111111,#111111,3,0.533085968282
 'Keir Starmer',en,unknown,#111111,#111111,3,0.521454511460
 'John Cornyn',en,unknown,#111111,#111111,3,0.502743331965
 'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
@@ -223,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.458287562101
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.458265275817
+'Andy Burnham',en,unknown,#111111,#111111,3,0.458105023040
 'Michele Reiner',en,unknown,#111111,#111111,3,0.457920253771
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.457604393698
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.457580320571
