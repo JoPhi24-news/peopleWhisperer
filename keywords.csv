@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Raphaël Glucksmann',en,unknown,#111111,#111111,2,0.501706077598
 'John Lennon',en,unknown,#111111,#111111,3,0.501590223916
 'Peter Phillips',en,unknown,#111111,#111111,3,0.500869980375
 'Tulsi Gabbard',en,unknown,#111111,#111111,2,0.500195410559
@@ -390,6 +389,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Arnault',en,unknown,#111111,#111111,1,0.426735897260
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.426485638451
+'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.426450165958
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
