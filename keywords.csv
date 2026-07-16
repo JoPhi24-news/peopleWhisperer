@@ -1,17 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Maher',en,unknown,#111111,#111111,3,0.565256329467
+'Bill Maher',en,unknown,#111111,#111111,3,0.548027525853
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.495671044412
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.495085709496
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.495025121353
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.494682721541
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.494438614738
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.494406608427
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.494365264757
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
@@ -90,10 +90,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.480166785791
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.479541105212
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.478862919287
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.478646171924
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.478563084885
@@ -212,6 +212,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.458941073462
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
 'HBO Max',en,unknown,#111111,#111111,3,0.455547685998
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.455330659405
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.454786662368
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
