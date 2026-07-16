@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Trevor Phillips',en,unknown,#111111,#111111,3,0.498120846032
 'Bill Maher',en,unknown,#111111,#111111,3,0.495582131827
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
@@ -40,9 +39,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
+'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489200612391
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
-'Bari Weiss',en,unknown,#111111,#111111,3,0.489098215475
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
+'Keir Starmer',en,unknown,#111111,#111111,3,0.469020047406
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.468989980155
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468908227058
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.468848296358
@@ -158,7 +158,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.468341025565
-'Keir Starmer',en,unknown,#111111,#111111,3,0.468320869913
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.468305750065
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.467579799475
@@ -208,10 +207,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.460747891726
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
+'Andy Burnham',en,unknown,#111111,#111111,3,0.460259112479
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.460195138947
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
-'Andy Burnham',en,unknown,#111111,#111111,3,0.459542506531
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
@@ -283,6 +282,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.444121954728
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
+'Trevor Phillips',en,unknown,#111111,#111111,3,0.443674987699
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.442790828050
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
@@ -425,6 +425,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
+'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.420340717363
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.420267210612
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
@@ -432,7 +433,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.419643351823
-'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.419545666937
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.419504738241
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.419318210504
