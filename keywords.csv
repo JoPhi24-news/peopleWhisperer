@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Maher',en,unknown,#111111,#111111,3,0.530751357607
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.498881354083
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.499519572714
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.497661186561
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',en,unknown,#111111,#111111,3,0.492553686586
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.492507035532
+'Bill Maher',en,unknown,#111111,#111111,3,0.492458815330
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
@@ -46,11 +46,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488060659048
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.486073228821
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486020997927
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
@@ -223,10 +223,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',en,unknown,#111111,#111111,3,0.457920253771
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.457604393698
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.457580320571
+'HBO Max',en,unknown,#111111,#111111,3,0.456995287893
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
-'HBO Max',en,unknown,#111111,#111111,3,0.456272203927
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
@@ -327,9 +327,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.437338498281
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
+'James Comer',en,USA,#18e8e8,#18e8e8,3,0.436976609593
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.436867852921
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
-'James Comer',en,USA,#18e8e8,#18e8e8,3,0.436214017636
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.435694337730
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
