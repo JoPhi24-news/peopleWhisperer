@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.515784360311
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.496946481922
 'Scooter Braun',en,unknown,#111111,#111111,3,0.496720835324
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
@@ -258,6 +257,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.447915145810
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
