@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.510249629967
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.515784360311
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.496946481922
+'Scooter Braun',en,unknown,#111111,#111111,3,0.496720835324
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
-'Scooter Braun',en,unknown,#111111,#111111,3,0.495431903383
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
@@ -39,11 +39,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.489379008027
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489200612391
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488720492298
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
@@ -422,6 +422,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
+'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.421093458323
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.421013503499
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
@@ -434,7 +435,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.419643351823
-'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.419504738241
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.419318210504
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
@@ -503,13 +503,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',en,Australien,#99aa33,#99aa33,3,0.405902060736
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.405614073038
 'Kate Hudson',en,USA,#18e8e8,#18e8e8,3,0.405422095858
+'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.405379954720
 'Jerry Seinfeld',en,USA,#18e8e8,#18e8e8,3,0.405310728748
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.405130069823
 'Antonio Brown',en,USA,#18e8e8,#18e8e8,3,0.405079179672
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.404883440270
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.404604171107
-'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.404556082231
 'Victoria Monét',en,USA,#18e8e8,#18e8e8,3,0.404553348792
 'Roman Pacino',en,USA,#18e8e8,#18e8e8,1,0.404455146818
 'Drew Bledsoe',en,USA,#18e8e8,#18e8e8,2,0.404445273789
@@ -579,13 +579,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
 'Cruz Beckham',en,Spanien,#9933aa,#9933aa,3,0.394839426047
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.394657649648
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.394495604537
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
 'Harrison Ford',en,USA,#18e8e8,#18e8e8,3,0.394119138167
 'James Biden',en,USA,#18e8e8,#18e8e8,3,0.394084618023
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.393719057321
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.393651020269
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.393616819744
 'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.393539190195
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
@@ -943,8 +943,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.221686492818
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
-'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.220560785011
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.218192888971
 'Ursula von der Leyen',en,EU,#4488cc,#4488cc,3,0.217986972895
