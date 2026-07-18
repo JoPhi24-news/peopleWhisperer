@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.519600507448
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.496303112086
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.510249629967
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.496946481922
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
+'Scooter Braun',en,unknown,#111111,#111111,3,0.495431903383
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
-'Scooter Braun',en,unknown,#111111,#111111,3,0.493488813774
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492798008894
@@ -422,13 +422,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.421013503499
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
 'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.420340717363
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.420267210612
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.420219757929
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
 'Merrick Garland',en,USA,#18e8e8,#18e8e8,3,0.419808918437
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
