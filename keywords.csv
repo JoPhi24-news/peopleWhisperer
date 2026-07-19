@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.533111607257
-'Scooter Braun',en,unknown,#111111,#111111,3,0.496720835324
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.535430278441
+'Scooter Braun',en,unknown,#111111,#111111,3,0.497363370590
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -243,6 +243,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.451697700046
 'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
+'Sydney Sweeney',en,unknown,#111111,#111111,3,0.451598559703
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.451237888548
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.450892367138
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.450755656841
@@ -253,16 +254,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Brendan Carr',en,unknown,#111111,#111111,3,0.449742230148
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.449319071963
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.448980776608
+'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.448945072131
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
-'Sydney Sweeney',en,unknown,#111111,#111111,3,0.447915145810
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
-'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.447465569013
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
@@ -297,7 +298,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',en,Kanada,#443388,#443388,3,0.441747897550
 'John Cornyn',en,unknown,#111111,#111111,3,0.441662401525
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.441117350061
 'Jake Reiner',en,unknown,#111111,#111111,2,0.440876009200
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
