@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.496946481922
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.500145067361
 'Scooter Braun',en,unknown,#111111,#111111,3,0.496720835324
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
@@ -36,9 +36,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.490618916891
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.490459377595
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.490036208773
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.489379008027
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489200612391
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
@@ -381,6 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.427760699680
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.427308293289
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
@@ -423,7 +424,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.421093458323
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.421013503499
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
@@ -448,9 +448,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.416724409986
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.416311272107
+'Gigi Hadid',en,USA,#18e8e8,#18e8e8,3,0.415837837810
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
 'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.415562666203
-'Gigi Hadid',en,USA,#18e8e8,#18e8e8,3,0.415034072696
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.415008952288
 'Reed Richards',en,USA,#18e8e8,#18e8e8,3,0.414813802932
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.414700061038
@@ -603,6 +603,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.389945185566
 'Robin Roberts',en,USA,#18e8e8,#18e8e8,3,0.389794633906
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.389759317912
+'Hugh Grant',en,UK,#e838e8,#e838e8,3,0.389586991628
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.389580739940
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.389565347464
 'Abraham Lincoln',en,USA,#18e8e8,#18e8e8,3,0.389394000213
@@ -610,7 +611,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Kotre',en,Deutschland,#1818e8,#1818e8,1,0.388972974229
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.388917340918
 'Nathalie Emmanuel',en,UK,#e838e8,#e838e8,2,0.388868610614
-'Hugh Grant',en,UK,#e838e8,#e838e8,3,0.388733145116
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
 'Gérard Larcher',en,Frankreich,#e8e808,#e8e808,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
@@ -704,10 +704,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.369322109864
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
+'Mick Jagger',en,unknown,#111111,#111111,3,0.368435260795
 'Jim Jordan',en,unknown,#111111,#111111,3,0.367888163721
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
 'Anya Taylor-Joy',en,unknown,#111111,#111111,2,0.367639989804
-'Mick Jagger',en,unknown,#111111,#111111,3,0.367542122453
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.367188012916
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.366498829551
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
