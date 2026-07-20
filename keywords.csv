@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kevin Spacey',en,unknown,#111111,#111111,2,0.603196009746
-'Mark Twain',en,unknown,#111111,#111111,3,0.547403782167
+'Kevin Spacey',en,unknown,#111111,#111111,3,0.597217523284
+'Mark Twain',en,unknown,#111111,#111111,3,0.548485965238
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.507892591773
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,2,0.502616287681
+'Bill Maher',en,unknown,#111111,#111111,3,0.495701084017
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -20,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
-'Bill Maher',en,unknown,#111111,#111111,3,0.493109864967
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492798008894
 'Tom Homan',en,unknown,#111111,#111111,3,0.492553686586
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
@@ -43,10 +43,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489200612391
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
+'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
-'Woody Allen',en,unknown,#111111,#111111,3,0.488375509566
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
@@ -166,10 +166,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467492592235
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
+'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.466702879614
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
-'Will Ferrell',en,unknown,#111111,#111111,3,0.466072200323
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.465350242530
@@ -718,10 +718,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.366302268302
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.365608216250
+'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.365577243552
 'Matteo Salvini',en,Italien,#773344,#773344,2,0.365536585358
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.364709459196
-'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.364678879391
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.364651080367
 'Joey Fatone',en,unknown,#111111,#111111,2,0.364216181679
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.364213702129
