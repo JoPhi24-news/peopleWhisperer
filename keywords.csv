@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.558636693134
 'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.494406608427
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.493792442800
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
