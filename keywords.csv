@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sarah Ferguson',en,unknown,#111111,#111111,2,0.495557341410
 'Ken Paxton',en,unknown,#111111,#111111,3,0.495440035024
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.495384040744
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
@@ -79,6 +78,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Miller',en,unknown,#111111,#111111,3,0.481127749549
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
+'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
+'Andrew Windsor',en,unknown,#111111,#111111,3,0.480698395629
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.480534820452
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.480388257241
@@ -89,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.479541105212
-'Andrew Windsor',en,unknown,#111111,#111111,3,0.479345297783
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
@@ -106,8 +106,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Susan Collins',en,unknown,#111111,#111111,2,0.476929895868
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
+'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.476743124838
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
-'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.476059351001
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475834061106
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
@@ -120,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474024902374
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.473366708872
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.472738820229
@@ -131,7 +132,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.471291038304
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.471137411984
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.470731023272
@@ -223,9 +223,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.458287562101
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.458265275817
 'Michele Reiner',en,unknown,#111111,#111111,3,0.457920253771
+'HBO Max',en,unknown,#111111,#111111,3,0.457716940289
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.457604393698
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.457580320571
-'HBO Max',en,unknown,#111111,#111111,3,0.456995287893
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
@@ -269,10 +269,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
+'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.446516594818
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
-'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.445772777831
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.445531803027
