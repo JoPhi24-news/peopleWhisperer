@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.516213510305
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.495733716351
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.496378223765
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
 'Sam Levinson',en,unknown,#111111,#111111,3,0.494950398272
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.471014426032
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.470731023272
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
@@ -432,11 +432,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.420560436229
 'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.420340717363
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
 'Merrick Garland',en,USA,#18e8e8,#18e8e8,3,0.419808918437
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.419765811866
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.419643351823
