@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.505217851161
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.516213510305
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.495733716351
 'Chris Cuomo',en,unknown,#111111,#111111,2,0.495328616933
 'Chris Murphy',en,unknown,#111111,#111111,3,0.495051978263
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493281966073
-'Tom Homan',en,unknown,#111111,#111111,3,0.492553686586
+'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.492507035532
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
@@ -87,10 +87,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.480166785791
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
+'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.479541105212
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
-'Margaret Brennan',en,unknown,#111111,#111111,3,0.478979071874
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.478667866516
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.478646171924
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
@@ -112,20 +112,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
+'Kamaru Usman',en,unknown,#111111,#111111,3,0.475206438820
 'Graham Platner',en,unknown,#111111,#111111,3,0.475156344058
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.474759208925
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.474206306543
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474024902374
+'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.473750059833
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.473429207606
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.473366708872
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.473213998070
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
-'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.473060312533
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
-'Kamaru Usman',en,unknown,#111111,#111111,3,0.472450839910
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
