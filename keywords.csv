@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Levinson',en,unknown,#111111,#111111,3,0.502458243531
 'Mark Kelly',en,unknown,#111111,#111111,3,0.494897188798
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.494682721541
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -388,6 +387,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
+'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
