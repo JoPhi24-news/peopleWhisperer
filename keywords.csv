@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Max Holloway',en,unknown,#111111,#111111,2,0.614258261207
+'Max Holloway',en,unknown,#111111,#111111,3,0.618718565897
 'Josh Hokit',en,unknown,#111111,#111111,2,0.606558497852
 'Alex Pereira',en,unknown,#111111,#111111,2,0.602704696134
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.577985523707
-'Conor McGregor',en,unknown,#111111,#111111,3,0.557255060437
+'Conor McGregor',en,unknown,#111111,#111111,3,0.565488600895
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -77,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.481209672481
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',en,unknown,#111111,#111111,3,0.480695367381
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.480662166603
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.480534820452
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.480388257241
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.480345393208
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.480253675739
@@ -112,12 +112,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
+'Kamaru Usman',en,unknown,#111111,#111111,3,0.475891911929
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475834061106
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
-'Kamaru Usman',en,unknown,#111111,#111111,3,0.475206438820
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.474759208925
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
@@ -304,12 +304,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.442186270918
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.442148110341
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.442009129025
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Mark Carney',en,Kanada,#443388,#443388,3,0.441747897550
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.441353431584
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.441256428143
 'Jake Reiner',en,unknown,#111111,#111111,2,0.440876009200
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
 'Amos Goldberg',en,unknown,#111111,#111111,1,0.440725012750
