@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Max Holloway',en,unknown,#111111,#111111,3,0.648274356012
+'Max Holloway',en,unknown,#111111,#111111,3,0.646905898519
 'Josh Hokit',en,unknown,#111111,#111111,2,0.606558497852
 'Alex Pereira',en,unknown,#111111,#111111,2,0.602704696134
+'Conor McGregor',en,unknown,#111111,#111111,3,0.584512457038
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.577985523707
-'Conor McGregor',en,unknown,#111111,#111111,3,0.575911247963
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.494745230212
@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.487236884644
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Todd Blanche',en,unknown,#111111,#111111,3,0.486692746433
@@ -51,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
-'Paddy Pimblett',en,unknown,#111111,#111111,3,0.484577715264
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -296,6 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Ro Khanna',en,unknown,#111111,#111111,3,0.443182882912
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.442790828050
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.442760350875
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Cornyn',en,unknown,#111111,#111111,3,0.442414304763
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
@@ -304,7 +305,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.442186270918
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.442148110341
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.442009129025
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Mark Carney',en,Kanada,#443388,#443388,3,0.441747897550
@@ -430,10 +430,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
 'Hoda Kotb',en,unknown,#111111,#111111,2,0.422195013959
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.422145071402
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.421353522071
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.421093458323
 'Elizabeth Warren',en,USA,#18e8e8,#18e8e8,3,0.421060864300
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
