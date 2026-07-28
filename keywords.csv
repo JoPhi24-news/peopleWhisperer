@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Max Holloway',en,unknown,#111111,#111111,3,0.646905898519
 'Josh Hokit',en,unknown,#111111,#111111,2,0.606558497852
 'Alex Pereira',en,unknown,#111111,#111111,2,0.602704696134
-'Conor McGregor',en,unknown,#111111,#111111,3,0.584512457038
+'Conor McGregor',en,unknown,#111111,#111111,3,0.587777390360
+'Max Holloway',en,unknown,#111111,#111111,3,0.578727242128
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.577985523707
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
@@ -118,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.475156681684
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.474759208925
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
 'Bill Pulte',en,unknown,#111111,#111111,3,0.471800976230
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.471708245649
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.471425406817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
