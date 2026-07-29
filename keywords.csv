@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Pereira',en,unknown,#111111,#111111,2,0.602704696134
+'Alex Pereira',en,unknown,#111111,#111111,3,0.589979264441
 'Conor McGregor',en,unknown,#111111,#111111,3,0.588240226458
 'Max Holloway',en,unknown,#111111,#111111,3,0.578727242128
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.577985523707
 'Josh Hokit',en,unknown,#111111,#111111,3,0.539587703850
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.494745230212
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.495391712430
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -98,11 +98,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.478667866516
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.478646171924
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.478570909518
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.478563084885
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.478454180363
 'Jack White',en,unknown,#111111,#111111,3,0.478021923219
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.477944770446
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.477890785606
 'Craig Melvin',en,unknown,#111111,#111111,3,0.477836344127
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
@@ -286,6 +286,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.445025064182
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.444869021559
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444767082819
+'Ciryl Gane',en,unknown,#111111,#111111,2,0.444577762643
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.444558683547
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.444538424779
 'Chris Murphy',en,unknown,#111111,#111111,3,0.444349551524
@@ -300,7 +301,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Cornyn',en,unknown,#111111,#111111,3,0.442414304763
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
-'Ciryl Gane',en,unknown,#111111,#111111,2,0.442330416729
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.442186270918
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.442148110341
@@ -404,6 +404,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.426079841495
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.426020182739
 'Quand Harry',en,unknown,#111111,#111111,1,0.425989710083
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
@@ -420,7 +421,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.423997837005
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.423723568624
 'Peter Attia',en,unknown,#111111,#111111,2,0.423241338139
 'Prince George',en,UK,#e838e8,#e838e8,3,0.423226784915
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
