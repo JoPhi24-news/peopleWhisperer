@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Pereira',en,unknown,#111111,#111111,3,0.589979264441
 'Conor McGregor',en,unknown,#111111,#111111,3,0.588240226458
 'Max Holloway',en,unknown,#111111,#111111,3,0.578727242128
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.577985523707
 'Josh Hokit',en,unknown,#111111,#111111,3,0.539587703850
+'Alex Pereira',en,unknown,#111111,#111111,3,0.533708117048
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.495391712430
@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.485689646179
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
+'Daniel Cormier',en,unknown,#111111,#111111,2,0.485365338712
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Alex Pretti',en,unknown,#111111,#111111,3,0.484924087476
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
-'Daniel Cormier',en,unknown,#111111,#111111,2,0.483361704404
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
@@ -281,12 +281,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.445531803027
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.445326066880
+'Ciryl Gane',en,unknown,#111111,#111111,2,0.445323932453
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'prince Andrew',en,unknown,#111111,#111111,3,0.445161402546
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.445025064182
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.444869021559
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444767082819
-'Ciryl Gane',en,unknown,#111111,#111111,2,0.444577762643
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.444558683547
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.444538424779
 'Chris Murphy',en,unknown,#111111,#111111,3,0.444349551524
@@ -394,6 +394,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.426862214574
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
@@ -404,7 +405,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.426079841495
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.426020182739
 'Quand Harry',en,unknown,#111111,#111111,1,0.425989710083
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
