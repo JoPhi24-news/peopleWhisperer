@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Pereira',en,unknown,#111111,#111111,3,0.533708117048
-'Conor McGregor',en,unknown,#111111,#111111,3,0.513437795291
+'Conor McGregor',en,unknown,#111111,#111111,3,0.514046938668
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Max Holloway',en,unknown,#111111,#111111,3,0.501601156578
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.483045329348
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
+'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.481883178501
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
-'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
 'Keir Starmer',en,unknown,#111111,#111111,3,0.481369899210
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
@@ -166,6 +165,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.468305750065
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
+'Alex Pereira',en,unknown,#111111,#111111,3,0.467695868582
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
