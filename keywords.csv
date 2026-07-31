@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Conor McGregor',en,unknown,#111111,#111111,3,0.514046938668
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Max Holloway',en,unknown,#111111,#111111,3,0.501601156578
@@ -274,6 +273,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.446516594818
+'Conor McGregor',en,unknown,#111111,#111111,3,0.446443807868
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
