@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Conor McGregor',en,unknown,#111111,#111111,3,0.537912842054
 'Alex Pereira',en,unknown,#111111,#111111,3,0.533708117048
+'Conor McGregor',en,unknown,#111111,#111111,3,0.513437795291
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Max Holloway',en,unknown,#111111,#111111,3,0.501601156578
@@ -35,11 +35,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.489217359079
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
-'Paddy Pimblett',en,unknown,#111111,#111111,3,0.488558519923
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
@@ -72,12 +72,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.481883178501
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.481759769519
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
 'Keir Starmer',en,unknown,#111111,#111111,3,0.481369899210
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.481209672481
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
@@ -294,10 +294,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.443674987699
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.443510095962
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Ro Khanna',en,unknown,#111111,#111111,3,0.443182882912
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.442790828050
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.442760350875
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'John Cornyn',en,unknown,#111111,#111111,3,0.442414304763
 'Usha Vance',en,unknown,#111111,#111111,3,0.442394923548
