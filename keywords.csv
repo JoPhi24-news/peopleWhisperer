@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hokit',en,unknown,#111111,#111111,3,0.539587703850
-'Conor McGregor',en,unknown,#111111,#111111,3,0.537351311404
+'Conor McGregor',en,unknown,#111111,#111111,3,0.537912842054
 'Alex Pereira',en,unknown,#111111,#111111,3,0.533708117048
 'Christian Bale',en,unknown,#111111,#111111,2,0.508621395386
 'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
@@ -166,6 +165,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.468305750065
+'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467019995135
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
