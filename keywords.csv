@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Max Holloway',en,unknown,#111111,#111111,3,0.501601156578
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.496092046739
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.495391712430
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -270,9 +269,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
+'Conor McGregor',en,unknown,#111111,#111111,3,0.447186303024
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.446516594818
-'Conor McGregor',en,unknown,#111111,#111111,3,0.446443807868
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
@@ -340,6 +339,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.436976609593
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.436746093930
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
+'Max Holloway',en,unknown,#111111,#111111,3,0.436124768091
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.435694337730
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
