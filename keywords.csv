@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Liveblog Irankrieg',en,unknown,#111111,#111111,2,0.508024078721
 'Max Holloway',en,unknown,#111111,#111111,3,0.501601156578
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.496092046739
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.495391712430
@@ -359,6 +358,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamel Daoud',en,unknown,#111111,#111111,1,0.432186640325
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
+'Liveblog Irankrieg',en,unknown,#111111,#111111,1,0.431820466913
 'Les Wexner',en,unknown,#111111,#111111,2,0.431441394982
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.431256643773
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.431236257148
