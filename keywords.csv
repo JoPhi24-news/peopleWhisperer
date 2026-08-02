@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.552447780566
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.497260211208
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -108,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.476576019384
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.476130569631
+'Ian Machado Garry',en,unknown,#111111,#111111,2,0.475963535958
 'Dan Hooker',en,unknown,#111111,#111111,3,0.475913701072
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475834061106
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.475782677916
@@ -116,7 +117,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
-'Ian Machado Garry',en,unknown,#111111,#111111,2,0.474591507788
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.474534030822
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.474206306543
@@ -239,10 +239,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
+'Conor McGregor',en,unknown,#111111,#111111,3,0.453803197153
 'Scott Pelley',en,unknown,#111111,#111111,3,0.453543593906
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.453393895690
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.452429631072
-'Conor McGregor',en,unknown,#111111,#111111,3,0.452342931142
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.452088932290
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
@@ -327,11 +327,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.439495604883
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
+'Max Holloway',en,unknown,#111111,#111111,3,0.439166878886
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439108594858
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
-'Max Holloway',en,unknown,#111111,#111111,3,0.438408588019
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.438388983169
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.438333664213
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438098887126
