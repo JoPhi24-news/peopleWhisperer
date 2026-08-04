@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gable Steveson',en,unknown,#111111,#111111,2,0.605485709893
+'Gable Steveson',en,unknown,#111111,#111111,3,0.613215418409
 'Ian Garry',en,unknown,#111111,#111111,2,0.604561051756
 'Magomed Ankalaev',en,unknown,#111111,#111111,2,0.602791861271
 'Logan Paul',en,unknown,#111111,#111111,2,0.600453412140
@@ -392,6 +392,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.428422396410
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
@@ -402,7 +403,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.426862214574
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
@@ -578,6 +578,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.397326396430
 'Ana Navarro',en,Nicaragua,#3467de,#3467de,3,0.397317119969
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.397261558644
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.397019789330
 'Viktor Shokin',en,Ukraine,#e818e8,#e818e8,1,0.397008288922
 'Sultan al-Jaber',en,VAE,#2266bb,#2266bb,3,0.397003494841
 'Robert Kraft',en,USA,#18e8e8,#18e8e8,3,0.396964774759
@@ -588,7 +589,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk Yeol',en,SüdKorea,#22bb66,#22bb66,3,0.396587234843
 'Paris Hilton',en,USA,#18e8e8,#18e8e8,3,0.396478933132
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.396321451020
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.396179987489
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
 'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.395639920536
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
