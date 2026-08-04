@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gable Steveson',en,unknown,#111111,#111111,3,0.613215418409
+'Gable Steveson',en,unknown,#111111,#111111,3,0.626185670648
 'Ian Garry',en,unknown,#111111,#111111,2,0.604561051756
 'Magomed Ankalaev',en,unknown,#111111,#111111,2,0.602791861271
 'Logan Paul',en,unknown,#111111,#111111,2,0.600453412140
@@ -28,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491854771914
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.491839585024
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
@@ -40,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
 'Andy Burnham',en,unknown,#111111,#111111,3,0.489761824274
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
-'Paddy Pimblett',en,unknown,#111111,#111111,3,0.489217359079
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
@@ -123,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
+'Conor McGregor',en,unknown,#111111,#111111,3,0.475025795127
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.474534030822
@@ -198,7 +199,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.463549095622
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.463438114827
 'Cilia Flores',en,unknown,#111111,#111111,3,0.463404310997
-'Conor McGregor',en,unknown,#111111,#111111,3,0.463155179892
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.462951882823
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462926184168
 'Kristi Noem',en,unknown,#111111,#111111,3,0.462885739892
@@ -248,6 +248,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
+'Max Holloway',en,unknown,#111111,#111111,3,0.454023343640
 'Scott Pelley',en,unknown,#111111,#111111,3,0.453543593906
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.453393895690
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.453160314966
@@ -301,7 +302,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince William',en,UK,#e838e8,#e838e8,3,0.444057835628
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
-'Max Holloway',en,unknown,#111111,#111111,3,0.443685465089
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.443674987699
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Ro Khanna',en,unknown,#111111,#111111,3,0.443182882912
@@ -367,6 +367,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'Liveblog Irankrieg',en,unknown,#111111,#111111,1,0.431820466913
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.431524561802
 'Les Wexner',en,unknown,#111111,#111111,2,0.431441394982
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.431256643773
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.431236257148
@@ -392,7 +393,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.428422396410
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
