@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gable Steveson',en,unknown,#111111,#111111,3,0.626185670648
 'Ian Garry',en,unknown,#111111,#111111,2,0.604561051756
 'Magomed Ankalaev',en,unknown,#111111,#111111,2,0.602791861271
 'Logan Paul',en,unknown,#111111,#111111,2,0.600453412140
 'Christina Ricci',en,unknown,#111111,#111111,2,0.600221255752
+'Gable Steveson',en,unknown,#111111,#111111,3,0.591755839596
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.546159422825
 'Herb Dean',en,unknown,#111111,#111111,2,0.520175173757
 'Javier Mendez',en,unknown,#111111,#111111,1,0.516109149187
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.493142855145
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491854771914
-'Paddy Pimblett',en,unknown,#111111,#111111,3,0.491839585024
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
@@ -88,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.480698395629
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
+'Conor McGregor',en,unknown,#111111,#111111,3,0.480474342363
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.480388257241
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.480345393208
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.480253675739
@@ -123,7 +124,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
-'Conor McGregor',en,unknown,#111111,#111111,3,0.475025795127
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.474534030822
@@ -240,6 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
+'Max Holloway',en,unknown,#111111,#111111,3,0.456201629356
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.455898356201
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
@@ -248,7 +249,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
-'Max Holloway',en,unknown,#111111,#111111,3,0.454023343640
 'Scott Pelley',en,unknown,#111111,#111111,3,0.453543593906
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.453393895690
 'Belal Muhammad',en,unknown,#111111,#111111,3,0.453160314966
