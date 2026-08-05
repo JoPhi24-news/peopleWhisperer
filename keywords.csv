@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Logan Paul',en,unknown,#111111,#111111,2,0.600453412140
 'Christina Ricci',en,unknown,#111111,#111111,2,0.600221255752
 'Gable Steveson',en,unknown,#111111,#111111,3,0.591755839596
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.581724623064
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.547788455906
+'Logan Paul',en,unknown,#111111,#111111,2,0.542614922592
 'Ian Garry',en,unknown,#111111,#111111,2,0.537010452174
 'Herb Dean',en,unknown,#111111,#111111,2,0.520175173757
 'Javier Mendez',en,unknown,#111111,#111111,1,0.516109149187
@@ -131,12 +131,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.474206306543
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474024902374
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.473750059833
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.473697246265
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.473429207606
 'Alex Pereira',en,unknown,#111111,#111111,3,0.473260376224
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.472316164821
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
@@ -163,6 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ken Paxton',en,unknown,#111111,#111111,3,0.469327051867
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
+'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.469004957622
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.468979708159
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468908227058
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.468805875328
@@ -170,7 +171,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
-'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.468305750065
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467721758682
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
@@ -536,6 +536,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.403398723204
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.403284786729
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
@@ -543,7 +544,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.402693583489
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.402484230927
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.402456909538
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.402200889538
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
@@ -574,11 +574,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223159
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.398340323231
 'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.398095856622
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.397858000213
 'David Koch',en,USA,#18e8e8,#18e8e8,3,0.397427143047
 'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.397326396430
 'Ana Navarro',en,Nicaragua,#3467de,#3467de,3,0.397317119969
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.397261558644
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.397019789330
 'Viktor Shokin',en,Ukraine,#e818e8,#e818e8,1,0.397008288922
 'Sultan al-Jaber',en,VAE,#2266bb,#2266bb,3,0.397003494841
 'Robert Kraft',en,USA,#18e8e8,#18e8e8,3,0.396964774759
