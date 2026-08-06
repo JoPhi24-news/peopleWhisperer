@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gable Steveson',en,unknown,#111111,#111111,3,0.591755839596
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.581724623064
 'Christina Ricci',en,unknown,#111111,#111111,2,0.551502243753
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.547788455906
 'Logan Paul',en,unknown,#111111,#111111,2,0.542614922592
+'Gable Steveson',en,unknown,#111111,#111111,3,0.540607528657
 'Ian Garry',en,unknown,#111111,#111111,2,0.537010452174
 'Herb Dean',en,unknown,#111111,#111111,2,0.520175173757
 'Javier Mendez',en,unknown,#111111,#111111,1,0.516109149187
@@ -56,17 +56,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.485689646179
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
+'Conor McGregor',en,unknown,#111111,#111111,3,0.485170968225
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Talarico',en,unknown,#111111,#111111,2,0.484289892302
 'Keir Starmer',en,unknown,#111111,#111111,3,0.484054597645
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.483895645720
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.483226162598
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483096979269
@@ -83,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.481336764650
-'Conor McGregor',en,unknown,#111111,#111111,3,0.481149315009
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
@@ -225,6 +225,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
+'Max Holloway',en,unknown,#111111,#111111,3,0.459085942798
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.458984412822
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
@@ -239,7 +240,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.457580320571
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
-'Max Holloway',en,unknown,#111111,#111111,3,0.456924853023
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.455898356201
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
@@ -285,6 +285,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.446068633334
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.445750493450
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.445531803027
@@ -292,7 +293,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'prince Andrew',en,unknown,#111111,#111111,3,0.445161402546
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.445025064182
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.445005164962
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.444869021559
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444767082819
 'Jacob Elordi',en,unknown,#111111,#111111,3,0.444558683547
