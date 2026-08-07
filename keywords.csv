@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Christina Ricci',en,unknown,#111111,#111111,2,0.551502243753
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.547788455906
 'Logan Paul',en,unknown,#111111,#111111,2,0.542614922592
 'Gable Steveson',en,unknown,#111111,#111111,3,0.540607528657
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ken Paxton',en,unknown,#111111,#111111,3,0.469327051867
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
+'Christina Ricci',en,unknown,#111111,#111111,2,0.469227447190
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.469004957622
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.468979708159
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468908227058
