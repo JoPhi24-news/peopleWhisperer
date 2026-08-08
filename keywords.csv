@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.535782040968
 'Herb Dean',en,unknown,#111111,#111111,2,0.520175173757
 'Javier Mendez',en,unknown,#111111,#111111,1,0.517315568441
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.507558799231
 'Daniel Siad',en,unknown,#111111,#111111,2,0.503908448063
+'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.501276345732
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.495899847154
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
@@ -124,6 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
+'Alex Pereira',en,unknown,#111111,#111111,3,0.474637701420
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.474534030822
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.474385725300
@@ -132,7 +133,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.473750059833
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.473429207606
-'Alex Pereira',en,unknown,#111111,#111111,3,0.473260376224
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
