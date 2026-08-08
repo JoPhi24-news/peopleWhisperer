@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ian Garry',en,unknown,#111111,#111111,2,0.538133750654
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.535782040968
 'Herb Dean',en,unknown,#111111,#111111,2,0.520175173757
 'Javier Mendez',en,unknown,#111111,#111111,1,0.517315568441
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.506936673884
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.507558799231
 'Daniel Siad',en,unknown,#111111,#111111,2,0.503908448063
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.495899847154
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -175,6 +174,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467721758682
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
+'Ian Garry',en,unknown,#111111,#111111,2,0.466911422601
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
