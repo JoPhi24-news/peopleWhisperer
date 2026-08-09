@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Siad',en,unknown,#111111,#111111,2,0.503908448063
+'Daniel Siad',en,unknown,#111111,#111111,3,0.558779337466
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.503545572248
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.501276345732
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -29,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.491273641442
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.490189209075
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
@@ -122,7 +123,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474743611000
 'Alex Pereira',en,unknown,#111111,#111111,3,0.474637701420
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.474534030822
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
