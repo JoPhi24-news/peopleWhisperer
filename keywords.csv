@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.509417729497
 'Daniel Siad',en,unknown,#111111,#111111,2,0.503908448063
+'Ian Machado Garry',en,unknown,#111111,#111111,2,0.503545572248
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.501276345732
-'Ian Machado Garry',en,unknown,#111111,#111111,2,0.496544022663
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -41,11 +40,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Conor McGregor',en,unknown,#111111,#111111,3,0.487825414950
+'Daniel Cormier',en,unknown,#111111,#111111,2,0.487356999878
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Gable Steveson',en,unknown,#111111,#111111,3,0.487196477086
 'Javier Mendez',en,unknown,#111111,#111111,2,0.487068593175
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
-'Daniel Cormier',en,unknown,#111111,#111111,2,0.486694438954
 'Todd Blanche',en,unknown,#111111,#111111,3,0.486692746433
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.483412825527
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
