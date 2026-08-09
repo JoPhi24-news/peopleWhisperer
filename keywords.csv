@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Siad',en,unknown,#111111,#111111,3,0.558779337466
+'Daniel Siad',en,unknown,#111111,#111111,3,0.523066988000
 'Ian Machado Garry',en,unknown,#111111,#111111,2,0.503545572248
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.501276345732
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.493142855145
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.492803694334
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.491273641442
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.490189209075
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
