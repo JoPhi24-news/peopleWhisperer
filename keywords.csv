@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Oliveira',en,unknown,#111111,#111111,2,0.605319007307
 'Bogdan Guskov',en,unknown,#111111,#111111,2,0.605041335618
 'Valter Walker',en,unknown,#111111,#111111,2,0.604063717524
 'Carlos Ulberg',en,unknown,#111111,#111111,2,0.602992704978
 'Abu Dhabi',en,unknown,#111111,#111111,2,0.601516553823
 'Elisha Ellison',en,unknown,#111111,#111111,2,0.550237326710
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.541528090390
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.512502721411
+'Charles Oliveira',en,unknown,#111111,#111111,2,0.529023736211
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.513113731443
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.501276345732
@@ -48,10 +48,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.488728466475
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.488611480857
 'Gable Steveson',en,unknown,#111111,#111111,3,0.488518273556
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.488068649179
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.487356999878
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Javier Mendez',en,unknown,#111111,#111111,2,0.487068593175
@@ -268,9 +268,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.451697700046
 'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
+'David Beckham',en,UK,#e838e8,#e838e8,2,0.451626087702
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.451367583577
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.451237888548
-'David Beckham',en,UK,#e838e8,#e838e8,2,0.450892367138
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.450755656841
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.450637144188
