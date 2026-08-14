@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elisha Ellison',en,unknown,#111111,#111111,2,0.550237326710
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.541528090390
 'Charles Oliveira',en,unknown,#111111,#111111,2,0.529023736211
 'Valter Walker',en,unknown,#111111,#111111,3,0.527457663891
@@ -179,6 +178,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.467721758682
+'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Ian Garry',en,unknown,#111111,#111111,2,0.467613401935
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
