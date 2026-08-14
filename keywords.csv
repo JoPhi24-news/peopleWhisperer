@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abu Dhabi',en,unknown,#111111,#111111,2,0.550269258118
 'Elisha Ellison',en,unknown,#111111,#111111,2,0.550237326710
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.541528090390
 'Charles Oliveira',en,unknown,#111111,#111111,2,0.529023736211
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Gable Steveson',en,unknown,#111111,#111111,3,0.488518273556
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Abu Dhabi',en,unknown,#111111,#111111,3,0.487614725780
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.487356999878
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Javier Mendez',en,unknown,#111111,#111111,2,0.487068593175
@@ -248,8 +248,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herb Dean',en,unknown,#111111,#111111,2,0.457435921330
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.456622180141
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.455898356201
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
