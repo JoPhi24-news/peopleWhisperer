@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Oliveira',en,unknown,#111111,#111111,3,0.568258624416
 'Valter Walker',en,unknown,#111111,#111111,3,0.527457663891
+'Charles Oliveira',en,unknown,#111111,#111111,3,0.519790112572
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.519114105297
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.517356790063
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.515529629037
@@ -16,13 +16,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493931371430
+'Paddy Pimblett',en,unknown,#111111,#111111,3,0.493792538388
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
-'Paddy Pimblett',en,unknown,#111111,#111111,3,0.493142855145
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.492659791808
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
+'Conor McGregor',en,unknown,#111111,#111111,3,0.492419937528
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
@@ -30,9 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491854771914
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
-'Conor McGregor',en,unknown,#111111,#111111,3,0.491767507046
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.491354586140
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Epstein Files',en,unknown,#111111,#111111,3,0.491273641442
@@ -50,8 +50,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.487884578684
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.487614725780
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.487223073130
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Javier Mendez',en,unknown,#111111,#111111,2,0.487068593175
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
@@ -119,10 +119,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.477401107040
 'Alex Pereira',en,unknown,#111111,#111111,3,0.477375929166
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.476743124838
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.476718646962
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.476130569631
@@ -281,6 +281,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.448980776608
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.448945072131
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.448717154363
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
@@ -290,7 +291,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.447258946566
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.446494354325
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
