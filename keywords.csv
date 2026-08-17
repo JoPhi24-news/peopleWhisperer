@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.606872554250
 'Archie Colgan',en,unknown,#111111,#111111,2,0.605048046859
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.602742899336
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.601737314692
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.580557614131
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.548652361391
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.513458821911
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.549191521864
+'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.545344416113
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.515282481264
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
 'Andrea Berg',en,unknown,#111111,#111111,2,0.501668397490
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.495785620252
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.496430023970
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -142,6 +142,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474024902374
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.473429207606
+'Ian Garry',en,unknown,#111111,#111111,2,0.473179212934
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
@@ -149,7 +150,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
 'Bill Pulte',en,unknown,#111111,#111111,3,0.471800976230
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
-'Ian Garry',en,unknown,#111111,#111111,2,0.471796062829
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.471425406817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
