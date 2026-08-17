@@ -1,8 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.509982788564
+'Mauricio Ruffy',en,unknown,#111111,#111111,2,0.609895419950
+'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.606872554250
+'Archie Colgan',en,unknown,#111111,#111111,2,0.605048046859
+'Denise Kielholtz',en,unknown,#111111,#111111,2,0.602742899336
+'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.601737314692
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.548652361391
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.513458821911
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.502284203043
+'Andrea Berg',en,unknown,#111111,#111111,2,0.501668397490
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.495139926550
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -143,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
 'Bill Pulte',en,unknown,#111111,#111111,3,0.471800976230
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.471799697819
+'Ian Garry',en,unknown,#111111,#111111,2,0.471796062829
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.471425406817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
@@ -166,7 +173,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Christina Ricci',en,unknown,#111111,#111111,2,0.469227447190
-'Ian Garry',en,unknown,#111111,#111111,2,0.469013177141
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.468979708159
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468908227058
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.468805875328
