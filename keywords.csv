@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mauricio Ruffy',en,unknown,#111111,#111111,2,0.609895419950
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.606872554250
 'Archie Colgan',en,unknown,#111111,#111111,2,0.605048046859
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.602742899336
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.601737314692
+'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.580557614131
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.548652361391
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.513458821911
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
 'Andrea Berg',en,unknown,#111111,#111111,2,0.501668397490
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.495139926550
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.495785620252
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -64,8 +64,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.485689646179
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.484549777049
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -84,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.482140384693
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
@@ -122,7 +123,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.477401107040
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.476743124838
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
