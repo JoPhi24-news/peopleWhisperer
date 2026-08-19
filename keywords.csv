@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.549729617920
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.545344416113
 'Archie Colgan',en,unknown,#111111,#111111,3,0.523787374376
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.521876524020
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.520297029777
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.517697088543
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.513136151141
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
 'Andrea Berg',en,unknown,#111111,#111111,2,0.501668397490
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.496430023970
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.497714971637
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -123,10 +123,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
+'Dan Hooker',en,unknown,#111111,#111111,3,0.477280466084
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.476743124838
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
-'Dan Hooker',en,unknown,#111111,#111111,3,0.476597765114
+'Ian Garry',en,unknown,#111111,#111111,2,0.476613060618
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.476130569631
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475834061106
@@ -142,7 +143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474024902374
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.473429207606
-'Ian Garry',en,unknown,#111111,#111111,2,0.473179212934
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Thomas Massie',en,unknown,#111111,#111111,3,0.472842015683
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
@@ -257,9 +257,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Charles Oliveira',en,unknown,#111111,#111111,3,0.455864694777
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
+'Belal Muhammad',en,unknown,#111111,#111111,3,0.455343711263
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.454786662368
-'Belal Muhammad',en,unknown,#111111,#111111,3,0.454617352690
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
