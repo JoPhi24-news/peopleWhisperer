@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Archie Colgan',en,unknown,#111111,#111111,3,0.523787374376
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.523059963683
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.520297029777
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.514354425031
@@ -52,8 +51,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Javier Mendez',en,unknown,#111111,#111111,2,0.487730407141
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
-'Javier Mendez',en,unknown,#111111,#111111,2,0.487068593175
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Todd Blanche',en,unknown,#111111,#111111,3,0.486692746433
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.483629862865
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.483482343537
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.482140384693
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
+'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.481591310505
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.481336764650
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
-'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.479564998660
 'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.478667866516
@@ -204,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.464256313662
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.464043062837
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
+'Archie Colgan',en,unknown,#111111,#111111,3,0.463806756856
 'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.463549095622
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.463438114827
