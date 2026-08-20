@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.563196857767
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.521562749144
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.520297029777
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.510949641375
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.507092951296
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
@@ -45,9 +45,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
 'Andy Burnham',en,unknown,#111111,#111111,3,0.489761824274
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
+'Javier Mendez',en,unknown,#111111,#111111,2,0.489707931241
 'Gable Steveson',en,unknown,#111111,#111111,3,0.489177193075
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
-'Javier Mendez',en,unknown,#111111,#111111,2,0.489050073638
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
@@ -87,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
+'Ian Garry',en,unknown,#111111,#111111,2,0.482036470781
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.482000016252
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
@@ -98,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.480698395629
-'Ian Garry',en,unknown,#111111,#111111,2,0.480688726065
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.480388257241
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.480345393208
