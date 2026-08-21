@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.562516227136
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.507092951296
 'Maite Kelly',en,unknown,#111111,#111111,2,0.506467729779
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.504063176597
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.487644027611
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Todd Blanche',en,unknown,#111111,#111111,3,0.486692746433
@@ -179,9 +179,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.467858885276
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.467157394820
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
