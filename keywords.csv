@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Monique Barbut',en,unknown,#111111,#111111,2,0.515553714065
 'Andrea Berg',en,unknown,#111111,#111111,2,0.501668397490
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -347,6 +346,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',en,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',en,unknown,#111111,#111111,1,0.440725000000
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.440531918602
+'Monique Barbut',en,unknown,#111111,#111111,2,0.440320911955
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.439495604883
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
