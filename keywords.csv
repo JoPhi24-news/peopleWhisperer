@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.504063176597
 'Monique Barbut',en,unknown,#111111,#111111,2,0.503222556883
 'Andrea Berg',en,unknown,#111111,#111111,2,0.501668397490
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
@@ -45,9 +44,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.488964038705
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.487644027611
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Todd Blanche',en,unknown,#111111,#111111,3,0.486692746433
@@ -84,13 +83,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482010017163
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.482000016252
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.481591310505
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.481336764650
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.480724880199
@@ -174,10 +173,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.468805875328
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.468558981286
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.467858885276
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
@@ -292,6 +291,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.447616171972
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.447325860107
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.447258946566
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
@@ -572,6 +572,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.400363103377
 'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.400316380153
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
 'Jeffrey Donaldson',en,Irland,#3377bb,#3377bb,2,0.400099885474
@@ -581,7 +582,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',en,unknown,#111111,#111111,2,0.399828711702
 'Rand Paul',en,unknown,#111111,#111111,3,0.399691629909
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.399529655594
 'Ayatollah Khomeini',en,Iran,#117733,#117733,1,0.399467280512
 'Chris Kirkpatrick',en,USA,#18e8e8,#18e8e8,1,0.399079205200
 'Jacoby Brissett',en,USA,#18e8e8,#18e8e8,2,0.398985177314
