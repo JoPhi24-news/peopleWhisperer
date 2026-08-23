@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.497970346595
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.495677320090
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -75,13 +75,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483096979269
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.483045329348
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482681926663
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482010017163
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.482000016252
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
@@ -99,9 +99,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.480217938916
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.480166785791
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
+'Scott Jennings',en,unknown,#111111,#111111,3,0.479905730180
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
-'Scott Jennings',en,unknown,#111111,#111111,3,0.479228272703
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.479133181173
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.478667866516
@@ -178,10 +178,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
+'Larry David',en,unknown,#111111,#111111,3,0.466898537555
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
-'Larry David',en,unknown,#111111,#111111,3,0.466195134798
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.466055323841
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Eric Dane',en,unknown,#111111,#111111,3,0.465407555087
@@ -211,11 +211,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462812614268
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
+'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.462613486169
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461999619853
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
-'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.461901558443
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'David Letterman',en,unknown,#111111,#111111,3,0.461653355580
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
@@ -231,19 +231,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.459006654953
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.458984412822
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458750547822
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.458287562101
+'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.458300814392
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.458137605737
 'Michele Reiner',en,unknown,#111111,#111111,3,0.457920253771
 'Valter Walker',en,unknown,#111111,#111111,3,0.457835473853
 'HBO Max',en,unknown,#111111,#111111,3,0.457716940289
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.457604393698
-'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.457580320571
 'Herb Dean',en,unknown,#111111,#111111,2,0.457435921330
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
@@ -347,9 +347,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.440531918602
 'Monique Barbut',en,unknown,#111111,#111111,2,0.440320911955
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
+'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439865512574
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.439495604883
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
-'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439108594858
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
@@ -357,9 +357,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.438333664213
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438098887126
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
+'James Comer',en,USA,#18e8e8,#18e8e8,3,0.437737707629
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
-'James Comer',en,USA,#18e8e8,#18e8e8,3,0.436976609593
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.436746093930
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
