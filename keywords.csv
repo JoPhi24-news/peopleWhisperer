@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Henry Cejudo',en,unknown,#111111,#111111,2,0.608781366364
+'Henry Cejudo',en,unknown,#111111,#111111,3,0.613324077318
 'Carlos Prates',en,unknown,#111111,#111111,2,0.608740911992
 'Dakota Ditcheva',en,unknown,#111111,#111111,2,0.608725722228
 'Michael Morales',en,unknown,#111111,#111111,2,0.602619929075
@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
 'Andy Burnham',en,unknown,#111111,#111111,3,0.490418260538
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.490278783469
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.488964038705
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488669093294
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.485689646179
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
+'Ian Garry',en,unknown,#111111,#111111,2,0.485382375746
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
-'Ian Garry',en,unknown,#111111,#111111,2,0.484715865435
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -76,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.483482343537
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
+'Kamaru Usman',en,unknown,#111111,#111111,3,0.483342534626
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
@@ -89,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.482072480834
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
-'Kamaru Usman',en,unknown,#111111,#111111,3,0.482000016252
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.481817306569
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
@@ -160,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.470052226154
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.469954999833
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
 'Michaela Coel',en,unknown,#111111,#111111,3,0.469717329327
 'John Lennon',en,unknown,#111111,#111111,3,0.469713542748
@@ -177,7 +178,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.468805875328
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.468558981286
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
@@ -253,9 +253,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herb Dean',en,unknown,#111111,#111111,2,0.457435921330
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
+'Belal Muhammad',en,unknown,#111111,#111111,3,0.456792119734
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.456622180141
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
-'Belal Muhammad',en,unknown,#111111,#111111,3,0.456068632816
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Charles Oliveira',en,unknown,#111111,#111111,3,0.455864694777
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
