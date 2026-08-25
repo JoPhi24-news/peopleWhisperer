@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Carlos Prates',en,unknown,#111111,#111111,3,0.567836495648
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.550204038086
 'Dakota Ditcheva',en,unknown,#111111,#111111,3,0.536583952926
 'Henry Cejudo',en,unknown,#111111,#111111,2,0.521326305720
-'Michael Morales',en,unknown,#111111,#111111,3,0.516879894714
+'Carlos Prates',en,unknown,#111111,#111111,3,0.518047724059
+'Michael Morales',en,unknown,#111111,#111111,3,0.517482168910
 'François Hollande',en,unknown,#111111,#111111,2,0.506692983983
 'Vanessa Mai',en,unknown,#111111,#111111,2,0.502253746098
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.496130508855
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.497416652133
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488669093294
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
+'Ian Garry',en,unknown,#111111,#111111,2,0.486711408042
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
@@ -62,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.485689646179
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
-'Ian Garry',en,unknown,#111111,#111111,2,0.485382375746
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
@@ -289,8 +289,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.448980776608
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.448945072131
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.448805913572
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.448066617038
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
