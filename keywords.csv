@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.550204038086
 'Dakota Ditcheva',en,unknown,#111111,#111111,3,0.536583952926
 'Henry Cejudo',en,unknown,#111111,#111111,2,0.521326305720
 'Carlos Prates',en,unknown,#111111,#111111,3,0.518047724059
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483096979269
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.483045329348
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.482844368484
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
@@ -358,12 +358,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
+'James Comer',en,USA,#18e8e8,#18e8e8,3,0.438497313961
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.438388983169
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.438333664213
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438098887126
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
-'James Comer',en,USA,#18e8e8,#18e8e8,3,0.437737707629
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.436746093930
