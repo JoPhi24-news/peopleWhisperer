@@ -1,23 +1,23 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Carlos Prates',en,unknown,#111111,#111111,3,0.518047724059
-'Michael Morales',en,unknown,#111111,#111111,3,0.517482168910
+'Michael Morales',en,unknown,#111111,#111111,3,0.519281792401
 'Henry Cejudo',en,unknown,#111111,#111111,3,0.512878244862
 'François Hollande',en,unknown,#111111,#111111,2,0.506692983983
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.505026408199
 'Vanessa Mai',en,unknown,#111111,#111111,2,0.502253746098
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.501244358716
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
+'Conor McGregor',en,unknown,#111111,#111111,3,0.494369420021
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493931371430
 'Todd Blanche',en,unknown,#111111,#111111,3,0.493908620543
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.493792538388
-'Conor McGregor',en,unknown,#111111,#111111,3,0.493720891473
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Mauricio Ruffy',en,unknown,#111111,#111111,2,0.493474857011
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
+'Carlos Prates',en,unknown,#111111,#111111,3,0.493379882224
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.491958031261
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491854771914
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.491825965420
+'Joe Rogan',en,unknown,#111111,#111111,3,0.491822971716
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.491559329711
@@ -41,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Burnham',en,unknown,#111111,#111111,3,0.490418260538
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
-'Joe Rogan',en,unknown,#111111,#111111,3,0.489858169383
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Javier Mendez',en,unknown,#111111,#111111,2,0.489707931241
 'Gable Steveson',en,unknown,#111111,#111111,3,0.489177193075
@@ -51,9 +51,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488669093294
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Ian Garry',en,unknown,#111111,#111111,2,0.488035139448
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
-'Ian Garry',en,unknown,#111111,#111111,2,0.486711408042
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.486607845823
@@ -108,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.479810828250
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.479572894870
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.479464619856
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.478667866516
@@ -124,7 +125,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Dan Hooker',en,unknown,#111111,#111111,3,0.477280466084
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.476852267469
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
@@ -282,11 +282,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilhan Omar',en,unknown,#111111,#111111,3,0.450755656841
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.450744570953
 'MARGARET BRENNAN',en,unknown,#111111,#111111,3,0.450637144188
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.450280134760
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Alan Jackson',en,unknown,#111111,#111111,3,0.449850351649
 'Caroline Lang',en,unknown,#111111,#111111,2,0.449749014998
 'Brendan Carr',en,unknown,#111111,#111111,3,0.449742230148
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.449543752035
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.448980776608
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.448945072131
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
@@ -335,6 +335,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Mark Carney',en,Kanada,#443388,#443388,3,0.441747897550
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
+'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.441286042510
 'Camilla',en,UK,#e838e8,#e838e8,3,0.440919374913
 'Jake Reiner',en,unknown,#111111,#111111,2,0.440876009200
 'Michael Lynk',en,unknown,#111111,#111111,2,0.440875015000
@@ -350,7 +351,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',en,unknown,#111111,#111111,1,0.440725000000
 'Giorgio Goacomelli',en,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',en,unknown,#111111,#111111,1,0.440725000000
-'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.440531918602
 'Monique Barbut',en,unknown,#111111,#111111,2,0.440320911955
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439865512574
