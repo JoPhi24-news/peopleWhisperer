@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dakota Ditcheva',en,unknown,#111111,#111111,3,0.536583952926
 'Henry Cejudo',en,unknown,#111111,#111111,2,0.521326305720
 'Carlos Prates',en,unknown,#111111,#111111,3,0.518047724059
 'Michael Morales',en,unknown,#111111,#111111,3,0.517482168910
@@ -157,6 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.470502107637
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.470493687716
+'Dakota Ditcheva',en,unknown,#111111,#111111,3,0.470424739342
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.470243165279
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.470052226154
