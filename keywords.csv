@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Henry Cejudo',en,unknown,#111111,#111111,3,0.512878244862
 'François Hollande',en,unknown,#111111,#111111,2,0.506692983983
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.505026408199
 'Vanessa Mai',en,unknown,#111111,#111111,2,0.502253746098
@@ -369,6 +368,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.436746093930
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
+'Henry Cejudo',en,unknown,#111111,#111111,2,0.435947408133
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.435694337730
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
 'Peter Phillips',en,unknown,#111111,#111111,3,0.435237712864
