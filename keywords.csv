@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Hollande',en,unknown,#111111,#111111,2,0.506692983983
+'François Hollande',en,unknown,#111111,#111111,2,0.505989066386
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.505026408199
 'Vanessa Mai',en,unknown,#111111,#111111,2,0.502253746098
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
@@ -421,6 +421,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
+'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.427231818665
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
@@ -430,7 +431,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.426485638451
 'Andrea Berg',en,unknown,#111111,#111111,1,0.426460472687
-'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.426450165958
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
@@ -615,11 +615,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Matt Winkelmeyer',en,USA,#18e8e8,#18e8e8,2,0.395444247096
 'Tony Bobulinski',en,USA,#18e8e8,#18e8e8,2,0.395340914463
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.395157668290
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.395051113151
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
 'Cruz Beckham',en,Spanien,#9933aa,#9933aa,3,0.394839426047
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.394657649648
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.394314337140
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
