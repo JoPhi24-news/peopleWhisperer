@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vanessa Mai',en,unknown,#111111,#111111,2,0.502253746098
 'Carlos Prates',en,unknown,#111111,#111111,3,0.497897204830
 'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
@@ -424,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.427231818665
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
+'Vanessa Mai',en,unknown,#111111,#111111,1,0.426915684183
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
