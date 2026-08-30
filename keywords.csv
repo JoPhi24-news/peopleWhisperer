@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robert Gates',en,unknown,#111111,#111111,3,0.494642339375
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.494503523316
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494455997112
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
@@ -161,6 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Lennon',en,unknown,#111111,#111111,3,0.469713542748
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.469702774773
 'Larry Summers',en,unknown,#111111,#111111,3,0.469529381087
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.469504088393
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.469488121367
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.469417521506
@@ -170,7 +170,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christina Ricci',en,unknown,#111111,#111111,2,0.469227447190
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.468979708159
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468908227058
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.468805875328
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
@@ -287,6 +286,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.448980776608
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.448945072131
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
+'Robert Gates',en,unknown,#111111,#111111,3,0.448685333469
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
@@ -556,10 +556,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',en,USA,#18e8e8,#18e8e8,3,0.404320275881
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
+'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403850636361
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.403398723204
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.403284786729
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
-'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403023839922
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
 'Nikki Glaser',en,unknown,#111111,#111111,1,0.402719271504
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.402693583489
@@ -568,18 +568,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.402200889538
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.402025247456
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.401803142527
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.401648898082
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.401613043255
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.401412272712
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.401382707999
+'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.401148332403
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.400363103377
-'Willie Nelson',en,USA,#18e8e8,#18e8e8,3,0.400316380153
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
 'Jeffrey Donaldson',en,Irland,#3377bb,#3377bb,2,0.400099885474
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
