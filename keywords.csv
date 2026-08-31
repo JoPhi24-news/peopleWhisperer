@@ -1,6 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.522098707096
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.505372347098
+'Sean Strickland',en,unknown,#111111,#111111,2,0.608168932436
+'Joshua Van',en,unknown,#111111,#111111,2,0.605554783495
+'Merab Dvalishvili',en,unknown,#111111,#111111,2,0.602932361225
+'Sean Brady',en,unknown,#111111,#111111,2,0.602257489304
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.528279426032
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509105163881
+'Kerstin Ott',en,unknown,#111111,#111111,2,0.506755347682
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Conor McGregor',en,unknown,#111111,#111111,3,0.494369420021
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
@@ -117,9 +122,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
+'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
 'Dan Hooker',en,unknown,#111111,#111111,3,0.477280466084
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
-'Spencer Pratt',en,unknown,#111111,#111111,3,0.476707124309
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.476130569631
@@ -176,8 +181,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
+'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.467670323324
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
-'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.466968457345
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Larry David',en,unknown,#111111,#111111,3,0.466898537555
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
@@ -224,11 +229,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
 'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
+'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460999256192
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.460747891726
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
-'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460284120474
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.460195138947
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
@@ -557,6 +562,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.403850636361
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.403681067502
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.403398723204
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.403312056049
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.403284786729
@@ -568,7 +574,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.402200889538
 'Irina Shayk',en,Russland,#e81818,#e81818,2,0.402196993047
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.402025247456
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.401803142527
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.401648898082
@@ -629,10 +634,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.393616819744
 'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.393539190195
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
+'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.392481242101
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.392081291330
 'Narendra Modi',en,Indien,#cc3388,#cc3388,3,0.392011486860
 'Mark Rutte',en,Niederlande,#6622bb,#6622bb,3,0.391941823970
-'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.391632850732
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
 'Sheryl Crow',en,USA,#18e8e8,#18e8e8,3,0.390757165220
