@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Merab Dvalishvili',en,unknown,#111111,#111111,2,0.549263043859
 'Joshua Van',en,unknown,#111111,#111111,3,0.537856714153
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.528279426032
 'Sean Brady',en,unknown,#111111,#111111,3,0.525964874999
+'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.521826017280
 'Sean Strickland',en,unknown,#111111,#111111,3,0.519472366844
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.509105163881
 'Kerstin Ott',en,unknown,#111111,#111111,2,0.506755347682
@@ -38,12 +38,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
 'Andy Burnham',en,unknown,#111111,#111111,3,0.490418260538
+'Javier Mendez',en,unknown,#111111,#111111,2,0.490364475131
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.490240682224
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Ian Garry',en,unknown,#111111,#111111,2,0.490010841742
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
-'Javier Mendez',en,unknown,#111111,#111111,2,0.489707931241
 'Gable Steveson',en,unknown,#111111,#111111,3,0.489177193075
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
@@ -258,9 +258,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.456622180141
 'Charles Oliveira',en,unknown,#111111,#111111,3,0.456588585339
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.456119072004
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.455818960815
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.455394250455
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.455222412476
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.454786662368
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
@@ -926,8 +926,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Adnan al-Burj',en,Palestina,#cc2255,#cc2255,1,0.261003125000
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775
+'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.259765585166
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.257849092640
-'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.257616947623
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.257219495474
 'Steven Donziger',en,unknown,#111111,#111111,1,0.254714520833
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.251616312971
