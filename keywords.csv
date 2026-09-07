@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.609115812107
 'Alexander Volkanovski',en,unknown,#111111,#111111,2,0.606880333476
-'Song Yadong',en,unknown,#111111,#111111,2,0.605597477197
+'Song Yadong',en,unknown,#111111,#111111,2,0.606026349019
+'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.605330050385
 'Rosie O’Donnell',en,unknown,#111111,#111111,2,0.604829617183
 'Movsar Evloev',en,unknown,#111111,#111111,2,0.604662589763
 'Gregory Rodrigues',en,unknown,#111111,#111111,2,0.604323194788
-'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.604037034136
 'Petr Yan',en,unknown,#111111,#111111,2,0.603611440997
+'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.569549115291
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.496364888301
 'Conor McGregor',en,unknown,#111111,#111111,3,0.495662592988
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495203632779
@@ -52,8 +52,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.488915648455
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
+'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.488651593368
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
-'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.487991622275
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
@@ -129,12 +129,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.476814201562
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.475932316663
 'Tom Cotton',en,unknown,#111111,#111111,3,0.475834061106
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.475579867741
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.475246924206
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.475220843335
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474712728899
@@ -230,12 +230,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461999619853
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461866205099
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.461764047864
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.461462107813
 'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461152792040
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460999256192
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
