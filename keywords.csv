@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Movsar Evloev',en,unknown,#111111,#111111,2,0.610197943168
 'Song Yadong',en,unknown,#111111,#111111,2,0.606026349019
 'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.605330050385
 'Rosie O’Donnell',en,unknown,#111111,#111111,2,0.604829617183
 'Gregory Rodrigues',en,unknown,#111111,#111111,2,0.604323194788
 'Petr Yan',en,unknown,#111111,#111111,2,0.603611440997
-'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.595650053455
+'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.596990766495
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.569549115291
+'Movsar Evloev',en,unknown,#111111,#111111,2,0.555437258511
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.496364888301
 'Conor McGregor',en,unknown,#111111,#111111,3,0.495662592988
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495203632779
@@ -20,13 +20,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.492886936930
+'Ian Machado Garry',en,unknown,#111111,#111111,3,0.492854757486
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.492610081190
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.492235441109
-'Ian Machado Garry',en,unknown,#111111,#111111,3,0.492203197260
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
 'Sean Strickland',en,unknown,#111111,#111111,3,0.491958097272
@@ -76,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.484011785544
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.483629862865
+'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.483605521129
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.483581912212
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
@@ -83,9 +84,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483096979269
-'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.482935457966
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.482844368484
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
+'Dan Hooker',en,unknown,#111111,#111111,3,0.482693304304
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.482489600507
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.482072480834
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
-'Dan Hooker',en,unknown,#111111,#111111,3,0.482021417547
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Candace Owens',en,unknown,#111111,#111111,3,0.481670082918
