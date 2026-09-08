@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Song Yadong',en,unknown,#111111,#111111,3,0.660983797575
-'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.617459579968
+'Song Yadong',en,unknown,#111111,#111111,3,0.666788552939
+'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.624664238570
 'Rosie O’Donnell',en,unknown,#111111,#111111,2,0.604829617183
 'Gregory Rodrigues',en,unknown,#111111,#111111,2,0.604323194788
 'Petr Yan',en,unknown,#111111,#111111,2,0.603611440997
@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493931371430
+'Daniel Cormier',en,unknown,#111111,#111111,2,0.493910276254
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.492886936930
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.492854757486
-'Daniel Cormier',en,unknown,#111111,#111111,2,0.492610081190
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
@@ -54,13 +54,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.488651593368
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
+'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.488258668494
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.486354212882
-'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.486272428922
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
@@ -224,13 +224,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462812614268
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.462613486169
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.462578202965
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Letterman',en,unknown,#111111,#111111,3,0.462365775714
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461999619853
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461866205099
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.461764047864
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
