@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexander Volkanovski',en,unknown,#111111,#111111,2,0.606880333476
+'Movsar Evloev',en,unknown,#111111,#111111,2,0.610197943168
 'Song Yadong',en,unknown,#111111,#111111,2,0.606026349019
 'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.605330050385
 'Rosie O’Donnell',en,unknown,#111111,#111111,2,0.604829617183
-'Movsar Evloev',en,unknown,#111111,#111111,2,0.604662589763
 'Gregory Rodrigues',en,unknown,#111111,#111111,2,0.604323194788
 'Petr Yan',en,unknown,#111111,#111111,2,0.603611440997
+'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.595650053455
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.569549115291
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.496364888301
 'Conor McGregor',en,unknown,#111111,#111111,3,0.495662592988
@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
 'Avi Dichter',en,unknown,#111111,#111111,2,0.492362638750
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.492235441109
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.492203197260
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
@@ -33,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',en,unknown,#111111,#111111,3,0.491822971716
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
 'Angus Cloud',en,unknown,#111111,#111111,3,0.491682587697
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.491582641382
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.491559329711
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
@@ -193,11 +193,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
+'Max Holloway',en,unknown,#111111,#111111,3,0.466197344233
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.465713143667
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.465549734674
 'Carlos Prates',en,unknown,#111111,#111111,3,0.465514874105
-'Max Holloway',en,unknown,#111111,#111111,3,0.465492545603
 'Don Bacon',en,unknown,#111111,#111111,3,0.465460586927
 'Eric Dane',en,unknown,#111111,#111111,3,0.465407555087
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
