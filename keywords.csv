@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gregory Rodrigues',en,unknown,#111111,#111111,2,0.604323194788
+'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.609535891479
 'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.596990766495
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.569549115291
 'Movsar Evloev',en,unknown,#111111,#111111,2,0.555437258511
@@ -68,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
+'Kamaru Usman',en,unknown,#111111,#111111,3,0.484679700983
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -75,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Talarico',en,unknown,#111111,#111111,2,0.484289892302
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.484200141565
 'Keir Starmer',en,unknown,#111111,#111111,3,0.484054597645
-'Kamaru Usman',en,unknown,#111111,#111111,3,0.484011785544
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.483629862865
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.483581912212
@@ -217,6 +217,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.463549095622
 'Cilia Flores',en,unknown,#111111,#111111,3,0.463404310997
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.463288788069
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.462951882823
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462926184168
 'Kristi Noem',en,unknown,#111111,#111111,3,0.462885739892
@@ -224,7 +225,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462812614268
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.462613486169
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.462578202965
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Letterman',en,unknown,#111111,#111111,3,0.462365775714
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
@@ -377,6 +377,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.436746093930
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.436256177654
 'Sean Brady',en,unknown,#111111,#111111,3,0.436222592982
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.435694337730
@@ -453,7 +454,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.425845229504
 'Prince George',en,UK,#e838e8,#e838e8,3,0.425585946935
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.425422976949
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.425344292263
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
