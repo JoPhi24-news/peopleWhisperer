@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Movsar Evloev',en,unknown,#111111,#111111,2,0.555437258511
-'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.554031758473
+'Umar Nurmagomedov',en,unknown,#111111,#111111,2,0.554560311853
 'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.552463293554
 'Song Yadong',en,unknown,#111111,#111111,3,0.543456282677
-'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.540218195290
+'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.540774040961
 'Petr Yan',en,unknown,#111111,#111111,3,0.523301239270
 'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.512243981521
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.511794725725
+'Movsar Evloev',en,unknown,#111111,#111111,2,0.499799782462
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.498420225748
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.497371898356
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.496364888301
@@ -17,12 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493931371430
+'Sean Strickland',en,unknown,#111111,#111111,3,0.493910341870
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.493537131386
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
-'Sean Strickland',en,unknown,#111111,#111111,3,0.493260894421
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.492854757486
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
@@ -82,12 +82,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483514613391
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
+'Dan Hooker',en,unknown,#111111,#111111,3,0.483363850613
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Stephen Miller',en,unknown,#111111,#111111,3,0.483144728966
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483096979269
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
-'Dan Hooker',en,unknown,#111111,#111111,3,0.482693304304
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.482489600507
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.482432178235
@@ -228,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Letterman',en,unknown,#111111,#111111,3,0.462365775714
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.462070099431
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461999619853
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
@@ -237,7 +238,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.461462107813
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.461451946921
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.461357091601
 'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
 'Herb Dean',en,unknown,#111111,#111111,2,0.461025567411
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.460999256192
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.460351969407
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.460195138947
+'Charles Oliveira',en,unknown,#111111,#111111,3,0.460186592372
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.459737522769
-'Charles Oliveira',en,unknown,#111111,#111111,3,0.459469842393
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.459006654953
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.458984412822
