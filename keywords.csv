@@ -1,20 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.540774040961
 'Petr Yan',en,unknown,#111111,#111111,3,0.523301239270
 'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.512243981521
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.511794725725
+'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.510064580271
 'Movsar Evloev',en,unknown,#111111,#111111,2,0.499799782462
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.498420225748
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.497371898356
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.496364888301
 'Conor McGregor',en,unknown,#111111,#111111,3,0.495662592988
+'Sean Strickland',en,unknown,#111111,#111111,3,0.495205347235
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495203632779
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.495088013955
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Kash Patel',en,unknown,#111111,#111111,3,0.494331611597
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.493931371430
-'Sean Strickland',en,unknown,#111111,#111111,3,0.493910341870
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.493537131386
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
@@ -179,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.469263396905
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Christina Ricci',en,unknown,#111111,#111111,2,0.469227447190
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.469122783076
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.468979708159
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468908227058
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Letterman',en,unknown,#111111,#111111,3,0.462365775714
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.462070099431
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.461999619853
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
