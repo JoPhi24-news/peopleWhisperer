@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.552463293554
 'Song Yadong',en,unknown,#111111,#111111,3,0.544005715159
 'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.540774040961
 'Petr Yan',en,unknown,#111111,#111111,3,0.523301239270
@@ -55,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.488915648455
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.487798974550
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.488459330291
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.479810828250
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.479464619856
+'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.479083564521
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.478667866516
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.478646171924
