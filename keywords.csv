@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Natalie Harp',en,unknown,#111111,#111111,3,0.626197719379
 'Salahdine Parnasse',en,unknown,#111111,#111111,2,0.602276377368
 'Rosie ODonnell',en,unknown,#111111,#111111,3,0.575857173650
+'Natalie Harp',en,unknown,#111111,#111111,3,0.555419964654
 'Yadong Song',en,unknown,#111111,#111111,3,0.522778978774
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.511794725725
 'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.510064580271
@@ -130,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.476814201562
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.476811081481
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.476616343614
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.475220843335
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.474756070121
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474712728899
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.474503195310
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
