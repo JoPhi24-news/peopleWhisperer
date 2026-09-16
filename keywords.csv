@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Natalie Harp',en,unknown,#111111,#111111,3,0.555419964654
+'Natalie Harp',en,unknown,#111111,#111111,3,0.608895221774
 'Yadong Song',en,unknown,#111111,#111111,3,0.522778978774
 'Alexandre Pantoja',en,unknown,#111111,#111111,2,0.511794725725
 'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.510064580271
@@ -55,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.488915648455
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488886053019
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Jen Psaki',en,unknown,#111111,#111111,3,0.488515126752
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
@@ -66,10 +67,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.485533888432
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.484867681118
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.484679700983
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -126,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Craig Melvin',en,unknown,#111111,#111111,3,0.477836344127
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.477493357351
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.476947961774
@@ -142,13 +142,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.475220843335
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.475125436617
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.474897156494
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.474805861063
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474712728899
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.474503195310
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.474352836727
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.473429207606
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.472662002088
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.472574109579
@@ -191,10 +191,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.468162173053
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
+'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.467822028811
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Max Holloway',en,unknown,#111111,#111111,3,0.467602743160
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
-'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.467120464953
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Larry David',en,unknown,#111111,#111111,3,0.466898537555
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
@@ -308,11 +308,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
+'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.447555759359
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.447258946566
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.447101409270
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
-'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.446813993615
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.446811867587
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.446514175256
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
