@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Salahdine Parnasse',en,unknown,#111111,#111111,3,0.504614973145
+'Dan Hooker',en,unknown,#111111,#111111,3,0.499978789789
 'Movsar Evloev',en,unknown,#111111,#111111,2,0.499799782462
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.499697228673
 'Usman Nurmagomedov',en,unknown,#111111,#111111,3,0.499291760875
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.498290774639
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.497981964316
 'Conor McGregor',en,unknown,#111111,#111111,3,0.495662592988
-'Dan Hooker',en,unknown,#111111,#111111,3,0.495490812427
 'Sean Strickland',en,unknown,#111111,#111111,3,0.495205347235
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495203632779
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.495088013955
@@ -20,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',en,unknown,#111111,#111111,3,0.493474482463
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.493326118984
+'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.493234635178
 'Tom Homan',en,unknown,#111111,#111111,3,0.493204546718
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.493045043910
-'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.492583835268
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
 'Rob Reiner',en,unknown,#111111,#111111,3,0.492417600719
 'Ben Shapiro',en,unknown,#111111,#111111,3,0.492408180170
@@ -76,12 +75,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Logan Paul',en,unknown,#111111,#111111,3,0.484361207385
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.484250685472
 'Keir Starmer',en,unknown,#111111,#111111,3,0.484054597645
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.484051234005
+'Salahdine Parnasse',en,unknown,#111111,#111111,3,0.483874182173
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.483629862865
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483514613391
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.483382061959
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.483103245522
@@ -151,6 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.472662002088
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.472574109579
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.472491954629
+'Max Holloway',en,unknown,#111111,#111111,3,0.472477815631
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
@@ -175,7 +176,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
 'Michaela Coel',en,unknown,#111111,#111111,3,0.469717329327
 'John Lennon',en,unknown,#111111,#111111,3,0.469713542748
-'Max Holloway',en,unknown,#111111,#111111,3,0.469700382624
 'Larry Summers',en,unknown,#111111,#111111,3,0.469529381087
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.469488121367
 'James Carville',en,unknown,#111111,#111111,3,0.469465869367
@@ -188,13 +188,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.468223531562
 'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.468162173053
 'Josh Hokit',en,unknown,#111111,#111111,3,0.468145917818
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Larry David',en,unknown,#111111,#111111,3,0.466898537555
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.466820607544
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
