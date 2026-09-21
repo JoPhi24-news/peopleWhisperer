@@ -1,5 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ilia Topuria',en,unknown,#111111,#111111,3,0.580775316295
+'Jon Anik',en,unknown,#111111,#111111,2,0.609418675042
+'Mateusz Gamrot',en,unknown,#111111,#111111,2,0.604788586206
+'Jon Ossoff',en,unknown,#111111,#111111,2,0.604243087235
+'Jimmy Fallon',en,unknown,#111111,#111111,2,0.600710218749
+'Philippe Brun',en,unknown,#111111,#111111,2,0.509820186782
+'Manuela Schwesig',en,unknown,#111111,#111111,2,0.508344594310
+'Jérôme Guedj',en,unknown,#111111,#111111,2,0.508247150804
+'Ségolène Royal',en,unknown,#111111,#111111,2,0.506075336274
+'Sven Schulze',en,unknown,#111111,#111111,2,0.505636241116
+'Ilia Topuria',en,unknown,#111111,#111111,3,0.503157518396
+'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.498943496521
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.498621979914
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.498052268057
@@ -36,11 +46,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
 'Javier Mendez',en,unknown,#111111,#111111,2,0.491019707846
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.490669928854
 'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.490621253775
 'Andy Burnham',en,unknown,#111111,#111111,3,0.490418260538
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.490013996192
 'Ian Garry',en,unknown,#111111,#111111,2,0.490010841742
 'Gable Steveson',en,unknown,#111111,#111111,3,0.489834796833
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
@@ -56,10 +66,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'Paul McCartney',en,unknown,#111111,#111111,3,0.486684903211
+'Joshua Van',en,unknown,#111111,#111111,3,0.486622103429
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.486354212882
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.486296576918
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
-'Joshua Van',en,unknown,#111111,#111111,3,0.485958072536
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.485614491062
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.485533888432
