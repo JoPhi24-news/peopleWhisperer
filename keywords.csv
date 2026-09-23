@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Ossoff',en,unknown,#111111,#111111,3,0.552962047372
 'Mateusz Gamrot',en,unknown,#111111,#111111,2,0.543607599797
+'Jon Ossoff',en,unknown,#111111,#111111,3,0.521696955266
 'Jon Anik',en,unknown,#111111,#111111,1,0.518006128786
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.510542218049
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.514820992507
 'Philippe Brun',en,unknown,#111111,#111111,2,0.509820186782
 'Jimmy Fallon',en,unknown,#111111,#111111,3,0.508494933755
 'Manuela Schwesig',en,unknown,#111111,#111111,2,0.508344594310
@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.497636303810
 'Conor McGregor',en,unknown,#111111,#111111,3,0.496307242496
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495849199208
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.495636779378
 'Sean Strickland',en,unknown,#111111,#111111,3,0.495205347235
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.494990787728
 'Kash Patel',en,unknown,#111111,#111111,3,0.494978920118
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.494801639396
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
@@ -92,11 +92,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483514613391
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
+'Natalie Harp',en,unknown,#111111,#111111,3,0.483364301541
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483160294790
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.483103245522
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
-'Natalie Harp',en,unknown,#111111,#111111,3,0.482693756134
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.482489600507
 'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.482458805678
@@ -322,11 +322,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.447136816535
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.447101409270
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
+'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.446669415263
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.446514175256
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
-'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.445925899863
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.445531803027
@@ -462,6 +462,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
 'Daniel Hagari',en,unknown,#111111,#111111,1,0.426253893775
+'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.426128095583
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.426020182739
 'Quand Harry',en,unknown,#111111,#111111,1,0.425989710083
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
@@ -469,7 +470,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince George',en,UK,#e838e8,#e838e8,3,0.425585946935
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
-'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.425344292263
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
 'Abdelmadjid Tebboune',en,unknown,#111111,#111111,1,0.425036524436
