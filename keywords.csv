@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Manuela Schwesig',en,unknown,#111111,#111111,3,0.518861911982
+'Manuela Schwesig',en,unknown,#111111,#111111,3,0.512515268367
 'Jérôme Guedj',en,unknown,#111111,#111111,2,0.508247150804
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.506293338773
 'Ségolène Royal',en,unknown,#111111,#111111,2,0.506075336274
@@ -914,6 +914,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.280213281713
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.279848829406
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476152
+'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.278403743179
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.275019921657
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.273789439212
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.273319336059
@@ -934,7 +935,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
-'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.265750431629
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.265109782081
 'Lyna Khoudri',en,unknown,#111111,#111111,1,0.265002760667
