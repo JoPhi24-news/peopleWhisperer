@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Manuela Schwesig',en,unknown,#111111,#111111,3,0.512515268367
 'Jérôme Guedj',en,unknown,#111111,#111111,2,0.508247150804
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.506293338773
 'Ségolène Royal',en,unknown,#111111,#111111,2,0.506075336274
@@ -397,6 +396,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',en,unknown,#111111,#111111,3,0.436010001221
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.435694337730
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.435681864275
+'Manuela Schwesig',en,unknown,#111111,#111111,2,0.435638818112
 'Peter Phillips',en,unknown,#111111,#111111,3,0.435237712864
 'Sarah Kellen',en,unknown,#111111,#111111,2,0.435057654345
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
