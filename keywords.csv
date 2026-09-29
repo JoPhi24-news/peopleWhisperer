@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Cruise',en,unknown,#111111,#111111,3,0.580174307457
+'Tom Cruise',en,unknown,#111111,#111111,3,0.536522268758
 'Dolly Parton',en,unknown,#111111,#111111,2,0.506806451688
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.504773523861
 'Baptiste Marteau',en,unknown,#111111,#111111,2,0.503457449470
@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Sean Strickland',en,unknown,#111111,#111111,3,0.495205347235
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.494801639396
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.494765572362
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Javier Bardem',en,unknown,#111111,#111111,3,0.494123503247
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
 'Joe Rogan',en,unknown,#111111,#111111,3,0.493776024436
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.493468804656
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Joshua Van',en,unknown,#111111,#111111,3,0.493189924755
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ian Garry',en,unknown,#111111,#111111,2,0.490010841742
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Jen Psaki',en,unknown,#111111,#111111,3,0.489174052555
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.489139190058
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.488784753463
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.487158245524
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.487017452999
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
@@ -167,6 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.471211371461
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470884293804
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.470747960215
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470704739209
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.470614363156
@@ -175,7 +176,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.470399203989
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.470243165279
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.470114518116
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.470052226154
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
 'Michaela Coel',en,unknown,#111111,#111111,3,0.469717329327
