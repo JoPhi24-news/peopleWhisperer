@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Cruise',en,unknown,#111111,#111111,3,0.538281220717
 'Dolly Parton',en,unknown,#111111,#111111,2,0.506806451688
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.504773523861
 'Baptiste Marteau',en,unknown,#111111,#111111,2,0.503457449470
+'Tom Cruise',en,unknown,#111111,#111111,3,0.503412678519
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.502047019243
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.499901086758
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499330739863
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.498394447975
 'Conor McGregor',en,unknown,#111111,#111111,3,0.498233473660
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.497984891144
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.496924893511
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495849199208
@@ -203,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Bill Maher',en,unknown,#111111,#111111,3,0.466158385447
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.465902382932
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.465549734674
 'Carlos Prates',en,unknown,#111111,#111111,3,0.465514874105
 'Don Bacon',en,unknown,#111111,#111111,3,0.465460586927
@@ -210,7 +211,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.465345274292
 'Archie Colgan',en,unknown,#111111,#111111,3,0.465221643785
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.465196997219
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.465185527946
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.465089950839
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
