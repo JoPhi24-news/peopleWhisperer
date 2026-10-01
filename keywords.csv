@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.504327751455
 'Dolly Parton',en,unknown,#111111,#111111,2,0.503944377117
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.503831648737
 'Baptiste Marteau',en,unknown,#111111,#111111,2,0.503457449470
 'Tom Cruise',en,unknown,#111111,#111111,3,0.503412678519
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
@@ -82,12 +82,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Miller',en,unknown,#111111,#111111,3,0.484482683959
 'Logan Paul',en,unknown,#111111,#111111,3,0.484361207385
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.484250685472
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.484183520942
 'Keir Starmer',en,unknown,#111111,#111111,3,0.484054597645
 'Natalie Harp',en,unknown,#111111,#111111,3,0.484033509026
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483829909340
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483766720153
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483514613391
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
@@ -199,11 +199,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Larry David',en,unknown,#111111,#111111,3,0.466898537555
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.466606367355
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
 'Bill Maher',en,unknown,#111111,#111111,3,0.466158385447
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.465902382932
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.465549734674
 'Carlos Prates',en,unknown,#111111,#111111,3,0.465514874105
 'Don Bacon',en,unknown,#111111,#111111,3,0.465460586927
@@ -383,11 +383,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
+'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438857785323
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.438497313961
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.438388983169
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.438333664213
-'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438098887126
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437090265664
