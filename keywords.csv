@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',en,unknown,#111111,#111111,2,0.503944377117
+'Tom Cruise',en,unknown,#111111,#111111,3,0.504041843731
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.503831648737
 'Baptiste Marteau',en,unknown,#111111,#111111,2,0.503457449470
-'Tom Cruise',en,unknown,#111111,#111111,3,0.503412678519
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.502047019243
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
@@ -212,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.465345274292
 'Archie Colgan',en,unknown,#111111,#111111,3,0.465221643785
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.465185527946
+'Dolly Parton',en,unknown,#111111,#111111,2,0.465143732368
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.465089950839
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.465035358560
