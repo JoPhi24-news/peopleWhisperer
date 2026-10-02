@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Cruise',en,unknown,#111111,#111111,3,0.504041843731
+'Tom Cruise',en,unknown,#111111,#111111,3,0.542491326262
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.503831648737
 'Baptiste Marteau',en,unknown,#111111,#111111,2,0.503457449470
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',en,unknown,#111111,#111111,3,0.491273641442
 'Gable Steveson',en,unknown,#111111,#111111,3,0.491146067218
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.491108291428
 'Javier Mendez',en,unknown,#111111,#111111,2,0.491019707846
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
 'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.490621253775
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Ian Garry',en,unknown,#111111,#111111,2,0.490010841742
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.489796869705
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.489443140874
 'Jen Psaki',en,unknown,#111111,#111111,3,0.489174052555
@@ -255,10 +255,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
 'Carsten Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459903425182
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.459737522769
+'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.459702124891
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.459574960241
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.459006654953
-'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.458984412822
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
@@ -277,11 +277,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Rosie ODonnell',en,unknown,#111111,#111111,3,0.455642944963
+'Ryan Gosling',en,Kanada,#443388,#443388,3,0.454888623435
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.454786662368
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
-'Ryan Gosling',en,Kanada,#443388,#443388,3,0.454161362974
 'Carlos Ulberg',en,unknown,#111111,#111111,3,0.453830564405
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.453561589446
 'Scott Pelley',en,unknown,#111111,#111111,3,0.453543593906
@@ -511,9 +511,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.419643351823
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.419318210504
+'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.419054198060
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.418732807649
-'Brad Pitt',en,USA,#e838e8,#e838e8,3,0.418256654436
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.417912690074
 'Pedro Pascal',en,Chile,#67349a,#67349a,3,0.417844866588
