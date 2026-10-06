@@ -1,14 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.620784958526
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.618995716111
 'Alejandro González Iñárritu',en,unknown,#111111,#111111,2,0.600447540303
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.504415743190
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.500626321921
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.500308193618
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499330739863
 'Conor McGregor',en,unknown,#111111,#111111,3,0.498233473660
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.497587309359
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'Joshua Van',en,unknown,#111111,#111111,3,0.496424919916
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
 'Joe Rogan',en,unknown,#111111,#111111,3,0.493776024436
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.493715455713
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Rob Reiner',en,unknown,#111111,#111111,3,0.493068732681
@@ -120,11 +120,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.479464619856
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.479041282228
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.478877661763
 'Jack White',en,unknown,#111111,#111111,3,0.478701785726
 'Chris Van Hollen',en,unknown,#111111,#111111,3,0.478646171924
 'Renee Good',en,unknown,#111111,#111111,3,0.478581676762
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.478362097846
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.478310608657
 'Alex Pereira',en,unknown,#111111,#111111,3,0.478057079302
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.477944770446
@@ -160,13 +160,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.472491954629
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
 'Ken Paxton',en,unknown,#111111,#111111,3,0.472107447226
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.471904799160
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
 'Bill Pulte',en,unknown,#111111,#111111,3,0.471800976230
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.471425406817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.471211371461
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470884293804
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.470747960215
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
@@ -383,13 +383,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439865512574
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.439495604883
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
+'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.439092102018
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438857785323
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.438497313961
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
 'Nicolas Cage',en,unknown,#111111,#111111,3,0.438388983169
-'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.438333664213
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437851140986
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
