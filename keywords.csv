@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.670500824981
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.633981820325
 'Alejandro González Iñárritu',en,unknown,#111111,#111111,2,0.600886165633
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.518527965225
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.522104015999
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.507687964045
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.506442985720
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
@@ -93,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandre Pantoja',en,unknown,#111111,#111111,3,0.483156186350
 'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.483129819841
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.483103245522
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.483088041014
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Candace Owens',en,unknown,#111111,#111111,3,0.482342670544
@@ -106,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.481070720988
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
@@ -235,12 +235,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462812614268
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.462711353023
+'Tom Cruise',en,unknown,#111111,#111111,3,0.462681598253
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.462613486169
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
 'Mateusz Gamrot',en,unknown,#111111,#111111,1,0.462066774827
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
-'Tom Cruise',en,unknown,#111111,#111111,3,0.461969805931
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.461764047864
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
@@ -383,13 +383,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439865512574
 'Ali Khamenei',en,unknown,#111111,#111111,3,0.439495604883
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
+'Nicolas Cage',en,unknown,#111111,#111111,3,0.439147312485
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.439092102018
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438953269667
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.438857785323
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.438497313961
 'Deborah Birx',en,unknown,#111111,#111111,1,0.438427123541
-'Nicolas Cage',en,unknown,#111111,#111111,3,0.438388983169
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437851140986
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
@@ -591,11 +591,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Demi Moore',en,USA,#18e8e8,#18e8e8,3,0.404320275881
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.404224804663
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.404111085516
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,USA,#18e8e8,#18e8e8,3,0.403865583056
 'Nikki Glaser',en,unknown,#111111,#111111,1,0.403546648623
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.403312056049
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.403284786729
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.402876759834
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.402693583489
