@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.624796024879
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.562031635458
+'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.575578466147
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.562544472497
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.522695872660
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.507687964045
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.508308588744
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
@@ -59,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.488558124827
 'Paul McCartney',en,unknown,#111111,#111111,3,0.488008740342
+'Tom Cruise',en,unknown,#111111,#111111,3,0.487384630026
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
@@ -105,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
-'Tom Cruise',en,unknown,#111111,#111111,3,0.481374160090
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
