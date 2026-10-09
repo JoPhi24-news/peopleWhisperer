@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.551958072354
+'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.533207190592
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.522695872660
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.508927973856
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
+'Tom Cruise',en,unknown,#111111,#111111,3,0.505407076326
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
@@ -10,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499330739863
 'Conor McGregor',en,unknown,#111111,#111111,3,0.498233473660
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
-'Tom Cruise',en,unknown,#111111,#111111,3,0.496521985923
 'Joshua Van',en,unknown,#111111,#111111,3,0.496424919916
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495849199208
@@ -260,13 +260,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',en,unknown,#111111,#111111,3,0.459737522769
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.459702124891
 'Sydney Sweeney',en,unknown,#111111,#111111,3,0.459574960241
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.459424559487
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.459006654953
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Noël Barrot',en,unknown,#111111,#111111,2,0.458855304882
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.458750547822
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.458706296294
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'HBO Max',en,unknown,#111111,#111111,3,0.458437163513
 'Michele Reiner',en,unknown,#111111,#111111,3,0.457920253771
@@ -312,11 +312,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',en,unknown,#111111,#111111,2,0.448874879830
 'Robert Gates',en,unknown,#111111,#111111,3,0.448685333469
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
+'Prince William',en,UK,#e838e8,#e838e8,3,0.448518981758
 'Sven Schulze',en,unknown,#111111,#111111,3,0.448378188585
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.447999835389
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
-'Prince William',en,UK,#e838e8,#e838e8,3,0.447779118356
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.447555759359
