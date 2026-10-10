@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.533207190592
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.522695872660
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.508927973856
+'Tom Cruise',en,unknown,#111111,#111111,3,0.507278874750
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
-'Tom Cruise',en,unknown,#111111,#111111,3,0.505407076326
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
@@ -196,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
+'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.467728032003
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
