@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.528455638687
-'Tom Cruise',en,unknown,#111111,#111111,3,0.513437741035
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.549599683338
+'Tom Cruise',en,unknown,#111111,#111111,3,0.514046884521
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.500308193618
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.499952122333
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499330739863
 'Conor McGregor',en,unknown,#111111,#111111,3,0.498233473660
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.495226292857
 'Sean Strickland',en,unknown,#111111,#111111,3,0.495205347235
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.494817431036
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.494801639396
 'Javier Bardem',en,unknown,#111111,#111111,3,0.494771227508
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
@@ -240,11 +240,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.462425275631
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.462409739509
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
+'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.462329428308
 'Mateusz Gamrot',en,unknown,#111111,#111111,1,0.462066774827
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.461764047864
-'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.461616935925
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.461628470944
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.461462107813
 'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
@@ -252,7 +253,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.460199281511
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.460195138947
 'Charles Oliveira',en,unknown,#111111,#111111,3,0.460186592372
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
@@ -464,6 +464,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Raphaël Arnault',en,unknown,#111111,#111111,1,0.426735897260
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
+'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.426628058860
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.426485638451
 'Andrea Berg',en,unknown,#111111,#111111,1,0.426460472687
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
@@ -473,7 +474,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.426020182739
 'Quand Harry',en,unknown,#111111,#111111,1,0.425989710083
 'Helene Fischer',en,unknown,#111111,#111111,1,0.425846962626
-'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.425845229504
 'Prince George',en,UK,#e838e8,#e838e8,3,0.425585946935
 'Christophe Gleizes',en,unknown,#111111,#111111,2,0.425567518168
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
@@ -522,8 +522,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.417912690074
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.417708139132
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
+'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.417166608849
 'Gigi Hadid',en,USA,#18e8e8,#18e8e8,3,0.416640052756
-'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.416365411973
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.416311272107
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.416307328045
