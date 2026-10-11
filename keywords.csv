@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.514150586270
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.508927973856
 'Tom Cruise',en,unknown,#111111,#111111,3,0.507278874750
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Mendez',en,unknown,#111111,#111111,2,0.491019707846
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
 'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.490621253775
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.490382300233
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.490015636867
 'Ian Garry',en,unknown,#111111,#111111,2,0.490010841742
@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.489443140874
 'Jen Psaki',en,unknown,#111111,#111111,3,0.489174052555
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.489067970146
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.488942062108
@@ -134,11 +133,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
+'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.476951326291
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.476410253167
-'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.476267968138
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.475840533454
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.475696814125
@@ -253,6 +252,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',en,Ungarn,#33aa99,#33aa99,3,0.460984462736
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.460199281511
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.460195138947
 'Charles Oliveira',en,unknown,#111111,#111111,3,0.460186592372
 'Nathan Hochman',en,unknown,#111111,#111111,2,0.460088416420
