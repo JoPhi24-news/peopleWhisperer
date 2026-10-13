@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hartnett',en,unknown,#111111,#111111,2,0.604592580065
-'Colleen Hoover',en,unknown,#111111,#111111,2,0.603745852216
+'Colleen Hoover',en,unknown,#111111,#111111,2,0.604609779186
+'Josh Hartnett',en,unknown,#111111,#111111,3,0.591584775783
 'Michael Showalter',en,unknown,#111111,#111111,2,0.538417503731
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.503119835134
 'Charles Spencer',en,unknown,#111111,#111111,2,0.502807336218
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.501223009922
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.500308193618
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499330739863
 'Conor McGregor',en,unknown,#111111,#111111,3,0.498233473660
@@ -122,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.479810828250
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.479464619856
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.479385176970
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.478877661763
 'Jack White',en,unknown,#111111,#111111,3,0.478701785726
@@ -138,7 +139,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.476951326291
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.476663045383
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.476410253167
@@ -720,13 +720,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.383646302165
 'Oisin Fanning',en,Irland,#3377bb,#3377bb,1,0.383500416250
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.382405008543
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.382366581570
 'Roger Corman',en,unknown,#111111,#111111,2,0.382356647791
 'Kevin Hart',en,unknown,#111111,#111111,3,0.382149723348
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381967053335
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.381659637813
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.381499205368
 'Jon Batiste',en,unknown,#111111,#111111,2,0.381002402726
 'Joy Behar',en,unknown,#111111,#111111,3,0.380502961181
 'Peyton Manning',en,unknown,#111111,#111111,3,0.380459354945
