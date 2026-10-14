@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Colleen Hoover',en,unknown,#111111,#111111,3,0.542390462234
-'Michael Showalter',en,unknown,#111111,#111111,2,0.540092425142
+'Michael Showalter',en,unknown,#111111,#111111,2,0.540648520079
 'Josh Hartnett',en,unknown,#111111,#111111,3,0.531475555042
 'Dakota Johnson',en,unknown,#111111,#111111,3,0.508742507808
+'Colleen Hoover',en,unknown,#111111,#111111,3,0.506893158808
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
 'Charles Spencer',en,unknown,#111111,#111111,2,0.502807336218
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ian Garry',en,unknown,#111111,#111111,2,0.490010841742
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.489443140874
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.489401713933
 'Jen Psaki',en,unknown,#111111,#111111,3,0.489174052555
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.487017452999
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.486759917996
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
@@ -539,6 +539,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Belichick',en,USA,#18e8e8,#18e8e8,3,0.413888352274
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.413805974670
+'Tom Hanks',en,USA,#18e8e8,#18e8e8,3,0.413399550036
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.413392317495
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.413224317532
 'Colin Farrell',en,Irland,#3377bb,#3377bb,3,0.412841691339
@@ -546,7 +547,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sunny Hostin',en,USA,#18e8e8,#18e8e8,2,0.412746883601
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.412719926811
 'Chris Hemsworth',en,Australien,#99aa33,#99aa33,3,0.412649921070
-'Tom Hanks',en,USA,#18e8e8,#18e8e8,3,0.412591079848
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.412468468983
 'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.412436745894
 'Heidi Klum',en,Deutschland,#1818e8,#1818e8,3,0.412261947513
