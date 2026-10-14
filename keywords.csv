@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hartnett',en,unknown,#111111,#111111,3,0.592040305932
-'Colleen Hoover',en,unknown,#111111,#111111,3,0.551532957308
-'Michael Showalter',en,unknown,#111111,#111111,2,0.538417503731
+'Colleen Hoover',en,unknown,#111111,#111111,3,0.552066434179
+'Michael Showalter',en,unknown,#111111,#111111,2,0.538976919407
+'Josh Hartnett',en,unknown,#111111,#111111,3,0.531475555042
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.504378077532
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.505631297494
 'Charles Spencer',en,unknown,#111111,#111111,2,0.502807336218
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
@@ -90,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483829909340
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483766720153
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.483427840789
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Alexandre Pantoja',en,unknown,#111111,#111111,3,0.483156186350
@@ -101,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Candace Owens',en,unknown,#111111,#111111,3,0.482342670544
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.482085663818
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.482072480834
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
