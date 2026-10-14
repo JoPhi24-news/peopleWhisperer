@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Colleen Hoover',en,unknown,#111111,#111111,3,0.552066434179
-'Michael Showalter',en,unknown,#111111,#111111,2,0.538976919407
+'Colleen Hoover',en,unknown,#111111,#111111,3,0.542390462234
+'Michael Showalter',en,unknown,#111111,#111111,2,0.540092425142
 'Josh Hartnett',en,unknown,#111111,#111111,3,0.531475555042
+'Dakota Johnson',en,unknown,#111111,#111111,3,0.508742507808
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
-'Dakota Johnson',en,unknown,#111111,#111111,3,0.505631297494
 'Charles Spencer',en,unknown,#111111,#111111,2,0.502807336218
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
@@ -67,12 +67,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.487017452999
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.486759917996
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.485584230793
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.485533888432
+'Tom Cruise',en,unknown,#111111,#111111,3,0.485475073904
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Salahdine Parnasse',en,unknown,#111111,#111111,3,0.485209228773
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
@@ -90,13 +92,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483829909340
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483766720153
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.483427840789
 'Casey Wasserman',en,unknown,#111111,#111111,3,0.483413558259
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Alexandre Pantoja',en,unknown,#111111,#111111,3,0.483156186350
 'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.483129819841
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.483103245522
-'Tom Cruise',en,unknown,#111111,#111111,3,0.482801769290
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Candace Owens',en,unknown,#111111,#111111,3,0.482342670544
@@ -182,6 +182,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.470114518116
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
+'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.469824925592
 'Michaela Coel',en,unknown,#111111,#111111,3,0.469717329327
 'John Lennon',en,unknown,#111111,#111111,3,0.469713542748
 'Larry Summers',en,unknown,#111111,#111111,3,0.469529381087
@@ -197,7 +198,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
-'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.468428388151
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
@@ -223,6 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.465035358560
 'James Bond',en,unknown,#111111,#111111,3,0.464610026779
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.464469877245
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.464323544609
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.464256313662
 'Michael Morales',en,unknown,#111111,#111111,3,0.464252019330
@@ -249,7 +250,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.461764047864
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.461628470944
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.461462107813
 'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
