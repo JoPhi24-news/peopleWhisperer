@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hartnett',en,unknown,#111111,#111111,3,0.531475555042
 'Dakota Johnson',en,unknown,#111111,#111111,3,0.508742507808
 'Colleen Hoover',en,unknown,#111111,#111111,3,0.506893158808
 'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
@@ -279,6 +278,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Ossoff',en,unknown,#111111,#111111,3,0.457487521067
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
 'Jay Clayton',en,unknown,#111111,#111111,3,0.456925094755
+'Josh Hartnett',en,unknown,#111111,#111111,3,0.456708076786
 'Petr Yan',en,unknown,#111111,#111111,3,0.456276574485
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
