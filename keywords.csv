@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pierce Brosnan',en,unknown,#111111,#111111,2,0.506855062832
+'Pierce Brosnan',en,unknown,#111111,#111111,3,0.513051465680
 'Charles Spencer',en,unknown,#111111,#111111,2,0.502807336218
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
@@ -167,6 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.471425406817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.471308978824
+'James Bond',en,unknown,#111111,#111111,3,0.470918677021
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470884293804
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.470747960215
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
@@ -215,12 +216,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.465345274292
 'Archie Colgan',en,unknown,#111111,#111111,3,0.465221643785
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.465185527946
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.465176707073
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.465089950839
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.465035358560
-'James Bond',en,unknown,#111111,#111111,3,0.464610026779
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.464469877245
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.464323544609
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.464256313662
 'Michael Morales',en,unknown,#111111,#111111,3,0.464252019330
@@ -444,6 +444,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Venezuelas Übergangspräsidentin',en,unknown,#111111,#111111,1,0.429796152876
 'Sohn Nick',en,unknown,#111111,#111111,1,0.429656288643
 'Catherine Pégard',en,unknown,#111111,#111111,1,0.429638790537
+'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.429602855309
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.429602288775
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.429111930867
@@ -469,7 +470,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Arnault',en,unknown,#111111,#111111,1,0.426735897260
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.426628058860
-'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.426485638451
 'Andrea Berg',en,unknown,#111111,#111111,1,0.426460472687
 'François Mitterrand',en,unknown,#111111,#111111,1,0.426326670629
 'laffaire Epstein',en,unknown,#111111,#111111,1,0.426320348624
