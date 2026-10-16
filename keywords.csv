@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Spencer',en,unknown,#111111,#111111,3,0.579045831508
+'Charles Spencer',en,unknown,#111111,#111111,3,0.506240245873
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
@@ -105,12 +105,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.481019259300
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
 'Howard Lutnick',en,unknown,#111111,#111111,3,0.480388257241
 'Mojtaba Khamenei',en,unknown,#111111,#111111,2,0.480345393208
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.480344026759
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.480253675739
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.480141606072
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.480023663177
@@ -127,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Cotton',en,unknown,#111111,#111111,3,0.478562781825
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.478310608657
 'Alex Pereira',en,unknown,#111111,#111111,3,0.478057079302
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.477954437394
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.477944770446
 'Craig Melvin',en,unknown,#111111,#111111,3,0.477836344127
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
@@ -135,7 +136,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.476951326291
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.476590366561
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.476410253167
