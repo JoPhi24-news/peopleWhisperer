@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Spencer',en,unknown,#111111,#111111,3,0.506240245873
+'Charles Spencer',en,unknown,#111111,#111111,3,0.544355513083
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.488558124827
 'Paul McCartney',en,unknown,#111111,#111111,3,0.488008740342
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.487697931422
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
 'Savannah Guthrie',en,unknown,#111111,#111111,3,0.487204888647
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
@@ -105,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.481019259300
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
@@ -139,11 +139,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.476410253167
+'Prince Philip',en,unknown,#111111,#111111,3,0.476088858282
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.475840533454
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.475696814125
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
-'Prince Philip',en,unknown,#111111,#111111,3,0.475403778306
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.475125436617
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.474805861063
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.474712728899
@@ -153,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Max Holloway',en,unknown,#111111,#111111,3,0.473858254064
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
+'Prince Charles',en,UK,#e838e8,#e838e8,3,0.473462243875
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.473352542398
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.473287516800
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
@@ -166,7 +167,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',en,unknown,#111111,#111111,3,0.471612687169
 'Nancy Pelosi',en,unknown,#111111,#111111,3,0.471610063900
 'Nancy Guthrie',en,unknown,#111111,#111111,3,0.471425406817
-'Prince Charles',en,UK,#e838e8,#e838e8,3,0.471387146069
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.471308978824
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470884293804
