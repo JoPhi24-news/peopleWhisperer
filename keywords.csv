@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Spencer',en,unknown,#111111,#111111,3,0.570305405977
 'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',en,unknown,#111111,#111111,3,0.494771227508
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
+'Charles Spencer',en,unknown,#111111,#111111,3,0.494292253874
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
 'Joe Rogan',en,unknown,#111111,#111111,3,0.493776024436
@@ -451,12 +451,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
+'Prince Harry',en,UK,#e838e8,#e838e8,3,0.428570540241
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
 'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.428011950222
 'Baptiste Marteau',en,unknown,#111111,#111111,1,0.427938832050
 'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
-'Prince Harry',en,UK,#e838e8,#e838e8,3,0.427791498390
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.427760699680
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
