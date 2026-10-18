@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Yannick Jadot',en,unknown,#111111,#111111,2,0.502572672457
 'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.500308193618
@@ -463,6 +462,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
+'Yannick Jadot',en,unknown,#111111,#111111,1,0.427186771588
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
 'Vanessa Mai',en,unknown,#111111,#111111,1,0.426915684183
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
