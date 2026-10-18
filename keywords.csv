@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Léa Salamé',en,unknown,#111111,#111111,2,0.501551111891
+'Léa Salamé',en,unknown,#111111,#111111,2,0.576468460107
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.501488235118
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.500308193618
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499330739863
@@ -450,10 +450,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.428881629518
+'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.428790562729
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.428570540241
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Claire Legendre',en,unknown,#111111,#111111,1,0.428092226198
-'Raphaël Glucksmann',en,unknown,#111111,#111111,1,0.428011950222
 'Baptiste Marteau',en,unknown,#111111,#111111,1,0.427938832050
 'Quentin Deranque',en,unknown,#111111,#111111,1,0.427936687425
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.427760699680
@@ -650,11 +650,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessica Biel',en,USA,#18e8e8,#18e8e8,2,0.396480744760
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.396321451020
 'Maria Bartiromo',en,USA,#18e8e8,#18e8e8,3,0.396068790325
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.395999404954
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Matt Winkelmeyer',en,USA,#18e8e8,#18e8e8,2,0.395444247096
 'Tony Bobulinski',en,USA,#18e8e8,#18e8e8,2,0.395340914463
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.395157668290
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.395051113151
 'Harrison Ford',en,USA,#18e8e8,#18e8e8,3,0.394962838174
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
