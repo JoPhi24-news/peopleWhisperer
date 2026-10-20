@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'George Staines',en,unknown,#111111,#111111,1,0.516030580163
+'George Staines',en,unknown,#111111,#111111,3,0.513815468573
 'Buckingham Palace',en,unknown,#111111,#111111,3,0.513629294768
 'Earl Spencer',en,unknown,#111111,#111111,2,0.510766097386
 'François Ruffin',en,unknown,#111111,#111111,2,0.505259536431
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.501577659772
 'Dianas Bruder',en,unknown,#111111,#111111,2,0.500376857220
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499968060622
+'Conor McGregor',en,unknown,#111111,#111111,3,0.499511222097
 'Charles Spencer',en,unknown,#111111,#111111,3,0.499435280713
-'Conor McGregor',en,unknown,#111111,#111111,3,0.498872986748
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.496826639457
 'Joshua Van',en,unknown,#111111,#111111,3,0.496424919916
@@ -79,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.484679700983
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.484629638595
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -106,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.482014136181
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.481949552314
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
@@ -157,10 +157,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Max Holloway',en,unknown,#111111,#111111,3,0.474546412467
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.474503195310
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
+'Justin Gaethje',en,unknown,#111111,#111111,3,0.474100906653
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.473976811714
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
-'Justin Gaethje',en,unknown,#111111,#111111,3,0.473411859328
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.473352542398
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.472574109579
