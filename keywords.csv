@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Buckingham Palace',en,unknown,#111111,#111111,3,0.513629294768
 'Earl Spencer',en,unknown,#111111,#111111,2,0.510766097386
 'François Ruffin',en,unknown,#111111,#111111,2,0.505259536431
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.501577659772
@@ -98,13 +97,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.483103245522
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.482744265723
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.482686037464
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Candace Owens',en,unknown,#111111,#111111,3,0.482342670544
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.482014136181
 'Nanon Williams',en,unknown,#111111,#111111,2,0.481956410626
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
@@ -336,6 +335,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
+'Buckingham Palace',en,unknown,#111111,#111111,3,0.446084840098
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.446029450199
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
@@ -357,6 +357,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.443539536060
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Jimmy Fallon',en,unknown,#111111,#111111,3,0.442915612502
+'Prince Archie',en,UK,#e838e8,#e838e8,3,0.442856973463
 'Henry Cejudo',en,unknown,#111111,#111111,2,0.442761812854
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Movsar Evloev',en,unknown,#111111,#111111,3,0.442518701417
@@ -365,7 +366,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.442148110341
 'Martin Shaw',en,unknown,#111111,#111111,3,0.442136972500
-'Prince Archie',en,UK,#e838e8,#e838e8,3,0.442105941894
 'William Schabas ',en,unknown,#111111,#111111,3,0.441812608750
 'Richard Falk',en,unknown,#111111,#111111,2,0.441775219750
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
