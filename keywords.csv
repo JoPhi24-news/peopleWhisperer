@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Ruffin',en,unknown,#111111,#111111,2,0.505259536431
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.501929440030
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.501577659772
 'Dianas Bruder',en,unknown,#111111,#111111,2,0.500376857220
@@ -452,6 +451,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',en,unknown,#111111,#111111,1,0.429638790537
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.429602288775
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
+'François Ruffin',en,unknown,#111111,#111111,1,0.429470605966
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.429203678521
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.429111930867
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
