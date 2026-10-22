@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Earl Spencer',en,unknown,#111111,#111111,3,0.530249544453
 'Charles Spencer',en,unknown,#111111,#111111,3,0.521587506384
 'François Ruffin',en,unknown,#111111,#111111,2,0.505259536431
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.501929440030
@@ -157,6 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.474100906653
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.473976811714
+'Earl Spencer',en,unknown,#111111,#111111,3,0.473846615967
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.473352542398
