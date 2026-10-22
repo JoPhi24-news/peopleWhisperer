@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Earl Spencer',en,unknown,#111111,#111111,3,0.557510958180
-'Charles Spencer',en,unknown,#111111,#111111,3,0.519801732501
+'Earl Spencer',en,unknown,#111111,#111111,3,0.530249544453
+'Charles Spencer',en,unknown,#111111,#111111,3,0.521587506384
 'François Ruffin',en,unknown,#111111,#111111,2,0.505259536431
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.501929440030
 'Mauricio Ruffy',en,unknown,#111111,#111111,3,0.501577659772
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.501296045940
 'Dianas Bruder',en,unknown,#111111,#111111,2,0.500376857220
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499968060622
 'Conor McGregor',en,unknown,#111111,#111111,3,0.499511222097
@@ -220,13 +220,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Archie Colgan',en,unknown,#111111,#111111,3,0.465221643785
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.465185527946
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.465176707073
+'Prince William',en,UK,#e838e8,#e838e8,3,0.465137943147
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.464323544609
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.464256313662
 'Michael Morales',en,unknown,#111111,#111111,3,0.464252019330
 'Bruna Caroline Ferreira',en,unknown,#111111,#111111,2,0.463878765184
-'Prince William',en,UK,#e838e8,#e838e8,3,0.463722722836
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.463661726315
 'Kelly Ripa',en,unknown,#111111,#111111,3,0.463631563368
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.463549095622
@@ -245,11 +245,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.462409739509
 'Howie Mandel',en,unknown,#111111,#111111,2,0.462349520215
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.462329428308
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.462283401853
 'Mateusz Gamrot',en,unknown,#111111,#111111,1,0.462066774827
 'Mark Kelly',en,unknown,#111111,#111111,3,0.461984916842
 'Fabrice Aidan',en,unknown,#111111,#111111,2,0.461890134718
 'Bogdan Guskov',en,unknown,#111111,#111111,3,0.461764047864
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.461570817983
 'Scooter Braun',en,unknown,#111111,#111111,3,0.461563922751
 'James Van Der Beek',en,unknown,#111111,#111111,3,0.461462107813
 'Nick Bilton',en,unknown,#111111,#111111,3,0.461159612606
@@ -452,6 +452,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',en,unknown,#111111,#111111,1,0.429638790537
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.429602288775
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
+'Princess Diana',en,UK,#e838e8,#e838e8,3,0.429203678521
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.429111930867
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428948442742
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.428909430212
@@ -470,7 +471,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Jadot',en,unknown,#111111,#111111,1,0.427186771588
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
 'Vanessa Mai',en,unknown,#111111,#111111,1,0.426915684183
-'Princess Diana',en,UK,#e838e8,#e838e8,3,0.426865704074
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Maud Bregeon',en,unknown,#111111,#111111,2,0.426829271463
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
