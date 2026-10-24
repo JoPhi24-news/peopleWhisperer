@@ -1,13 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Conor McGregor',en,unknown,#111111,#111111,3,0.499511222097
+'Conor McGregor',en,unknown,#111111,#111111,3,0.529536803782
+'Sean Strickland',en,unknown,#111111,#111111,3,0.503497795809
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.498106169711
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'Joshua Van',en,unknown,#111111,#111111,3,0.497068046393
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
-'Sean Strickland',en,unknown,#111111,#111111,3,0.495850910239
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495849199208
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.495226292857
+'Joe Rogan',en,unknown,#111111,#111111,3,0.495071565917
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.494801639396
 'Javier Bardem',en,unknown,#111111,#111111,3,0.494771227508
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
-'Joe Rogan',en,unknown,#111111,#111111,3,0.493776024436
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
 'Rob Reiner',en,unknown,#111111,#111111,3,0.493068732681
@@ -48,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léa Salamé',en,unknown,#111111,#111111,1,0.489998206091
 'Bari Weiss',en,unknown,#111111,#111111,3,0.489755976944
 'Paul McCartney',en,unknown,#111111,#111111,3,0.489327296451
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.489189808943
 'Jen Psaki',en,unknown,#111111,#111111,3,0.489174052555
 'Jacob Frey',en,unknown,#111111,#111111,3,0.489112169418
 'Woody Allen',en,unknown,#111111,#111111,3,0.489034714151
@@ -62,17 +63,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.486625696492
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.486174034869
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.485961672785
 'Salahdine Parnasse',en,unknown,#111111,#111111,3,0.485874754394
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.485584230793
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.485533888432
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.485517334083
 'Tom Cruise',en,unknown,#111111,#111111,3,0.485475073904
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.485216618835
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.484679700983
@@ -106,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.481134735641
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.480968469986
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paddy Pimblett',en,unknown,#111111,#111111,3,0.479828758605
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.479810828250
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479105681367
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.478877661763
 'Prince Philip',en,unknown,#111111,#111111,3,0.478815553888
@@ -141,18 +141,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.476951326291
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.476893283978
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
+'Max Holloway',en,unknown,#111111,#111111,3,0.476602674356
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.476410253167
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.475811071090
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
-'Max Holloway',en,unknown,#111111,#111111,3,0.475233200319
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.474805861063
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.474664734012
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.474612659929
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.474503195310
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.473976811714
 'Earl Spencer',en,unknown,#111111,#111111,3,0.473846615967
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Prince William',en,UK,#e838e8,#e838e8,3,0.473512022441
@@ -349,13 +349,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.444354609469
 'Chris Murphy',en,unknown,#111111,#111111,3,0.444349551524
 'Daniel Craig',en,unknown,#111111,#111111,3,0.444339041335
+'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.444287748750
 'Liveblog USA',en,unknown,#111111,#111111,2,0.444017688675
 'Ro Khanna',en,unknown,#111111,#111111,3,0.443931797103
 'John Cornyn',en,unknown,#111111,#111111,3,0.443913680083
 'Joey Kelly',en,unknown,#111111,#111111,3,0.443848455368
 'Trevor Phillips',en,unknown,#111111,#111111,3,0.443674987699
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.443540513211
-'Khabib Nurmagomedov',en,unknown,#111111,#111111,2,0.443539536060
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Jimmy Fallon',en,unknown,#111111,#111111,3,0.442915612502
 'Henry Cejudo',en,unknown,#111111,#111111,2,0.442761812854
