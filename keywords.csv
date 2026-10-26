@@ -1,11 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sean Strickland',en,unknown,#111111,#111111,3,0.546151182295
+'Piers Morgan',en,unknown,#111111,#111111,2,0.607962207485
+'Nassourdine Imavov',en,unknown,#111111,#111111,2,0.607767094305
+'Loai Abushaar',en,unknown,#111111,#111111,2,0.605555048523
+'Swan Song',en,unknown,#111111,#111111,2,0.604246166840
+'Jorge Masvidal',en,unknown,#111111,#111111,2,0.604125997741
+'Demetrious Johnson',en,unknown,#111111,#111111,2,0.600995747723
+'My Sister',en,unknown,#111111,#111111,2,0.600251672559
+'Sean Strickland',en,unknown,#111111,#111111,3,0.560090580860
+'Katie Zacharia',en,unknown,#111111,#111111,2,0.508929077229
+'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.498106169711
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.497071526340
 'Joshua Van',en,unknown,#111111,#111111,3,0.497068046393
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
 'Todd Blanche',en,unknown,#111111,#111111,3,0.495849199208
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.495706806601
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.495226292857
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.495087626680
@@ -14,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',en,unknown,#111111,#111111,3,0.494771227508
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.494413810821
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
