@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Piers Morgan',en,unknown,#111111,#111111,3,0.571720576362
 'Sean Strickland',en,unknown,#111111,#111111,3,0.562151082755
 'Nassourdine Imavov',en,unknown,#111111,#111111,3,0.548826242432
 'Swan Song',en,unknown,#111111,#111111,3,0.533112616814
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katie Zacharia',en,unknown,#111111,#111111,2,0.508929077229
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
+'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499384426343
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.498353913211
 'Joshua Van',en,unknown,#111111,#111111,3,0.497709887958
@@ -82,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',en,unknown,#111111,#111111,3,0.485533888432
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.485517334083
 'Tom Cruise',en,unknown,#111111,#111111,3,0.485475073904
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485156562521
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
 'Conan O’Brien',en,unknown,#111111,#111111,2,0.483829909340
 'Alexandre Pantoja',en,unknown,#111111,#111111,3,0.483825809098
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.483821305085
 'Francis Ngannou',en,unknown,#111111,#111111,3,0.483772973903
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.483766720153
 'Marine Tondelier',en,unknown,#111111,#111111,2,0.483508883007
@@ -330,13 +330,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed Gallrein',en,unknown,#111111,#111111,3,0.448659510195
 'Sven Schulze',en,unknown,#111111,#111111,3,0.448378188585
 'Ciryl Gane',en,unknown,#111111,#111111,2,0.448293945449
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.448254993496
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.448042575686
 'Ali Larijani',en,unknown,#111111,#111111,3,0.447912264331
 'Steve Witkoff',en,unknown,#111111,#111111,2,0.447842608593
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.447555759359
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.447514608629
 'Isaac Herzog',en,unknown,#111111,#111111,3,0.447282552956
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.446669415263
@@ -684,12 +684,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
 'Cara Delevingne',en,UK,#e838e8,#e838e8,2,0.392515977385
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.392481242101
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.392386027206
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.392081291330
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.392034893288
 'Mark Rutte',en,Niederlande,#6622bb,#6622bb,3,0.391941823970
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
 'Sheryl Crow',en,USA,#18e8e8,#18e8e8,3,0.390757165220
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.390687283905
 'Francis Ford Coppola',en,USA,#18e8e8,#18e8e8,3,0.390419987433
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.390417630194
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.390081873599
