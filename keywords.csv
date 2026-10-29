@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sean Strickland',en,unknown,#111111,#111111,3,0.562151082755
 'Nassourdine Imavov',en,unknown,#111111,#111111,3,0.548826242432
 'Swan Song',en,unknown,#111111,#111111,3,0.533112616814
 'My Sister',en,unknown,#111111,#111111,3,0.528857135312
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.483129819841
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
+'Sean Strickland',en,unknown,#111111,#111111,3,0.482781390342
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.482744265723
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Candace Owens',en,unknown,#111111,#111111,3,0.482342670544
