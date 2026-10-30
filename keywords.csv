@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nassourdine Imavov',en,unknown,#111111,#111111,3,0.548826242432
+'Nassourdine Imavov',en,unknown,#111111,#111111,3,0.535090214704
 'Swan Song',en,unknown,#111111,#111111,3,0.533112616814
 'My Sister',en,unknown,#111111,#111111,3,0.528857135312
 'Loai Abushaar',en,unknown,#111111,#111111,1,0.514722106245
@@ -37,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.492212176000
 'Elie Favrot',en,unknown,#111111,#111111,2,0.492179725153
 'Kaitlan Collins',en,unknown,#111111,#111111,3,0.492073543531
+'Sean Strickland',en,unknown,#111111,#111111,3,0.492045778235
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.491953056077
 'Delcy Rodríguez',en,unknown,#111111,#111111,3,0.491854771914
 'Diane Keaton',en,unknown,#111111,#111111,2,0.491767756973
@@ -101,11 +102,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',en,unknown,#111111,#111111,3,0.483340002952
 'Rosie O’Donnell',en,unknown,#111111,#111111,3,0.483129819841
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
-'Sean Strickland',en,unknown,#111111,#111111,3,0.482781390342
 'Sarah Ferguson',en,unknown,#111111,#111111,3,0.482744265723
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.482501180632
 'Candace Owens',en,unknown,#111111,#111111,3,0.482342670544
 'Brigitte Bardot',en,unknown,#111111,#111111,3,0.482292415593
+'Alex Pereira',en,unknown,#111111,#111111,3,0.482115556148
 'Joe Kent',en,unknown,#111111,#111111,2,0.482104933473
 'Joy Reid',en,unknown,#111111,#111111,3,0.482059189811
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.482042177440
@@ -115,7 +116,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.481642457110
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.481469013153
-'Alex Pereira',en,unknown,#111111,#111111,3,0.481442514575
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
@@ -210,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
+'Charles Oliveira',en,unknown,#111111,#111111,3,0.467276343999
 'Dolly Parton',en,unknown,#111111,#111111,2,0.467256004937
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Larry David',en,unknown,#111111,#111111,3,0.466898537555
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',en,unknown,#111111,#111111,3,0.465383527045
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.465345274292
 'Archie Colgan',en,unknown,#111111,#111111,3,0.465221643785
-'Charles Oliveira',en,unknown,#111111,#111111,3,0.465164193140
 'Jonathan Ross',en,unknown,#111111,#111111,2,0.465081265078
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.465030665021
 'Bruna Ferreira',en,unknown,#111111,#111111,3,0.464519568780
