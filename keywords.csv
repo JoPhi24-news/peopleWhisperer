@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Swan Song',en,unknown,#111111,#111111,3,0.533112616814
 'My Sister',en,unknown,#111111,#111111,3,0.528857135312
 'Loai Abushaar',en,unknown,#111111,#111111,1,0.514722106245
 'Jorge Masvidal',en,unknown,#111111,#111111,1,0.513507488080
@@ -44,12 +43,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Nicole Good',en,unknown,#111111,#111111,2,0.491337007701
 'Corey Lewandowski',en,unknown,#111111,#111111,3,0.491288788094
 'Epstein Files',en,unknown,#111111,#111111,3,0.491273641442
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.491158112436
 'Gable Steveson',en,unknown,#111111,#111111,3,0.491146067218
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
 'Javier Mendez',en,unknown,#111111,#111111,2,0.491019707846
+'Swan Song',en,unknown,#111111,#111111,3,0.490761314292
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
 'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.490621253775
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.490503156690
 'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.490382300233
 'Viktor Orban',en,unknown,#111111,#111111,2,0.490122426706
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,3,0.490058869337
@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Stephen Miller',en,unknown,#111111,#111111,3,0.484482683959
 'Logan Paul',en,unknown,#111111,#111111,3,0.484361207385
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.484152922995
 'Keir Starmer',en,unknown,#111111,#111111,3,0.484054597645
 'Natalie Harp',en,unknown,#111111,#111111,3,0.484033509026
 'Abby Phillip',en,unknown,#111111,#111111,3,0.483856444200
@@ -114,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamieson Greer',en,unknown,#111111,#111111,3,0.481785795221
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Ilia Topuria',en,unknown,#111111,#111111,3,0.481642457110
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.481469013153
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
@@ -158,9 +158,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.474805861063
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.474612659929
+'Earl Spencer',en,unknown,#111111,#111111,3,0.474534797547
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.474503195310
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
-'Earl Spencer',en,unknown,#111111,#111111,3,0.473846615967
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Prince William',en,UK,#e838e8,#e838e8,3,0.473512022441
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
@@ -296,8 +296,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Chris Nanos',en,unknown,#111111,#111111,3,0.454469198708
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
+'Charles Spencer',en,unknown,#111111,#111111,3,0.454303138892
 'Carlos Ulberg',en,unknown,#111111,#111111,3,0.453830564405
-'Charles Spencer',en,unknown,#111111,#111111,3,0.453574718398
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.453561589446
 'Scott Pelley',en,unknown,#111111,#111111,3,0.453543593906
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.453393895690
