@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Loai Abushaar',en,unknown,#111111,#111111,1,0.514722106245
 'Jorge Masvidal',en,unknown,#111111,#111111,1,0.513507488080
 'Katie Zacharia',en,unknown,#111111,#111111,2,0.508929077229
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
@@ -393,6 +392,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.440686711779
 'Monique Barbut',en,unknown,#111111,#111111,2,0.440320911955
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
+'Loai Abushaar',en,unknown,#111111,#111111,1,0.440064045308
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.439865512574
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.439849052094
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.439710492123
