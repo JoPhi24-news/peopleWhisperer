@@ -1,14 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Zacharia',en,unknown,#111111,#111111,3,0.578466011554
+'Katie Zacharia',en,unknown,#111111,#111111,3,0.597976218047
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501404583816
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.499384426343
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.498353913211
 'Joshua Van',en,unknown,#111111,#111111,3,0.497709887958
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
+'Todd Blanche',en,unknown,#111111,#111111,3,0.496493475905
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
-'Todd Blanche',en,unknown,#111111,#111111,3,0.495849199208
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.495706806601
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.495226292857
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.491158112436
 'Gable Steveson',en,unknown,#111111,#111111,3,0.491146067218
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.491099621933
 'Javier Mendez',en,unknown,#111111,#111111,2,0.491019707846
 'Swan Song',en,unknown,#111111,#111111,3,0.490761314292
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Ali Abdelaziz',en,unknown,#111111,#111111,2,0.488942062108
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.488915648455
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.488845029997
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Kamaru Usman',en,unknown,#111111,#111111,3,0.487338058521
 'Mark Ruffalo',en,unknown,#111111,#111111,3,0.487270579616
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.487017452999
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.486862316461
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
@@ -819,6 +819,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',en,Frankreich,#e8e808,#e8e808,1,0.362622979295
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.362580929849
 'Scott Morrison',en,Australien,#99aa33,#99aa33,3,0.362109790162
+'Matt Gaetz',en,unknown,#111111,#111111,3,0.362025890886
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.361951729816
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Robert Badinter',en,unknown,#111111,#111111,1,0.361792365437
@@ -826,7 +827,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.361148900481
-'Matt Gaetz',en,unknown,#111111,#111111,3,0.361121062685
 'Putin',en,Russland,#e81818,#e81818,3,0.360629354509
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.360374737926
 'Robert Menendez',en,unknown,#111111,#111111,2,0.359793031728
