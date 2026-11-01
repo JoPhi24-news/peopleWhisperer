@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Zacharia',en,unknown,#111111,#111111,2,0.508929077229
+'Katie Zacharia',en,unknown,#111111,#111111,3,0.578466011554
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.491158112436
 'Gable Steveson',en,unknown,#111111,#111111,3,0.491146067218
 'Jack Della Maddalena',en,unknown,#111111,#111111,3,0.491114420775
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.491099621933
 'Javier Mendez',en,unknown,#111111,#111111,2,0.491019707846
 'Swan Song',en,unknown,#111111,#111111,3,0.490761314292
 'Mark Twain',en,unknown,#111111,#111111,3,0.490715845452
@@ -68,20 +69,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.487017452999
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
+'Karoline Leavitt',en,unknown,#111111,#111111,3,0.486862316461
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.486174034869
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.486151829623
 'Salahdine Parnasse',en,unknown,#111111,#111111,3,0.485874754394
 'Alex Pretti',en,unknown,#111111,#111111,3,0.485590182211
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.485584230793
-'Karoline Leavitt',en,unknown,#111111,#111111,3,0.485533888432
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.485517334083
 'Tom Cruise',en,unknown,#111111,#111111,3,0.485475073904
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485156562521
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.485050853898
 'Chappell Roan',en,unknown,#111111,#111111,3,0.484949780014
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.484820556779
 'Romy Reiner',en,unknown,#111111,#111111,2,0.484504126457
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -302,6 +302,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Siad',en,unknown,#111111,#111111,2,0.452559345937
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.452429830054
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.452358359172
+'Ilhan Omar',en,unknown,#111111,#111111,3,0.452222188328
 'Movsar Evloev',en,unknown,#111111,#111111,3,0.452157154391
 'Gregory Rodrigues',en,unknown,#111111,#111111,3,0.452143296867
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.452088932290
@@ -310,7 +311,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoav Gallant ',en,unknown,#111111,#111111,3,0.451812493506
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
-'Ilhan Omar',en,unknown,#111111,#111111,3,0.451489647351
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.451478583352
 'Dakota Johnson',en,unknown,#111111,#111111,3,0.451032615273
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.450948807904
@@ -668,6 +668,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Matt Winkelmeyer',en,USA,#18e8e8,#18e8e8,2,0.395444247096
+'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.395406373280
 'Tony Bobulinski',en,USA,#18e8e8,#18e8e8,2,0.395340914463
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.395051113151
 'Harrison Ford',en,USA,#18e8e8,#18e8e8,3,0.394962838174
@@ -678,7 +679,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
 'James Biden',en,USA,#18e8e8,#18e8e8,3,0.394084618023
-'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.393719057321
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.393616819744
 'Narendra Modi',en,Indien,#cc3388,#cc3388,3,0.392859164607
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
