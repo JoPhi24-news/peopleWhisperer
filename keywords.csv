@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Khamzat Chimaev',en,unknown,#111111,#111111,3,0.561127533919
 'Diego Lopes',en,unknown,#111111,#111111,3,0.547684553899
 'Kimberly Guilfoyle',en,unknown,#111111,#111111,3,0.545798496743
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.510154870785
@@ -8,16 +7,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.500657580178
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.500267901333
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.498303741171
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.498943113866
 'Joshua Van',en,unknown,#111111,#111111,3,0.497709887958
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'Todd Blanche',en,unknown,#111111,#111111,3,0.496493475905
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
+'Abu Dhabi',en,unknown,#111111,#111111,3,0.496101958790
 'Joe Rogan',en,unknown,#111111,#111111,3,0.495717396189
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.495706806601
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.495226292857
-'Abu Dhabi',en,unknown,#111111,#111111,3,0.494810546607
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.494801639396
 'Javier Bardem',en,unknown,#111111,#111111,3,0.494771227508
 'Sean Strickland',en,unknown,#111111,#111111,3,0.494645474429
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Anik',en,unknown,#111111,#111111,1,0.486973141527
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
+'Khamzat Chimaev',en,unknown,#111111,#111111,3,0.486455688377
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.486174034869
