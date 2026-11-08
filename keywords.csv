@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kimberly Guilfoyle',en,unknown,#111111,#111111,3,0.548425597232
 'Diego Lopes',en,unknown,#111111,#111111,3,0.521828589305
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.513221091035
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.513830666991
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.500853577377
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.476100979840
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
+'Kimberly Guilfoyle',en,unknown,#111111,#111111,3,0.475658677647
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.475552162968
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.474805861063
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.474612659929
