@@ -1,5 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.513830666991
+'Brendan Allen',en,unknown,#111111,#111111,2,0.608527068190
+'Robert Whittaker',en,unknown,#111111,#111111,2,0.606248387093
+'Dillon Danis',en,unknown,#111111,#111111,2,0.600258542218
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.500853577377
@@ -169,11 +171,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Reiner',en,unknown,#111111,#111111,3,0.473506801099
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.473384542475
 'Penny Green',en,unknown,#111111,#111111,3,0.473146732793
+'Ken Paxton',en,unknown,#111111,#111111,3,0.472799091477
 'Conor McGregor',en,unknown,#111111,#111111,3,0.472665220769
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.472574109579
 'Nicolas Maduro',en,unknown,#111111,#111111,3,0.472491954629
 'Tulsi Gabbard',en,unknown,#111111,#111111,3,0.472227246832
-'Ken Paxton',en,unknown,#111111,#111111,3,0.472107447226
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.471899264127
 'Alexander Yui',en,unknown,#111111,#111111,2,0.471814581916
 'Bill Pulte',en,unknown,#111111,#111111,3,0.471800976230
@@ -318,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.451478583352
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.451153400423
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.451135691033
 'Dakota Johnson',en,unknown,#111111,#111111,3,0.451032615273
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.450948807904
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.450669755662
