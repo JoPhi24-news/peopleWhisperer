@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dillon Danis',en,unknown,#111111,#111111,3,0.604083070885
 'Robert Whittaker',en,unknown,#111111,#111111,2,0.579352533120
 'Brendan Allen',en,unknown,#111111,#111111,3,0.554862772962
-'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.507761356795
+'Dillon Danis',en,unknown,#111111,#111111,3,0.538971420252
+'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.508381834902
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.501537528333
@@ -129,12 +129,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.480253675739
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.480166233077
 'Alexandria Ocasio-Cortez',en,unknown,#111111,#111111,3,0.480023663177
+'Max Holloway',en,unknown,#111111,#111111,3,0.480002549881
 'David Lowery',en,unknown,#111111,#111111,1,0.479944310799
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.479919298952
 'Mother Mary',en,unknown,#111111,#111111,2,0.479879303995
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.479810828250
 'Margaret Brennan',en,unknown,#111111,#111111,3,0.479657026218
-'Max Holloway',en,unknown,#111111,#111111,3,0.479325285839
 'Kevin Spacey',en,unknown,#111111,#111111,3,0.479066381072
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.478877661763
 'Prince Philip',en,unknown,#111111,#111111,3,0.478815553888
@@ -156,6 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
+'Conor McGregor',en,unknown,#111111,#111111,3,0.476104166597
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.476100979840
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
 'Kimberly Guilfoyle',en,unknown,#111111,#111111,3,0.475658677647
@@ -165,7 +166,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Earl Spencer',en,unknown,#111111,#111111,3,0.474534797547
 'Denise Kielholtz',en,unknown,#111111,#111111,2,0.474503195310
 'Bill Cassidy',en,unknown,#111111,#111111,3,0.474467943935
-'Conor McGregor',en,unknown,#111111,#111111,3,0.474044913712
 'Carlos Prates',en,unknown,#111111,#111111,3,0.473880055443
 'Thomas Massie',en,unknown,#111111,#111111,3,0.473532197608
 'Prince William',en,UK,#e838e8,#e838e8,3,0.473512022441
