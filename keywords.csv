@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brendan Allen',en,unknown,#111111,#111111,3,0.554862772962
 'Dillon Danis',en,unknown,#111111,#111111,3,0.538971420252
 'Arman Tsarukyan',en,unknown,#111111,#111111,3,0.508381834902
 'Robert Whittaker',en,unknown,#111111,#111111,2,0.506491132243
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Song Yadong',en,unknown,#111111,#111111,3,0.481667663270
 'Andrew Windsor',en,unknown,#111111,#111111,3,0.481372921419
 'Scott Jennings',en,unknown,#111111,#111111,3,0.481256595049
+'Brendan Allen',en,unknown,#111111,#111111,3,0.481122462018
 'Harry Met Sally',en,unknown,#111111,#111111,3,0.481012758972
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.480932106814
 'Harriet Sperling',en,unknown,#111111,#111111,3,0.480633872529
