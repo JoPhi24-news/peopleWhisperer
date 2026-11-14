@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dana White',en,USA,#18e8e8,#18e8e8,3,0.506565557007
 'Robert Whittaker',en,unknown,#111111,#111111,2,0.506491132243
 'Demetrious Johnson',en,unknown,#111111,#111111,3,0.504409717161
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.503188660939
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.498669338706
+'Joe Rogan',en,unknown,#111111,#111111,3,0.498287840206
 'Joshua Van',en,unknown,#111111,#111111,3,0.497709887958
-'Joe Rogan',en,unknown,#111111,#111111,3,0.497647155671
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'Todd Blanche',en,unknown,#111111,#111111,3,0.496493475905
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
@@ -76,8 +75,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Magomed Ankalaev',en,unknown,#111111,#111111,3,0.487082378071
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.487017452999
 'James Talarico',en,unknown,#111111,#111111,2,0.486951352790
+'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486942597626
 'Steve Bannon',en,unknown,#111111,#111111,3,0.486709120235
-'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.486279207780
 'Jim Himes',en,unknown,#111111,#111111,3,0.486188023248
 'Andrew Mountbatten-Windsor',en,unknown,#111111,#111111,3,0.486174034869
 'Salahdine Parnasse',en,unknown,#111111,#111111,3,0.485874754394
@@ -215,10 +214,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
 'Dillon Danis',en,unknown,#111111,#111111,3,0.467614062214
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
+'Bill Maher',en,unknown,#111111,#111111,3,0.467563939058
 'Dolly Parton',en,unknown,#111111,#111111,2,0.467256004937
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Larry David',en,unknown,#111111,#111111,3,0.466898537555
-'Bill Maher',en,unknown,#111111,#111111,3,0.466861861224
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.466594943606
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
@@ -248,6 +247,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Letterman',en,unknown,#111111,#111111,3,0.463076782360
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462926184168
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.462819245729
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.462812614268
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.462711353023
@@ -306,6 +306,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.453561589446
 'Scott Pelley',en,unknown,#111111,#111111,3,0.453543593906
 'Andrew Mountbatten Windsor',en,unknown,#111111,#111111,2,0.453393895690
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.453331068621
 'Jorge Masvidal',en,unknown,#111111,#111111,1,0.452895323970
 'Daniel Siad',en,unknown,#111111,#111111,2,0.452559345937
 'Rashida Tlaib',en,unknown,#111111,#111111,3,0.452429830054
@@ -320,7 +321,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',en,unknown,#111111,#111111,3,0.451647592113
 'Valentina Shevchenko',en,unknown,#111111,#111111,2,0.451478583352
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.451153400423
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.451135691033
 'Dakota Johnson',en,unknown,#111111,#111111,3,0.451032615273
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.450948807904
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.450669755662
