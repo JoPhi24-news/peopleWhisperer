@@ -1,20 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Islam Makhachev',en,unknown,#111111,#111111,3,0.551839076042
 'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.508891874759
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.501216261809
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
 'Joshua Van',en,unknown,#111111,#111111,3,0.499627728636
+'Carlos Prates',en,unknown,#111111,#111111,3,0.498447119578
 'Joe Rogan',en,unknown,#111111,#111111,3,0.498287840206
-'Carlos Prates',en,unknown,#111111,#111111,3,0.497806753915
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
 'Ian Machado Garry',en,unknown,#111111,#111111,3,0.497379379791
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.497371044193
-'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.496673212489
+'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.497315842901
+'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.496994641204
 'Daniel Cormier',en,unknown,#111111,#111111,2,0.496599188731
 'Todd Blanche',en,unknown,#111111,#111111,3,0.496493475905
 'Philippe Brun',en,unknown,#111111,#111111,2,0.496400140450
-'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.495706806601
 'Kash Patel',en,unknown,#111111,#111111,3,0.495624935477
 'Kendall Jenner',en,unknown,#111111,#111111,3,0.495226292857
 'Ian Garry',en,unknown,#111111,#111111,2,0.495221815643
@@ -23,10 +22,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
+'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.493881802211
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
 'Leslie Wexner',en,unknown,#111111,#111111,3,0.493684192233
 'Christian Bale',en,unknown,#111111,#111111,3,0.493379731078
-'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.493232297637
 'Rob Reiner',en,unknown,#111111,#111111,3,0.493068732681
 'Andy Burnham',en,unknown,#111111,#111111,3,0.493030921332
 'Mark Levin',en,unknown,#111111,#111111,3,0.492509212281
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.488833280251
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
 'Alex Pereira',en,unknown,#111111,#111111,3,0.488112815568
+'Islam Makhachev',en,unknown,#111111,#111111,3,0.487930124636
 'Jon Anik',en,unknown,#111111,#111111,1,0.487635146055
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.487574583720
 'Dricus Du Plessis',en,unknown,#111111,#111111,2,0.487571636490
@@ -148,6 +148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Craig Melvin',en,unknown,#111111,#111111,3,0.477836344127
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.477693943589
 'Susan Collins',en,unknown,#111111,#111111,2,0.477611934955
+'Michael Morales',en,unknown,#111111,#111111,3,0.477452213057
 'Michele Singer',en,unknown,#111111,#111111,3,0.477407338925
 'Spencer Pratt',en,unknown,#111111,#111111,3,0.477389607349
 'Alex Volkanovski',en,unknown,#111111,#111111,3,0.477297409526
@@ -155,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.476893283978
 'Hunter Schafer',en,unknown,#111111,#111111,3,0.476892753530
 'Conor McGregor',en,unknown,#111111,#111111,3,0.476787851137
-'Michael Morales',en,unknown,#111111,#111111,3,0.476769855028
 'Graham Platner',en,unknown,#111111,#111111,3,0.476526124028
 'Nicolás Maduro',en,unknown,#111111,#111111,3,0.476467003011
 'Emmanuel Moulin',en,unknown,#111111,#111111,2,0.475774696344
@@ -223,9 +223,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Will Ferrell',en,unknown,#111111,#111111,3,0.466775847344
 'Markwayne Mullin',en,unknown,#111111,#111111,3,0.466333864023
 'Adam Mockler',en,unknown,#111111,#111111,2,0.466323580249
+'Petr Yan',en,unknown,#111111,#111111,3,0.466270235181
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.465882133089
-'Petr Yan',en,unknown,#111111,#111111,3,0.465565581641
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.465549734674
 'Don Bacon',en,unknown,#111111,#111111,3,0.465460586927
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.465457012237
