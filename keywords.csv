@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.502988058545
 'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.501216261809
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
@@ -298,8 +297,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katie Zacharia',en,unknown,#111111,#111111,3,0.456264795428
 'Péter Magyar',en,unknown,#111111,#111111,3,0.455876710164
 'Rosie ODonnell',en,unknown,#111111,#111111,3,0.455642944963
+'Ciryl Gane',en,unknown,#111111,#111111,2,0.455617128445
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.455512686022
-'Ciryl Gane',en,unknown,#111111,#111111,2,0.454891311815
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.454888623435
 'Mark Consuelos',en,unknown,#111111,#111111,3,0.454585193052
 'Carlos Ulberg',en,unknown,#111111,#111111,3,0.454558479026
@@ -414,6 +413,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.437851140986
 'Katie Couric',en,unknown,#111111,#111111,2,0.437753294414
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
+'Alexander Volkanovski',en,unknown,#111111,#111111,3,0.437032089763
 'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.436746093930
 'George Staines',en,unknown,#111111,#111111,2,0.436743493287
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.436457947329
