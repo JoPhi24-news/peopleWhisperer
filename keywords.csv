@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Maurel',en,unknown,#111111,#111111,2,0.502619227030
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.501216261809
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
 'Joshua Van',en,unknown,#111111,#111111,3,0.499627728636
@@ -483,6 +482,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
 'Sebastian Hille',en,unknown,#111111,#111111,1,0.427270628099
 'Mario Adorf',en,unknown,#111111,#111111,1,0.427238517801
+'Emmanuel Maurel',en,unknown,#111111,#111111,1,0.427226342975
 'Liveblog Ukrainekrieg',en,unknown,#111111,#111111,1,0.427223844529
 'Yannick Jadot',en,unknown,#111111,#111111,1,0.427186771588
 'Sam Levinson',en,unknown,#111111,#111111,2,0.427089912001
