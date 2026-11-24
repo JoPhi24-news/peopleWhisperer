@@ -1,10 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sergei Pavlovich',en,unknown,#111111,#111111,3,0.636257752623
+'Sergei Pavlovich',en,unknown,#111111,#111111,3,0.586679395639
 'Abu Dhabi',en,unknown,#111111,#111111,3,0.525345679917
 'Joshua Van',en,unknown,#111111,#111111,3,0.500264456011
 'Piers Morgan',en,unknown,#111111,#111111,3,0.500006023999
+'Carlos Prates',en,unknown,#111111,#111111,3,0.499724015143
 'Justin Gaethje',en,unknown,#111111,#111111,3,0.499290911822
-'Carlos Prates',en,unknown,#111111,#111111,3,0.499086205805
+'Alex Pereira',en,unknown,#111111,#111111,3,0.499150782425
 'Joe Rogan',en,unknown,#111111,#111111,3,0.498927244671
 'Merab Dvalishvili',en,unknown,#111111,#111111,3,0.498597254481
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.497567021085
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Strickland',en,unknown,#111111,#111111,3,0.494645474429
 'Chris Cuomo',en,unknown,#111111,#111111,3,0.494623456193
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.494438821524
-'Alex Pereira',en,unknown,#111111,#111111,3,0.494003167297
 'Pam Bondi',en,unknown,#111111,#111111,3,0.493948047122
 'Umar Nurmagomedov',en,unknown,#111111,#111111,3,0.493881802211
 'Tom Homan',en,unknown,#111111,#111111,3,0.493854106727
@@ -65,10 +65,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',en,unknown,#111111,#111111,3,0.489016438467
 'Delcy Rodriguez',en,unknown,#111111,#111111,3,0.488915648455
 'Michele Singer Reiner',en,unknown,#111111,#111111,3,0.488832212637
+'Jon Anik',en,unknown,#111111,#111111,1,0.488295828895
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.488235387476
 'Islam Makhachev',en,unknown,#111111,#111111,3,0.487930124636
 'Josh Hokit',en,unknown,#111111,#111111,3,0.487876518896
-'Jon Anik',en,unknown,#111111,#111111,1,0.487635146055
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.487604663132
 'Dricus Du Plessis',en,unknown,#111111,#111111,2,0.487571636490
 'Anthony ',en,Australien,#99aa33,#99aa33,3,0.487477793038
@@ -194,6 +194,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.470114518116
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Michelle Reiner',en,unknown,#111111,#111111,2,0.469882331607
+'Ciryl Gane',en,unknown,#111111,#111111,2,0.469835081321
 'Alejandro González Iñárritu',en,unknown,#111111,#111111,3,0.469824925592
 'Michaela Coel',en,unknown,#111111,#111111,3,0.469717329327
 'John Lennon',en,unknown,#111111,#111111,3,0.469713542748
@@ -211,7 +212,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shavkat Rakhmonov',en,unknown,#111111,#111111,1,0.468698581685
 'Geraldo Rivera',en,unknown,#111111,#111111,1,0.468663132799
 'Tim Walz',en,unknown,#111111,#111111,3,0.468514249737
-'Ciryl Gane',en,unknown,#111111,#111111,2,0.468438584393
 'Charles Kushner',en,unknown,#111111,#111111,3,0.468382021591
 'Dillon Danis',en,unknown,#111111,#111111,3,0.468314644927
 'Elisha Ellison',en,unknown,#111111,#111111,1,0.467702012703
